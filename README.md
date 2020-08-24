@@ -9,6 +9,6 @@
 * Monocular Real-Time Volumetric Performance Capture
 [paper](https://arxiv.org/abs/2007.13988)
 [code](https://github.com/Project-Splinter/MonoPort)
-* https://github.com/crockwell/partial_humans
+* Full-Body Awareness from Partial Observations
 [paper](https://arxiv.org/abs/2008.06046)
 [code](https://github.com/crockwell/partial_humans)
