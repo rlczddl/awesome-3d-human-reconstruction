@@ -12,3 +12,6 @@
 * Full-Body Awareness from Partial Observations
 [paper](https://arxiv.org/abs/2008.06046)
 [code](https://github.com/crockwell/partial_humans)
+* CenterHMR: a Bottom-up Single-shot Method for Multi-person 3D Mesh Recovery from a Single Image
+[paper](https://arxiv.org/pdf/2008.12272.pdf)
+[code](https://github.com/Arthur151/CenterHMR)
