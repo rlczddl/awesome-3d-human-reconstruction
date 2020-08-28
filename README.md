@@ -15,3 +15,6 @@
 * CenterHMR: a Bottom-up Single-shot Method for Multi-person 3D Mesh Recovery from a Single Image
 [paper](https://arxiv.org/pdf/2008.12272.pdf)
 [code](https://github.com/Arthur151/CenterHMR)
+* Reconstructing NBA players
+[paper](https://arxiv.org/pdf/2007.13303.pdf)
+[code](https://github.com/luyangzhu/NBA-Players)
