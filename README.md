@@ -1,3 +1,4 @@
+* 3D human reconstruction
 * Monocular Expressive Body Regression through Body-Driven Attention
 [paper](https://arxiv.org/abs/2008.09062)
 [code](https://github.com/vchoutas/expose)
@@ -18,3 +19,9 @@
 * Reconstructing NBA players
 [paper](https://arxiv.org/pdf/2007.13303.pdf)
 [code](https://github.com/luyangzhu/NBA-Players)
+
+* parametric model
+[paper](STAR: Sparse Trained Articulated Human Body Regressor)
+
+* others
+*[paper](https://arxiv.org/pdf/2009.04592.pdf)
