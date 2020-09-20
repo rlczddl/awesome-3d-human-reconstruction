@@ -19,10 +19,12 @@
 * Reconstructing NBA players
 [paper](https://arxiv.org/pdf/2007.13303.pdf)
 [code](https://github.com/luyangzhu/NBA-Players)
+* Going beyond Free Viewpoint: Creating Animatable Volumetric Video of Human Performances
+[paper](https://arxiv.org/abs/2009.00922)
 
 # parametric model
 * STAR: Sparse Trained Articulated Human Body Regressor
-[paper](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/618 star_paper.pdf)
+[paper](https://arxiv.org/abs/2008.08535)
 [code](https://github.com/ahmedosman/STAR)
 
 # others
