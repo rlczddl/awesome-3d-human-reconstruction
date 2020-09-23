@@ -21,6 +21,9 @@
 [code](https://github.com/luyangzhu/NBA-Players)
 * Going beyond Free Viewpoint: Creating Animatable Volumetric Video of Human Performances
 [paper](https://arxiv.org/abs/2009.00922)
+* Synthetic Training for Accurate 3D Human Pose and Shape Estimation in the Wild
+[paper](https://arxiv.org/pdf/2009.10013.pdf)
+[code](https://github.com/akashsengupta1997/STRAPS-3DHumanShapePose)
 
 # parametric model
 * STAR: Sparse Trained Articulated Human Body Regressor
