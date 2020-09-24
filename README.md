@@ -27,6 +27,7 @@
 * MonoClothCap: Towards Temporally Coherent Clothing Capture from Monocular RGB Video
 [paper](https://arxiv.org/pdf/2009.10711.pdf)
 
+
 # parametric model
 * STAR: Sparse Trained Articulated Human Body Regressor
 [paper](https://arxiv.org/abs/2008.08535)
@@ -35,4 +36,7 @@
 # others
 * Fully Convolutional Graph Neural Networks for Parametric Virtual Try-On
 [paper](https://arxiv.org/pdf/2009.04592.pdf)
+* TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style
+[paper](https://arxiv.org/abs/2003.04583)
+[code](https://github.com/chaitanya100100/TailorNet)
 
