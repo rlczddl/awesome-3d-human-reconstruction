@@ -24,6 +24,8 @@
 * Synthetic Training for Accurate 3D Human Pose and Shape Estimation in the Wild
 [paper](https://arxiv.org/pdf/2009.10013.pdf)
 [code](https://github.com/akashsengupta1997/STRAPS-3DHumanShapePose)
+* MonoClothCap: Towards Temporally Coherent Clothing Capture from Monocular RGB Video
+[paper](https://arxiv.org/pdf/2009.10711.pdf)
 
 # parametric model
 * STAR: Sparse Trained Articulated Human Body Regressor
@@ -33,3 +35,4 @@
 # others
 * Fully Convolutional Graph Neural Networks for Parametric Virtual Try-On
 [paper](https://arxiv.org/pdf/2009.04592.pdf)
+
