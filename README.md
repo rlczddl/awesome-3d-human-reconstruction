@@ -26,6 +26,9 @@
 [code](https://github.com/akashsengupta1997/STRAPS-3DHumanShapePose)
 * MonoClothCap: Towards Temporally Coherent Clothing Capture from Monocular RGB Video
 [paper](https://arxiv.org/pdf/2009.10711.pdf)
+* Multi-View Consistency Loss for Improved Single-Image 3D Reconstruction of Clothed People
+[paper](https://akincaliskan3d.github.io/MV3DH//resources/ACCV_Cam_Ready_Multi_View_3D_Human.pdf)
+[code](https://github.com/akcalakcal/Multi_View_Consistent_Single_Image_3D_Human_Reconstruction)
 
 
 # parametric model
