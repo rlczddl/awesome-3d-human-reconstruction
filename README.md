@@ -4,6 +4,7 @@
 [code](https://github.com/vchoutas/expose)
 * FrankMocap: Fast Monocular 3D Hand and Body Motion Capture by Regression and Integration
 [paper](https://arxiv.org/pdf/2008.08324.pdf)
+[code](https://github.com/facebookresearch/frankmocap)
 * Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose
 [paper](https://arxiv.org/abs/2008.09047)
 [code](https://github.com/hongsukchoi/Pose2Mesh_RELEASE)
@@ -27,8 +28,18 @@
 * MonoClothCap: Towards Temporally Coherent Clothing Capture from Monocular RGB Video
 [paper](https://arxiv.org/pdf/2009.10711.pdf)
 * Multi-View Consistency Loss for Improved Single-Image 3D Reconstruction of Clothed People
+<<<<<<< HEAD
+[paper](https://arxiv.org/abs/2009.14162)
+[code](https://akincaliskan3d.github.io/MV3DH/)
+
+# 3D human hand
+* Active Learning for Bayesian 3D Hand Pose Estimation
+[paper](https://arxiv.org/pdf/2010.00694.pdf)
+[code](https://github.com/razvancaramalau/al_bhpe)
+=======
 [paper](https://akincaliskan3d.github.io/MV3DH//resources/ACCV_Cam_Ready_Multi_View_3D_Human.pdf)
 [code](https://github.com/akcalakcal/Multi_View_Consistent_Single_Image_3D_Human_Reconstruction)
+>>>>>>> 2ff1dbe51bfeaa943e070405761acc7412b04aaf
 
 
 # parametric model
