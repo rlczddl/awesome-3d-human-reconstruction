@@ -41,6 +41,7 @@
 # 3d human face
 * High-Fidelity 3D Digital Human Creation from RGB-D Selfies
 [paper](https://arxiv.org/pdf/2010.05562.pdf)
+[code](https://github.com/tencent-ailab/hifi3dface)
 
 # parametric model
 * STAR: Sparse Trained Articulated Human Body Regressor
