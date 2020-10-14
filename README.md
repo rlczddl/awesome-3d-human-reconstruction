@@ -28,7 +28,6 @@
 * MonoClothCap: Towards Temporally Coherent Clothing Capture from Monocular RGB Video
 [paper](https://arxiv.org/pdf/2009.10711.pdf)
 * Multi-View Consistency Loss for Improved Single-Image 3D Reconstruction of Clothed People
-<<<<<<< HEAD
 [paper](https://arxiv.org/abs/2009.14162)
 [code](https://akincaliskan3d.github.io/MV3DH/)
 
@@ -36,11 +35,12 @@
 * Active Learning for Bayesian 3D Hand Pose Estimation
 [paper](https://arxiv.org/pdf/2010.00694.pdf)
 [code](https://github.com/razvancaramalau/al_bhpe)
-=======
 [paper](https://akincaliskan3d.github.io/MV3DH//resources/ACCV_Cam_Ready_Multi_View_3D_Human.pdf)
 [code](https://github.com/akcalakcal/Multi_View_Consistent_Single_Image_3D_Human_Reconstruction)
->>>>>>> 2ff1dbe51bfeaa943e070405761acc7412b04aaf
 
+# 3d human face
+* High-Fidelity 3D Digital Human Creation from RGB-D Selfies
+[paper](https://arxiv.org/pdf/2010.05562.pdf)
 
 # parametric model
 * STAR: Sparse Trained Articulated Human Body Regressor
