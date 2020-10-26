@@ -48,6 +48,11 @@
 [paper](https://arxiv.org/abs/2008.08535)
 [code](https://github.com/ahmedosman/STAR)
 
+# registration
+* LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration
+[paper](https://virtualhumans.mpi-inf.mpg.de/papers/bhatnagar2020loopreg/bhatnagar2020loopreg.pdf)
+[code](https://github.com/bharat-b7/LoopReg)
+
 # others
 * Fully Convolutional Graph Neural Networks for Parametric Virtual Try-On
 [paper](https://arxiv.org/pdf/2009.04592.pdf)
