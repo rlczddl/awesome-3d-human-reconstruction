@@ -30,6 +30,8 @@
 * Multi-View Consistency Loss for Improved Single-Image 3D Reconstruction of Clothed People
 [paper](https://arxiv.org/abs/2009.14162)
 [code](https://akincaliskan3d.github.io/MV3DH/)
+* Synthetic Training for Monocular Human Mesh Recovery
+[paper](https://arxiv.org/abs/2010.14036)
 
 # 3D human hand
 * Active Learning for Bayesian 3D Hand Pose Estimation
