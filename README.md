@@ -59,4 +59,6 @@
 * TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style
 [paper](https://arxiv.org/abs/2003.04583)
 [code](https://github.com/chaitanya100100/TailorNet)
+* 3DBooSTeR: 3D Body Shape and Texture Recovery
+[paper](https://arxiv.org/pdf/2010.12670.pdf)
 
