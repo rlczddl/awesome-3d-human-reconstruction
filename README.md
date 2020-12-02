@@ -32,6 +32,14 @@
 [code](https://akincaliskan3d.github.io/MV3DH/)
 * Synthetic Training for Monocular Human Mesh Recovery
 [paper](https://arxiv.org/abs/2010.14036)
+* Pose2Pose: 3D Positional Pose-Guided 3D Rotational Pose Prediction for Expressive 3D Human Pose and Mesh Estimation
+[paper](https://arxiv.org/pdf/2011.11534.pdf)
+* Deep Physics-aware Inference of Cloth Deformation for Monocular Human Performance Capture
+* 4D Human Body Capture from Egocentric Video via 3D Scene Grounding
+[paper](https://arxiv.org/abs/2011.13341)
+* HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation
+[paper](https://arxiv.org/pdf/2011.14672.pdf)
+[code](https://github.com/Jeff-sjtu/HybrIK)
 
 # 3D human hand
 * Active Learning for Bayesian 3D Hand Pose Estimation
@@ -44,11 +52,18 @@
 * High-Fidelity 3D Digital Human Creation from RGB-D Selfies
 [paper](https://arxiv.org/pdf/2010.05562.pdf)
 [code](https://github.com/tencent-ailab/hifi3dface)
+* https://arxiv.org/pdf/2011.12893.pdf
+* i3DMM: Deep Implicit 3D Morphable Model of Human Heads
+[paper](https://arxiv.org/pdf/2011.14143v1.pdf)
 
 # parametric model
 * STAR: Sparse Trained Articulated Human Body Regressor
 [paper](https://arxiv.org/abs/2008.08535)
 [code](https://github.com/ahmedosman/STAR)
+
+# pose estimation
+* CanonPose: Self-Supervised Monocular 3D Human Pose Estimation in the Wild
+[paper](https://arxiv.org/pdf/2011.14679.pdf)
 
 # registration
 * LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration
