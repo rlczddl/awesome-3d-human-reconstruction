@@ -40,6 +40,8 @@
 * HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation
 [paper](https://arxiv.org/pdf/2011.14672.pdf)
 [code](https://github.com/Jeff-sjtu/HybrIK)
+* We are More than Our Joints: Predicting how 3D Bodies Move
+[paper](https://arxiv.org/pdf/2012.00619.pdf)
 
 # 3D human hand
 * Active Learning for Bayesian 3D Hand Pose Estimation
