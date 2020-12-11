@@ -42,6 +42,10 @@
 [code](https://github.com/Jeff-sjtu/HybrIK)
 * We are More than Our Joints: Predicting how 3D Bodies Move
 [paper](https://arxiv.org/pdf/2012.00619.pdf)
+* SMPLy Benchmarking 3D Human Pose Estimation in the Wild
+[paper](https://arxiv.org/pdf/2012.02743v1.pdf)
+* Synthesizing Long-Term 3D Human Motion and Interaction in 3D
+[paper](https://jiashunwang.github.io/Long-term-Motion-in-3D-Scenes/)
 
 # 3D human hand
 * Active Learning for Bayesian 3D Hand Pose Estimation
@@ -71,6 +75,8 @@
 * LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration
 [paper](https://virtualhumans.mpi-inf.mpg.de/papers/bhatnagar2020loopreg/bhatnagar2020loopreg.pdf)
 [code](https://github.com/bharat-b7/LoopReg)
+* Neural Deformation Graphs for Globally-consistent Non-rigid Reconstruction
+[paper](https://arxiv.org/pdf/2012.01451.pdf)
 
 # others
 * Fully Convolutional Graph Neural Networks for Parametric Virtual Try-On
@@ -80,4 +86,8 @@
 [code](https://github.com/chaitanya100100/TailorNet)
 * 3DBooSTeR: 3D Body Shape and Texture Recovery
 [paper](https://arxiv.org/pdf/2010.12670.pdf)
+
+# application
+* One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing
+[paper](https://arxiv.org/pdf/2011.15126.pdf)
 
