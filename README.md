@@ -46,13 +46,31 @@
 [paper](https://arxiv.org/pdf/2012.02743v1.pdf)
 * Synthesizing Long-Term 3D Human Motion and Interaction in 3D
 [paper](https://jiashunwang.github.io/Long-term-Motion-in-3D-Scenes/)
+* Detailed 3D Human Body Reconstruction from Multi-view Images Combining Voxel Super-Resolution and Learned Implicit Representation
+* A novel joint points and silhouette-based method to estimate 3D human pose and shape
+* FaceDet3D: Facial Expressions with 3D Geometric Detail Prediction
+[paper](https://arxiv.org/pdf/2012.07999.pdf)
+* NerFACE: Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction
+[code](https://github.com/gafniguy/4D-Facial-Avatars)
+* Learning Complex 3D Human Self-Contact
+[paper](https://arxiv.org/pdf/2012.10366.pdf)
+* Populating 3D Scenes by Learning Human-Scene Interaction
+[paper](https://arxiv.org/pdf/2012.11581.pdf)
+* ANR: Articulated Neural Rendering for Virtual Avatars
+[paper](https://anr-avatars.github.io/)
+* Human Mesh Recovery from Multiple Shots 
+[paper](https://geopavlakos.github.io/multishot/)
+* Lifting 2D StyleGAN for 3D-Aware Face Generation
 
 # 3D human hand
 * Active Learning for Bayesian 3D Hand Pose Estimation
 [paper](https://arxiv.org/pdf/2010.00694.pdf)
 [code](https://github.com/razvancaramalau/al_bhpe)
+
 [paper](https://akincaliskan3d.github.io/MV3DH//resources/ACCV_Cam_Ready_Multi_View_3D_Human.pdf)
 [code](https://github.com/akcalakcal/Multi_View_Consistent_Single_Image_3D_Human_Reconstruction)
+* EventHands: Real-Time Neural 3D Hand Reconstruction from an Event Stream
+* Monocular Real-time Full Body Capture with Inter-part Correlations
 
 # 3d human face
 * High-Fidelity 3D Digital Human Creation from RGB-D Selfies
@@ -61,6 +79,10 @@
 * https://arxiv.org/pdf/2011.12893.pdf
 * i3DMM: Deep Implicit 3D Morphable Model of Human Heads
 [paper](https://arxiv.org/pdf/2011.14143v1.pdf)
+* Relightable 3D Head Portraits from a Smartphone Video
+[paper](https://arxiv.org/pdf/2012.09963.pdf)
+* Learning Compositional Radiance Fields of Dynamic Human Heads
+[paper](https://arxiv.org/pdf/2012.09955.pdf)
 
 # parametric model
 * STAR: Sparse Trained Articulated Human Body Regressor
@@ -77,6 +99,9 @@
 [code](https://github.com/bharat-b7/LoopReg)
 * Neural Deformation Graphs for Globally-consistent Non-rigid Reconstruction
 [paper](https://arxiv.org/pdf/2012.01451.pdf)
+* FARM: Functional Automatic Registration Method for 3D Human Bodies
+[paper](https://arxiv.org/abs/1807.10517)
+[code](https://github.com/riccardomarin/FARM)
 
 # others
 * Fully Convolutional Graph Neural Networks for Parametric Virtual Try-On
@@ -90,4 +115,12 @@
 # application
 * One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing
 [paper](https://arxiv.org/pdf/2011.15126.pdf)
+
+# human mattting
+* Real-Time High-Resolution Background Matting
+[code](https://github.com/PeterL1n/BackgroundMattingV2)
+
+# dataset
+* MAAD-Face: A Massively Annotated Attribute Dataset for Face Images
+[paper](https://github.com/pterhoer/MAAD-Face)
 
