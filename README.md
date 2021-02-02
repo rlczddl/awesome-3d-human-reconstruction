@@ -61,6 +61,7 @@
 * Human Mesh Recovery from Multiple Shots 
 [paper](https://geopavlakos.github.io/multishot/)
 * Lifting 2D StyleGAN for 3D-Aware Face Generation
+[paper](S3: Neural Shape, Skeleton, and Skinning Fields for 3D Human Modeling)
 
 # 3D human hand
 * Active Learning for Bayesian 3D Hand Pose Estimation
@@ -71,6 +72,7 @@
 [code](https://github.com/akcalakcal/Multi_View_Consistent_Single_Image_3D_Human_Reconstruction)
 * EventHands: Real-Time Neural 3D Hand Reconstruction from an Event Stream
 * Monocular Real-time Full Body Capture with Inter-part Correlations
+* Im2Mesh GAN: Accurate 3D Hand Mesh Recovery from a Single RGB Image
 
 # 3d human face
 * High-Fidelity 3D Digital Human Creation from RGB-D Selfies
@@ -123,4 +125,6 @@
 # dataset
 * MAAD-Face: A Massively Annotated Attribute Dataset for Face Images
 [paper](https://github.com/pterhoer/MAAD-Face)
+* NTU60-X: TOWARDS SKELETON-BASED RECOGNITION OF SUBTLE HUMAN ACTIONS
+[code](https://arxiv.org/pdf/2101.11529.pdf)
 
