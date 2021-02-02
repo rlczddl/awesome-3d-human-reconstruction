@@ -67,7 +67,7 @@
 * Active Learning for Bayesian 3D Hand Pose Estimation
 [paper](https://arxiv.org/pdf/2010.00694.pdf)
 [code](https://github.com/razvancaramalau/al_bhpe)
-
+* Multi-View Consistency Loss for Improved Single-Image 3D Reconstruction of Clothed People
 [paper](https://akincaliskan3d.github.io/MV3DH//resources/ACCV_Cam_Ready_Multi_View_3D_Human.pdf)
 [code](https://github.com/akcalakcal/Multi_View_Consistent_Single_Image_3D_Human_Reconstruction)
 * EventHands: Real-Time Neural 3D Hand Reconstruction from an Event Stream
@@ -78,7 +78,8 @@
 * High-Fidelity 3D Digital Human Creation from RGB-D Selfies
 [paper](https://arxiv.org/pdf/2010.05562.pdf)
 [code](https://github.com/tencent-ailab/hifi3dface)
-* https://arxiv.org/pdf/2011.12893.pdf
+* StyleUV: Diverse and High-quality UV Map Generative Model
+[paper](https://arxiv.org/pdf/2011.12893.pdf)
 * i3DMM: Deep Implicit 3D Morphable Model of Human Heads
 [paper](https://arxiv.org/pdf/2011.14143v1.pdf)
 * Relightable 3D Head Portraits from a Smartphone Video
@@ -113,6 +114,8 @@
 [code](https://github.com/chaitanya100100/TailorNet)
 * 3DBooSTeR: 3D Body Shape and Texture Recovery
 [paper](https://arxiv.org/pdf/2010.12670.pdf)
+* Neural 3D Clothes Retargeting from a Single Image
+[paper](https://arxiv.org/pdf/2102.00062v1.pdf)
 
 # application
 * One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing
