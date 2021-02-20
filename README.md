@@ -73,6 +73,9 @@
 * EventHands: Real-Time Neural 3D Hand Reconstruction from an Event Stream
 * Monocular Real-time Full Body Capture with Inter-part Correlations
 * Im2Mesh GAN: Accurate 3D Hand Mesh Recovery from a Single RGB Image
+* HandTailor: Towards High-Precision Monocular 3D Hand Recovery
+[paper](https://arxiv.org/pdf/2102.09244v1.pdf)
+[code](https://github.com/LyuJ1998/HandTailor)
 
 # 3d human face
 * High-Fidelity 3D Digital Human Creation from RGB-D Selfies
