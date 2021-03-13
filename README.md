@@ -62,6 +62,14 @@
 [paper](https://geopavlakos.github.io/multishot/)
 * Lifting 2D StyleGAN for 3D-Aware Face Generation
 [paper](S3: Neural Shape, Skeleton, and Skinning Fields for 3D Human Modeling)
+* Capturing Detailed Deformations of Moving Human Bodies
+[paper](https://arxiv.org/pdf/2102.07343.pdf)
+* 3D Human Pose, Shape and Texture from Low-Resolution Images and Videos
+[paper](https://arxiv.org/pdf/2103.06498v1.pdf)
+* ChallenCap: Monocular 3D Capture of Challenging Human Performances using Multi-Modal References
+[paper](https://arxiv.org/pdf/2103.06747v1.pdf)
+* SMPLicit: Topology-aware Generative Model for Clothed People
+[paper&code](http://www.iri.upc.edu/people/ecorona/smplicit/)
 
 # 3D human hand
 * Active Learning for Bayesian 3D Hand Pose Estimation
@@ -76,6 +84,9 @@
 * HandTailor: Towards High-Precision Monocular 3D Hand Recovery
 [paper](https://arxiv.org/pdf/2102.09244v1.pdf)
 [code](https://github.com/LyuJ1998/HandTailor)
+* Camera-Space Hand Mesh Recovery via Semantic Aggregation and Adaptive 2D-1D Registration
+[paper](https://arxiv.org/pdf/2103.02845v1.pdf)
+[code](https://github.com/SeanChenxy/HandMesh)
 
 # 3d human face
 * High-Fidelity 3D Digital Human Creation from RGB-D Selfies
@@ -98,6 +109,10 @@
 # pose estimation
 * CanonPose: Self-Supervised Monocular 3D Human Pose Estimation in the Wild
 [paper](https://arxiv.org/pdf/2011.14679.pdf)
+* Active Learning for Bayesian 3D Hand Pose Estimation
+[paper](https://arxiv.org/pdf/2010.00694v2.pdf)
+[code](https://github.com/razvancaramalau/al_bhpe)
+* A-NeRF: Surface-free Human 3D Pose Refinement via Neural Rendering
 
 # registration
 * LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration
@@ -133,4 +148,5 @@
 [paper](https://github.com/pterhoer/MAAD-Face)
 * NTU60-X: TOWARDS SKELETON-BASED RECOGNITION OF SUBTLE HUMAN ACTIONS
 [code](https://arxiv.org/pdf/2101.11529.pdf)
-
+* K-Hairstyle: A Large-scale Korean hairstyle dataset for virtual hair editing and hairstyle classification
+[homepage](https://www.arxiv-vanity.com/papers/2102.06288/)
