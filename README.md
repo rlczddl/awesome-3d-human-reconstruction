@@ -70,6 +70,8 @@
 [paper](https://arxiv.org/pdf/2103.06747v1.pdf)
 * SMPLicit: Topology-aware Generative Model for Clothed People
 [paper&code](http://www.iri.upc.edu/people/ecorona/smplicit/)
+* Learning High Fidelity Depths of Dressed Humans by Watching Social Media Dance Videos
+[paper](https://arxiv.org/pdf/2103.03319.pdf)
 
 # 3D human hand
 * Active Learning for Bayesian 3D Hand Pose Estimation
