@@ -116,6 +116,10 @@
 * Pixel Codec Avatars
 [paper](https://arxiv.org/pdf/2104.04638.pdf)
 
+# nerf or pifu
+* StereoPIFu: Depth Aware Clothed Human Digitization via Stereo Vision
+[paper](https://arxiv.org/pdf/2104.05289.pdf)
+
 # parametric model
 * STAR: Sparse Trained Articulated Human Body Regressor
 [paper](https://arxiv.org/abs/2008.08535)
