@@ -72,6 +72,10 @@
 [paper&code](http://www.iri.upc.edu/people/ecorona/smplicit/)
 * Learning High Fidelity Depths of Dressed Humans by Watching Social Media Dance Videos
 [paper](https://arxiv.org/pdf/2103.03319.pdf)
+* NeuralHumanFVV: Real-Time Neural Volumetric Human Performance Rendering using RGB Cameras
+[paper](https://arxiv.org/pdf/2103.07700v1.pdf)
+* Probabilistic 3D Human Shape and Pose Estimation from Multiple Unconstrained Images in the Wild
+[paper](https://arxiv.org/pdf/2103.10978v1.pdf)
 
 # 3D human hand
 * Active Learning for Bayesian 3D Hand Pose Estimation
@@ -89,6 +93,11 @@
 * Camera-Space Hand Mesh Recovery via Semantic Aggregation and Adaptive 2D-1D Registration
 [paper](https://arxiv.org/pdf/2103.02845v1.pdf)
 [code](https://github.com/SeanChenxy/HandMesh)
+* Model-based 3D Hand Reconstruction via Self-Supervised Learning
+[paper](https://arxiv.org/pdf/2103.11703v1.pdf)
+[code](https://github.com/TerenceCYJ/S2HAND)
+* Action-Conditioned 3D Human Motion Synthesis with Transformer VAE
+[paper](https://arxiv.org/pdf/2104.05670.pdf)
 
 # 3d human face
 * High-Fidelity 3D Digital Human Creation from RGB-D Selfies
@@ -102,6 +111,10 @@
 [paper](https://arxiv.org/pdf/2012.09963.pdf)
 * Learning Compositional Radiance Fields of Dynamic Human Heads
 [paper](https://arxiv.org/pdf/2012.09955.pdf)
+
+# 3d human head
+* Pixel Codec Avatars
+[paper](https://arxiv.org/pdf/2104.04638.pdf)
 
 # parametric model
 * STAR: Sparse Trained Articulated Human Body Regressor
@@ -136,6 +149,10 @@
 [paper](https://arxiv.org/pdf/2010.12670.pdf)
 * Neural 3D Clothes Retargeting from a Single Image
 [paper](https://arxiv.org/pdf/2102.00062v1.pdf)
+
+# correspondence
+* HumanGPS: Geodesic PreServing Feature for Dense Human Correspondences
+[paper](https://feitongt.github.io/HumanGPS/paper.pdf)
 
 # application
 * One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing
