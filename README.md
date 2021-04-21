@@ -76,6 +76,19 @@
 [paper](https://arxiv.org/pdf/2103.07700v1.pdf)
 * Probabilistic 3D Human Shape and Pose Estimation from Multiple Unconstrained Images in the Wild
 [paper](https://arxiv.org/pdf/2103.10978v1.pdf)
+* 3DCrowdNet: 2D Human Pose-Guided 3D Crowd Human Pose and Shape Estimation in the Wild
+[paper](https://arxiv.org/pdf/2104.07300v1.pdf)
+* SCALE: Modeling Clothed Humans with a Surface Codec of Articulated Local Elements
+[paper](https://arxiv.org/pdf/2104.07660.pdf)
+* Multi-person Implicit Reconstruction from a Single Image
+[paper](https://arxiv.org/pdf/2104.09283v1.pdf)
+* PARE: Part Attention Regressor for 3D Human Body Estimation
+[paper](https://arxiv.org/pdf/2104.08527v1.pdf)
+[code](https://pare.is.tue.mpg.de/)
+* Temporal Consistency Loss for High Resolution Textured and Clothed 3D Human Reconstruction from Monocular Video
+[paper](https://arxiv.org/pdf/2104.09259.pdf)
+* Function4D: Real-time Human Volumetric Capture from Very Sparse Consumer RGBD Sensors
+[paper](http://www.liuyebin.com/Function4D/Function4D.html)
 
 # 3D human hand
 * Active Learning for Bayesian 3D Hand Pose Estimation
@@ -119,6 +132,8 @@
 # nerf or pifu
 * StereoPIFu: Depth Aware Clothed Human Digitization via Stereo Vision
 [paper](https://arxiv.org/pdf/2104.05289.pdf)
+* Learning Implicit 3D Representations of Dressed Humans from Sparse Views
+[paper](https://arxiv.org/pdf/2104.08013v1.pdf)
 
 # parametric model
 * STAR: Sparse Trained Articulated Human Body Regressor
@@ -142,6 +157,8 @@
 * FARM: Functional Automatic Registration Method for 3D Human Bodies
 [paper](https://arxiv.org/abs/1807.10517)
 [code](https://github.com/riccardomarin/FARM)
+* Locally Aware Piecewise Transformation Fields for 3D Human Mesh Registration
+[paper](https://arxiv.org/pdf/2104.08160v1.pdf)
 
 # others
 * Fully Convolutional Graph Neural Networks for Parametric Virtual Try-On
@@ -173,3 +190,9 @@
 [code](https://arxiv.org/pdf/2101.11529.pdf)
 * K-Hairstyle: A Large-scale Korean hairstyle dataset for virtual hair editing and hairstyle classification
 [homepage](https://www.arxiv-vanity.com/papers/2102.06288/)
+
+# labs
+* max planck institute
+[website](https://ps.is.tuebingen.mpg.de/publications)
+* Yebin Liu
+[website](http://www.liuyebin.com/)
