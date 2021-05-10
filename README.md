@@ -1,3 +1,14 @@
+# nerf or pifu
+* StereoPIFu: Depth Aware Clothed Human Digitization via Stereo Vision
+[paper](https://arxiv.org/pdf/2104.05289.pdf)
+* Learning Implicit 3D Representations of Dressed Humans from Sparse Views
+[paper](https://arxiv.org/pdf/2104.08013v1.pdf)
+* Animatable Neural Radiance Fields for Human Body Modeling
+[paper](https://arxiv.org/pdf/2105.02872.pdf)
+* PaMIR: Parametric Model-Conditioned Implicit Representation for Image-based Human Reconstruction
+[paper](https://arxiv.org/pdf/2007.03858.pdf)
+[code](https://github.com/ZhengZerong/PaMIR)
+
 # 3D human reconstruction
 * Monocular Expressive Body Regression through Body-Driven Attention
 [paper](https://arxiv.org/abs/2008.09062)
@@ -129,12 +140,6 @@
 * Pixel Codec Avatars
 [paper](https://arxiv.org/pdf/2104.04638.pdf)
 
-# nerf or pifu
-* StereoPIFu: Depth Aware Clothed Human Digitization via Stereo Vision
-[paper](https://arxiv.org/pdf/2104.05289.pdf)
-* Learning Implicit 3D Representations of Dressed Humans from Sparse Views
-[paper](https://arxiv.org/pdf/2104.08013v1.pdf)
-
 # parametric model
 * STAR: Sparse Trained Articulated Human Body Regressor
 [paper](https://arxiv.org/abs/2008.08535)
@@ -147,6 +152,8 @@
 [paper](https://arxiv.org/pdf/2010.00694v2.pdf)
 [code](https://github.com/razvancaramalau/al_bhpe)
 * A-NeRF: Surface-free Human 3D Pose Refinement via Neural Rendering
+* HandsFormer: Keypoint Transformer for Monocular 3D Pose Estimation of Hands and Object in Interaction
+[paper](https://arxiv.org/pdf/2104.14639v1.pdf)
 
 # registration
 * LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration
