@@ -9,6 +9,10 @@
 [paper](https://arxiv.org/pdf/2007.03858.pdf)
 [code](https://github.com/ZhengZerong/PaMIR)
 
+# 3D human whole body
+* Collaborative Regression of Expressive Bodies using Moderation
+[paper&code](https://pixie.is.tue.mpg.de/)
+
 # 3D human reconstruction
 * Monocular Expressive Body Regression through Body-Driven Attention
 [paper](https://arxiv.org/abs/2008.09062)
@@ -154,6 +158,8 @@
 * A-NeRF: Surface-free Human 3D Pose Refinement via Neural Rendering
 * HandsFormer: Keypoint Transformer for Monocular 3D Pose Estimation of Hands and Object in Interaction
 [paper](https://arxiv.org/pdf/2104.14639v1.pdf)
+* HuMoR: 3D Human Motion Model for Robust Pose Estimation
+[paper](https://geometry.stanford.edu/projects/humor/)
 
 # registration
 * LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration
