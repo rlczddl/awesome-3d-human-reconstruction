@@ -160,6 +160,8 @@
 [paper](https://arxiv.org/pdf/2104.14639v1.pdf)
 * HuMoR: 3D Human Motion Model for Robust Pose Estimation
 [paper](https://geometry.stanford.edu/projects/humor/)
+* Multi-Person Extreme Motion Prediction with Cross-Interaction Attention
+[paper](https://arxiv.org/abs/2105.08825)
 
 # registration
 * LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration
