@@ -8,10 +8,20 @@
 * PaMIR: Parametric Model-Conditioned Implicit Representation for Image-based Human Reconstruction
 [paper](https://arxiv.org/pdf/2007.03858.pdf)
 [code](https://github.com/ZhengZerong/PaMIR)
+* Neural Actor: Neural Free-view Synthesis of Human Actors with Pose Control
+[paper&code](http://gvv.mpi-inf.mpg.de/projects/NeuralActor/)
+* MoCo-Flow: Neural Motion Consensus Flow for Dynamic Humans in Stationary Monocular Cameras
+[paper](https://arxiv.org/pdf/2106.04477v1.pdf)
+* DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Rendering
+[paper](https://arxiv.org/pdf/2106.03798.pdf)
 
 # 3D human whole body
 * Collaborative Regression of Expressive Bodies using Moderation
 [paper&code](https://pixie.is.tue.mpg.de/)
+* Monocular Real-time Full Body Capture with Inter-part Correlations
+[paper&code](https://calciferzh.github.io/publications/zhou2021monocular)
+* Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data
+[paper&code](https://calciferzh.github.io/publications/zhou2020monocular)
 
 # 3D human reconstruction
 * Monocular Expressive Body Regression through Body-Driven Attention
@@ -104,6 +114,12 @@
 [paper](https://arxiv.org/pdf/2104.09259.pdf)
 * Function4D: Real-time Human Volumetric Capture from Very Sparse Consumer RGBD Sensors
 [paper](http://www.liuyebin.com/Function4D/Function4D.html)
+* End-to-End Human Pose and Mesh Reconstruction with Transformers
+[paper](https://github.com/microsoft/MeshTransformer)
+* Revitalizing Optimization for 3D Human Pose and Shape Estimation: A Sparse Constrained Formulation
+[paper](https://arxiv.org/pdf/2105.13965v1.pdf)
+* SHARP: Shape-Aware Reconstruction of People In Loose Clothing
+[paper](https://arxiv.org/pdf/2106.04778v1.pdf)
 
 # 3D human hand
 * Active Learning for Bayesian 3D Hand Pose Estimation
@@ -126,6 +142,8 @@
 [code](https://github.com/TerenceCYJ/S2HAND)
 * Action-Conditioned 3D Human Motion Synthesis with Transformer VAE
 [paper](https://arxiv.org/pdf/2104.05670.pdf)
+* Semi-Supervised 3D Hand-Object Poses Estimation with Interactions in Time
+[paper](https://arxiv.org/pdf/2106.05266v1.pdf)
 
 # 3d human face
 * High-Fidelity 3D Digital Human Creation from RGB-D Selfies
@@ -148,6 +166,10 @@
 * STAR: Sparse Trained Articulated Human Body Regressor
 [paper](https://arxiv.org/abs/2008.08535)
 [code](https://github.com/ahmedosman/STAR)
+
+# skin
+* HeterSkinNet: A Heterogeneous Network for Skin Weights Prediction
+[paper](https://arxiv.org/pdf/2103.10602.pdf)
 
 # pose estimation
 * CanonPose: Self-Supervised Monocular 3D Human Pose Estimation in the Wild
@@ -193,6 +215,8 @@
 # application
 * One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing
 [paper](https://arxiv.org/pdf/2011.15126.pdf)
+* LipSync3D: Data-Efficient Learning of Personalized 3D Talking Faces from Video using Pose and Lighting Normalization
+[paper](https://arxiv.org/pdf/2106.04185v1.pdf)
 
 # human mattting
 * Real-Time High-Resolution Background Matting
@@ -205,6 +229,8 @@
 [code](https://arxiv.org/pdf/2101.11529.pdf)
 * K-Hairstyle: A Large-scale Korean hairstyle dataset for virtual hair editing and hairstyle classification
 [homepage](https://www.arxiv-vanity.com/papers/2102.06288/)
+* AGORA: Avatars in Geography Optimized for Regression Analysis
+[homepage]((https://agora.is.tue.mpg.de/)
 
 # labs
 * max planck institute
