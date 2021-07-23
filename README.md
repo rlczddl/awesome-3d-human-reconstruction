@@ -14,6 +14,14 @@
 [paper](https://arxiv.org/pdf/2106.04477v1.pdf)
 * DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Rendering
 [paper](https://arxiv.org/pdf/2106.03798.pdf)
+* Bridge the Gap Between Model-based and Model-free Human Reconstruction
+[paper](https://arxiv.org/pdf/2106.06415v1.pdf)
+* MetaAvatar: Learning Animatable Clothed Human Models from Few Depth Images
+[paper](https://arxiv.org/pdf/2106.11944v1.pdf)
+* Animatable Neural Radiance Fields from Monocular RGB Video
+[paper](https://arxiv.org/pdf/2106.13629v1.pdf)
+* Few-shot Neural Human Performance Rendering from Sparse RGBD Videos
+[paper](https://arxiv.org/pdf/2107.06505v1.pdf)
 
 # 3D human whole body
 * Collaborative Regression of Expressive Bodies using Moderation
@@ -22,6 +30,9 @@
 [paper&code](https://calciferzh.github.io/publications/zhou2021monocular)
 * Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data
 [paper&code](https://calciferzh.github.io/publications/zhou2020monocular)
+* Real-time RGBD-based Extended Body Pose Estimation
+[paper](https://arxiv.org/pdf/2103.03663.pdf)
+[code](https://github.com/rmbashirov/rgbd-kinect-pose)
 
 # 3D human reconstruction
 * Monocular Expressive Body Regression through Body-Driven Attention
@@ -120,6 +131,10 @@
 [paper](https://arxiv.org/pdf/2105.13965v1.pdf)
 * SHARP: Shape-Aware Reconstruction of People In Loose Clothing
 [paper](https://arxiv.org/pdf/2106.04778v1.pdf)
+* THUNDR: Transformer-based 3D HUmaN Reconstruction with Markers
+[paper](https://arxiv.org/pdf/2106.09336v1.pdf)
+* Deep3DPose: Realtime Reconstruction of Arbitrarily Posed Human Bodies from Single RGB Images
+[paper](https://arxiv.org/pdf/2106.11536v1.pdf)
 
 # 3D human hand
 * Active Learning for Bayesian 3D Hand Pose Estimation
@@ -144,6 +159,8 @@
 [paper](https://arxiv.org/pdf/2104.05670.pdf)
 * Semi-Supervised 3D Hand-Object Poses Estimation with Interactions in Time
 [paper](https://arxiv.org/pdf/2106.05266v1.pdf)
+* RGB2Hands: Real-Time Tracking of 3D Hand Interactions from Monocular RGB Video
+[paper](https://arxiv.org/pdf/2106.11589v1.pdf)
 
 # 3d human face
 * High-Fidelity 3D Digital Human Creation from RGB-D Selfies
@@ -196,6 +213,8 @@
 [code](https://github.com/riccardomarin/FARM)
 * Locally Aware Piecewise Transformation Fields for 3D Human Mesh Registration
 [paper](https://arxiv.org/pdf/2104.08160v1.pdf)
+* Unsupervised 3D Human Mesh Recovery from Noisy Point Clouds
+[paper](https://arxiv.org/pdf/2107.07539v1.pdf)
 
 # others
 * Fully Convolutional Graph Neural Networks for Parametric Virtual Try-On
