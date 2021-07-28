@@ -135,6 +135,8 @@
 [paper](https://arxiv.org/pdf/2106.09336v1.pdf)
 * Deep3DPose: Realtime Reconstruction of Arbitrarily Posed Human Bodies from Single RGB Images
 [paper](https://arxiv.org/pdf/2106.11536v1.pdf)
+* Learning Local Recurrent Models for Human Mesh Recovery
+[paper](https://arxiv.org/pdf/2107.12847v1.pdf)
 
 # 3D human hand
 * Active Learning for Bayesian 3D Hand Pose Estimation
@@ -178,6 +180,8 @@
 # 3d human head
 * Pixel Codec Avatars
 [paper](https://arxiv.org/pdf/2104.04638.pdf)
+* H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction
+[paper](https://arxiv.org/pdf/2107.12512v1.pdf)
 
 # parametric model
 * STAR: Sparse Trained Articulated Human Body Regressor
