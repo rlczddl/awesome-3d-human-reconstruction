@@ -1,3 +1,4 @@
+# welcome issues
 # nerf or pifu
 * StereoPIFu: Depth Aware Clothed Human Digitization via Stereo Vision
 [paper](https://arxiv.org/pdf/2104.05289.pdf)
