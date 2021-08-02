@@ -23,6 +23,8 @@
 [paper](https://arxiv.org/pdf/2106.13629v1.pdf)
 * Few-shot Neural Human Performance Rendering from Sparse RGBD Videos
 [paper](https://arxiv.org/pdf/2107.06505v1.pdf)
+* Relightable Neural Video Portrait
+[paper](https://arxiv.org/pdf/2107.14735v1.pdf)
 
 # 3D human whole body
 * Collaborative Regression of Expressive Bodies using Moderation
