@@ -140,6 +140,10 @@
 [paper](https://arxiv.org/pdf/2106.11536v1.pdf)
 * Learning Local Recurrent Models for Human Mesh Recovery
 [paper](https://arxiv.org/pdf/2107.12847v1.pdf)
+* PoseFusion2: Simultaneous Background Reconstruction and Human Shape Recovery in Real-time
+[paper](https://arxiv.org/pdf/2108.00695v1.pdf)
+* LASOR: Learning Accurate 3D Human Pose and Shape Via Synthetic Occlusion-Aware Data and Neural Mesh Rendering
+[paper](https://arxiv.org/pdf/2108.00351v1.pdf)
 
 # 3D human hand
 * Active Learning for Bayesian 3D Hand Pose Estimation
@@ -208,6 +212,7 @@
 [paper](https://geometry.stanford.edu/projects/humor/)
 * Multi-Person Extreme Motion Prediction with Cross-Interaction Attention
 [paper](https://arxiv.org/abs/2105.08825)
+
 
 # registration
 * LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration
