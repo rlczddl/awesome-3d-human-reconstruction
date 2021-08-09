@@ -212,7 +212,8 @@
 [paper](https://geometry.stanford.edu/projects/humor/)
 * Multi-Person Extreme Motion Prediction with Cross-Interaction Attention
 [paper](https://arxiv.org/abs/2105.08825)
-
+* VoxelTrack: Multi-Person 3D Human Pose Estimation and Tracking in the Wild
+[paper](https://arxiv.org/pdf/2108.02452v1.pdf)
 
 # registration
 * LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration
@@ -238,6 +239,8 @@
 [paper](https://arxiv.org/pdf/2010.12670.pdf)
 * Neural 3D Clothes Retargeting from a Single Image
 [paper](https://arxiv.org/pdf/2102.00062v1.pdf)
+* Single-image Full-body Human Relighting
+[paper](https://arxiv.org/pdf/2107.07259.pdf)
 
 # correspondence
 * HumanGPS: Geodesic PreServing Feature for Dense Human Correspondences
