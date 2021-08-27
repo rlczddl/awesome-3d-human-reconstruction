@@ -25,6 +25,12 @@
 [paper](https://arxiv.org/pdf/2107.06505v1.pdf)
 * Relightable Neural Video Portrait
 [paper](https://arxiv.org/pdf/2107.14735v1.pdf)
+* FLAME-in-NeRF : Neural control of Radiance Fields for Free View Face Animation
+[paper](https://arxiv.org/pdf/2108.04913v1.pdf)
+* ARCH++: Animation-Ready Clothed Human Reconstruction Revisited
+[paper](https://arxiv.org/pdf/2108.07845.pdf)
+* Neural-GIF: Neural Generalized Implicit Functions for Animating People in Clothing
+[paper](https://virtualhumans.mpi-inf.mpg.de/neuralgif/)
 
 # 3D human whole body
 * Collaborative Regression of Expressive Bodies using Moderation
@@ -36,6 +42,10 @@
 * Real-time RGBD-based Extended Body Pose Estimation
 [paper](https://arxiv.org/pdf/2103.03663.pdf)
 [code](https://github.com/rmbashirov/rgbd-kinect-pose)
+* Detailed Avatar Recovery from Single Image
+[paper](https://arxiv.org/pdf/2108.02931v1.pdf)
+* Lightweight Multi-person Total Motion Capture Using Sparse Multi-view Cameras
+[paper](https://arxiv.org/pdf/2108.10378v1.pdf)
 
 # 3D human reconstruction
 * Monocular Expressive Body Regression through Body-Driven Attention
@@ -144,6 +154,12 @@
 [paper](https://arxiv.org/pdf/2108.00695v1.pdf)
 * LASOR: Learning Accurate 3D Human Pose and Shape Via Synthetic Occlusion-Aware Data and Neural Mesh Rendering
 [paper](https://arxiv.org/pdf/2108.00351v1.pdf)
+* Learning Motion Priors for 4D Human Body Capture in 3D Scenes
+[paper](https://arxiv.org/pdf/2108.10399v1.pdf)
+[code](https://github.com/sanweiliti/LEMO)
+* Probabilistic Modeling for Human Mesh Recovery
+[paper&code](https://www.seas.upenn.edu/~nkolot/projects/prohmr/)
+
 
 # 3D human hand
 * Active Learning for Bayesian 3D Hand Pose Estimation
@@ -183,12 +199,18 @@
 [paper](https://arxiv.org/pdf/2012.09963.pdf)
 * Learning Compositional Radiance Fields of Dynamic Human Heads
 [paper](https://arxiv.org/pdf/2012.09955.pdf)
+* SIDER : Single-Image Neural Optimization for Facial Geometric Detail Recovery
+[paper](https://arxiv.org/pdf/2108.05465v1.pdf)
 
 # 3d human head
 * Pixel Codec Avatars
 [paper](https://arxiv.org/pdf/2104.04638.pdf)
 * H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction
 [paper](https://arxiv.org/pdf/2107.12512v1.pdf)
+
+# texture 
+* Spatiotemporal Texture Reconstruction for Dynamic Objects Using a Single RGB-D Camera
+[paper](https://arxiv.org/pdf/2108.09007v1.pdf)
 
 # parametric model
 * STAR: Sparse Trained Articulated Human Body Regressor
@@ -214,6 +236,8 @@
 [paper](https://arxiv.org/abs/2105.08825)
 * VoxelTrack: Multi-Person 3D Human Pose Estimation and Tracking in the Wild
 [paper](https://arxiv.org/pdf/2108.02452v1.pdf)
+* Gravity-Aware Monocular 3D Human-Object Reconstruction
+[paper&code](http://4dqv.mpi-inf.mpg.de/GraviCap/)
 
 # registration
 * LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration
@@ -241,6 +265,10 @@
 [paper](https://arxiv.org/pdf/2102.00062v1.pdf)
 * Single-image Full-body Human Relighting
 [paper](https://arxiv.org/pdf/2107.07259.pdf)
+* iButter: Neural Interactive Bullet Time Generator for Human Free-viewpoint Rendering
+[paper](https://arxiv.org/pdf/2108.05577.pdf)
+* A Riemannian Framework for Analysis of Human Body Surface
+[paper](https://arxiv.org/pdf/2108.11449v1.pdf)
 
 # correspondence
 * HumanGPS: Geodesic PreServing Feature for Dense Human Correspondences
@@ -251,10 +279,14 @@
 [paper](https://arxiv.org/pdf/2011.15126.pdf)
 * LipSync3D: Data-Efficient Learning of Personalized 3D Talking Faces from Video using Pose and Lighting Normalization
 [paper](https://arxiv.org/pdf/2106.04185v1.pdf)
+* ARShoe: Real-Time Augmented Reality Shoe Try-on System on Smartphones
+[paper](https://arxiv.org/pdf/2108.10515v1.pdf)
 
 # human mattting
 * Real-Time High-Resolution Background Matting
 [code](https://github.com/PeterL1n/BackgroundMattingV2)
+* Real-Time Monocular Human Depth Estimation and Segmentation on Embedded Systems
+[paper](https://arxiv.org/pdf/2108.10506v1.pdf)
 
 # dataset
 * MAAD-Face: A Massively Annotated Attribute Dataset for Face Images
