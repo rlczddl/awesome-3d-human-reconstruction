@@ -159,7 +159,8 @@
 [code](https://github.com/sanweiliti/LEMO)
 * Probabilistic Modeling for Human Mesh Recovery
 [paper&code](https://www.seas.upenn.edu/~nkolot/projects/prohmr/)
-
+* DC-GNet: Deep Mesh Relation Capturing Graph Convolution Network for 3D Human Shape Reconstruction
+[paper](https://arxiv.org/pdf/2108.12384v1.pdf)
 
 # 3D human hand
 * Active Learning for Bayesian 3D Hand Pose Estimation
@@ -238,6 +239,8 @@
 [paper](https://arxiv.org/pdf/2108.02452v1.pdf)
 * Gravity-Aware Monocular 3D Human-Object Reconstruction
 [paper&code](http://4dqv.mpi-inf.mpg.de/GraviCap/)
+* DensePose 3D: Lifting Canonical Surface Maps of Articulated Objects to the Third Dimension
+[paper](https://arxiv.org/pdf/2109.00033v1.pdf)
 
 # registration
 * LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration
