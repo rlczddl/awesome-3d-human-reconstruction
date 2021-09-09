@@ -161,6 +161,11 @@
 [paper&code](https://www.seas.upenn.edu/~nkolot/projects/prohmr/)
 * DC-GNet: Deep Mesh Relation Capturing Graph Convolution Network for 3D Human Shape Reconstruction
 [paper](https://arxiv.org/pdf/2108.12384v1.pdf)
+* Encoder-decoder with Multi-level Attention for 3D Human Shape and Pose Estimation
+[paper](https://arxiv.org/pdf/2109.02303v1.pdf)
+[code](https://github.com/ziniuwan/maed)
+* 
+[code](https://github.com/Mathux/ACTOR)
 
 # 3D human hand
 * Active Learning for Bayesian 3D Hand Pose Estimation
@@ -272,6 +277,12 @@
 [paper](https://arxiv.org/pdf/2108.05577.pdf)
 * A Riemannian Framework for Analysis of Human Body Surface
 [paper](https://arxiv.org/pdf/2108.11449v1.pdf)
+* The Power of Points for Modeling Humans in Clothing
+[paper&code](https://qianlim.github.io/POP.html)
+* Neural Human Deformation Transfer
+[paper](https://arxiv.org/pdf/2109.01588v1.pdf)
+* 3D Human Texture Estimation from a Single Image with Transformers
+[paper](https://arxiv.org/pdf/2109.02563v1.pdf)
 
 # correspondence
 * HumanGPS: Geodesic PreServing Feature for Dense Human Correspondences
@@ -299,7 +310,7 @@
 * K-Hairstyle: A Large-scale Korean hairstyle dataset for virtual hair editing and hairstyle classification
 [homepage](https://www.arxiv-vanity.com/papers/2102.06288/)
 * AGORA: Avatars in Geography Optimized for Regression Analysis
-[homepage]((https://agora.is.tue.mpg.de/)
+[homepage](https://agora.is.tue.mpg.de/)
 
 # labs
 * max planck institute
