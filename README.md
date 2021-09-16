@@ -31,6 +31,9 @@
 [paper](https://arxiv.org/pdf/2108.07845.pdf)
 * Neural-GIF: Neural Generalized Implicit Functions for Animating People in Clothing
 [paper](https://virtualhumans.mpi-inf.mpg.de/neuralgif/)
+* Neural Human Performer: Learning Generalizable Radiance Fields for Human Performance Rendering
+[paper](https://arxiv.org/pdf/2109.07448v1.pdf)
+[code](https://youngjoongunc.github.io/nhp/)
 
 # 3D human whole body
 * Collaborative Regression of Expressive Bodies using Moderation
@@ -192,6 +195,9 @@
 [paper](https://arxiv.org/pdf/2106.05266v1.pdf)
 * RGB2Hands: Real-Time Tracking of 3D Hand Interactions from Monocular RGB Video
 [paper](https://arxiv.org/pdf/2106.11589v1.pdf)
+* ArtiBoost: Boosting Articulated 3D Hand-Object Pose Estimation via Online Exploration and Synthesis
+[paper](https://arxiv.org/pdf/2109.05488v1.pdf)
+[code](https://github.com/MVIG-SJTU/ArtiBoost)
 
 # 3d human face
 * High-Fidelity 3D Digital Human Creation from RGB-D Selfies
@@ -246,6 +252,10 @@
 [paper&code](http://4dqv.mpi-inf.mpg.de/GraviCap/)
 * DensePose 3D: Lifting Canonical Surface Maps of Articulated Objects to the Third Dimension
 [paper](https://arxiv.org/pdf/2109.00033v1.pdf)
+* Graph-Based 3D Multi-Person Pose Estimation Using Multi-View Images
+[paper](https://arxiv.org/pdf/2109.05885v1.pdf)
+* Learning Dynamical Human-Joint Affinity for 3D Pose Estimation in Videos
+[paper](https://arxiv.org/pdf/2109.07353v1.pdf)
 
 # registration
 * LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration
@@ -283,6 +293,10 @@
 [paper](https://arxiv.org/pdf/2109.01588v1.pdf)
 * 3D Human Texture Estimation from a Single Image with Transformers
 [paper](https://arxiv.org/pdf/2109.02563v1.pdf)
+* Learning to Predict Diverse Human Motions from a Single Image via Mixture Density Networks
+[paper](https://arxiv.org/pdf/2109.05776v1.pdf)
+* ZFlow: Gated Appearance Flow-based Virtual Try-on with 3D Priors
+[paper](https://arxiv.org/pdf/2109.07001v1.pdf)
 
 # correspondence
 * HumanGPS: Geodesic PreServing Feature for Dense Human Correspondences
