@@ -1,4 +1,3 @@
-# welcome issues
 # nerf or pifu
 * StereoPIFu: Depth Aware Clothed Human Digitization via Stereo Vision
 [paper](https://arxiv.org/pdf/2104.05289.pdf)
@@ -34,6 +33,8 @@
 * Neural Human Performer: Learning Generalizable Radiance Fields for Human Performance Rendering
 [paper](https://arxiv.org/pdf/2109.07448v1.pdf)
 [code](https://youngjoongunc.github.io/nhp/)
+* Topologically Consistent Multi-View Face Inference Using Volumetric Sampling
+[paper](https://arxiv.org/pdf/2110.02948.pdf)
 
 # 3D human whole body
 * Collaborative Regression of Expressive Bodies using Moderation
@@ -169,6 +170,8 @@
 [code](https://github.com/ziniuwan/maed)
 * 
 [code](https://github.com/Mathux/ACTOR)
+* Learning to Regress Bodies from Images using Differentiable Semantic Rendering
+[paper](https://arxiv.org/pdf/2110.03480v1.pdf)
 
 # 3D human hand
 * Active Learning for Bayesian 3D Hand Pose Estimation
@@ -223,6 +226,8 @@
 # texture 
 * Spatiotemporal Texture Reconstruction for Dynamic Objects Using a Single RGB-D Camera
 [paper](https://arxiv.org/pdf/2108.09007v1.pdf)
+* Semi-supervised Synthesis of High-Resolution Editable Textures for 3D Humans
+[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chaudhuri_Semi-Supervised_Synthesis_of_High-Resolution_Editable_Textures_for_3D_Humans_CVPR_2021_paper.pdf)
 
 # parametric model
 * STAR: Sparse Trained Articulated Human Body Regressor
@@ -256,6 +261,8 @@
 [paper](https://arxiv.org/pdf/2109.05885v1.pdf)
 * Learning Dynamical Human-Joint Affinity for 3D Pose Estimation in Videos
 [paper](https://arxiv.org/pdf/2109.07353v1.pdf)
+* Physics-based Human Motion Estimation and Synthesis from Videos
+[paper](https://arxiv.org/pdf/2109.09913.pdf)
 
 # registration
 * LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration
@@ -309,12 +316,19 @@
 [paper](https://arxiv.org/pdf/2106.04185v1.pdf)
 * ARShoe: Real-Time Augmented Reality Shoe Try-on System on Smartphones
 [paper](https://arxiv.org/pdf/2108.10515v1.pdf)
+* A Neural Anthropometer Learning from Body Dimensions Computed on Human 3D Meshes
+[paper](https://arxiv.org/pdf/2110.04064v1.pdf)
 
 # human mattting
 * Real-Time High-Resolution Background Matting
 [code](https://github.com/PeterL1n/BackgroundMattingV2)
 * Real-Time Monocular Human Depth Estimation and Segmentation on Embedded Systems
 [paper](https://arxiv.org/pdf/2108.10506v1.pdf)
+
+# mobile
+* Mobile3DScanner: An Online 3D Scanner for High-quality Object Reconstruction with a Mobile Device
+[paper](http://www.cad.zju.edu.cn/home/gfzhang//papers/mobile3dscanner/mobile3dscanner_ismar2021.pdf)
+[project](https://zju3dv.github.io/mobile3dscanner.github.io/)
 
 # dataset
 * MAAD-Face: A Massively Annotated Attribute Dataset for Face Images
@@ -331,3 +345,5 @@
 [website](https://ps.is.tuebingen.mpg.de/publications)
 * Yebin Liu
 [website](http://www.liuyebin.com/)
+* ZJU3DV
+[github](https://github.com/zju3dv)
