@@ -35,6 +35,8 @@
 [code](https://youngjoongunc.github.io/nhp/)
 * Topologically Consistent Multi-View Face Inference Using Volumetric Sampling
 [paper](https://arxiv.org/pdf/2110.02948.pdf)
+* Creating and Reenacting Controllable 3D Humans with Differentiable Rendering
+[paper](https://arxiv.org/pdf/2110.11746v1.pdf)
 
 # 3D human whole body
 * Collaborative Regression of Expressive Bodies using Moderation
@@ -168,10 +170,12 @@
 * Encoder-decoder with Multi-level Attention for 3D Human Shape and Pose Estimation
 [paper](https://arxiv.org/pdf/2109.02303v1.pdf)
 [code](https://github.com/ziniuwan/maed)
-* 
+* Action-Conditioned 3D Human Motion Synthesis with Transformer VAE
 [code](https://github.com/Mathux/ACTOR)
 * Learning to Regress Bodies from Images using Differentiable Semantic Rendering
 [paper](https://arxiv.org/pdf/2110.03480v1.pdf)
+* Deep Two-Stream Video Inference for Human Body Pose and Shape Estimation
+[paper](https://arxiv.org/pdf/2110.11680v1.pdf)
 
 # 3D human hand
 * Active Learning for Bayesian 3D Hand Pose Estimation
@@ -216,6 +220,9 @@
 [paper](https://arxiv.org/pdf/2012.09955.pdf)
 * SIDER : Single-Image Neural Optimization for Facial Geometric Detail Recovery
 [paper](https://arxiv.org/pdf/2108.05465v1.pdf)
+* Synergy between 3DMM and 3D Landmarks for Accurate 3D Facial Geometry
+[paper](https://arxiv.org/pdf/2110.09772.pdf)
+[code](https://github.com/choyingw/SynergyNet)
 
 # 3d human head
 * Pixel Codec Avatars
@@ -263,6 +270,8 @@
 [paper](https://arxiv.org/pdf/2109.07353v1.pdf)
 * Physics-based Human Motion Estimation and Synthesis from Videos
 [paper](https://arxiv.org/pdf/2109.09913.pdf)
+* Real-time, low-cost multi-person 3D pose estimation
+[paper]https://arxiv.org/pdf/2110.11414v1.pdf
 
 # registration
 * LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration
