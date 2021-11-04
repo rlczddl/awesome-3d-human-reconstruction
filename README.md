@@ -37,6 +37,8 @@
 [paper](https://arxiv.org/pdf/2110.02948.pdf)
 * Creating and Reenacting Controllable 3D Humans with Differentiable Rendering
 [paper](https://arxiv.org/pdf/2110.11746v1.pdf)
+* H-NeRF: Neural Radiance Fields for Rendering and Temporal Reconstruction of Humans in Motion
+[paper](https://arxiv.org/pdf/2110.13746v1.pdf)
 
 # 3D human whole body
 * Collaborative Regression of Expressive Bodies using Moderation
@@ -176,6 +178,11 @@
 [paper](https://arxiv.org/pdf/2110.03480v1.pdf)
 * Deep Two-Stream Video Inference for Human Body Pose and Shape Estimation
 [paper](https://arxiv.org/pdf/2110.11680v1.pdf)
+* UltraPose: Synthesizing Dense Pose with 1 Billion Points by Human-body Decoupling 3D Model
+[paper](https://arxiv.org/pdf/2110.15267v1.pdf)
+* Body Size and Depth Disambiguation in Multi-Person Reconstruction from Single Images
+[paper](https://arxiv.org/pdf/2111.01884v1.pdf)
+[code](https://github.com/nicolasugrinovic/size_depth_disambiguation)
 
 # 3D human hand
 * Active Learning for Bayesian 3D Hand Pose Estimation
@@ -205,6 +212,9 @@
 * ArtiBoost: Boosting Articulated 3D Hand-Object Pose Estimation via Online Exploration and Synthesis
 [paper](https://arxiv.org/pdf/2109.05488v1.pdf)
 [code](https://github.com/MVIG-SJTU/ArtiBoost)
+* Monocular 3D Reconstruction of Interacting Hands via Collision-Aware Factorized Refinements
+[paper](https://arxiv.org/pdf/2111.00763v1.pdf)
+[code](https://penincillin.github.io/ihmr_3dv2021)
 
 # 3d human face
 * High-Fidelity 3D Digital Human Creation from RGB-D Selfies
@@ -223,6 +233,7 @@
 * Synergy between 3DMM and 3D Landmarks for Accurate 3D Facial Geometry
 [paper](https://arxiv.org/pdf/2110.09772.pdf)
 [code](https://github.com/choyingw/SynergyNet)
+
 
 # 3d human head
 * Pixel Codec Avatars
@@ -348,6 +359,8 @@
 [homepage](https://www.arxiv-vanity.com/papers/2102.06288/)
 * AGORA: Avatars in Geography Optimized for Regression Analysis
 [homepage](https://agora.is.tue.mpg.de/)
+* FaceScape: 3D Facial Dataset and Benchmark for Single-View 3D Face Reconstruction
+[paper](https://arxiv.org/pdf/2111.01082v1.pdf)
 
 # labs
 * max planck institute
