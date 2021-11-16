@@ -183,6 +183,16 @@
 * Body Size and Depth Disambiguation in Multi-Person Reconstruction from Single Images
 [paper](https://arxiv.org/pdf/2111.01884v1.pdf)
 [code](https://github.com/nicolasugrinovic/size_depth_disambiguation)
+* Unified 3D Mesh Recovery of Humans and Animals by Learning Animal Exercise
+[paper](https://arxiv.org/pdf/2111.02450v1.pdf)
+* 3D Human Shape and Pose from a Single Low-Resolution Image with Self-Supervised Learning
+[paper](https://arxiv.org/pdf/2007.13666.pdf)
+[code](https://github.com/xuxy09/RSC-Net)
+* Out-of-Domain Human Mesh Reconstruction via Bilevel Online Adaptation
+[paper](https://drive.google.com/file/d/1b6e3rMrVn_xNhM-MitqpLtulARdl4M9F/view?usp=sharing)
+[code](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fsyguan96%2FDynaBOA&sa=D&sntz=1&usg=AFQjCNHYmgSyYqdKGYNp7W-bAO2MrHfp1w)
+* Monocular Human Shape and Pose with Dense Mesh-borne Local Image Features
+[paper](https://arxiv.org/pdf/2111.05319v1.pdf)
 
 # 3D human hand
 * Active Learning for Bayesian 3D Hand Pose Estimation
@@ -215,6 +225,8 @@
 * Monocular 3D Reconstruction of Interacting Hands via Collision-Aware Factorized Refinements
 [paper](https://arxiv.org/pdf/2111.00763v1.pdf)
 [code](https://penincillin.github.io/ihmr_3dv2021)
+* Dynamic Iterative Refinement for Efficient 3D Hand Pose Estimation
+[paper](https://arxiv.org/pdf/2111.06500v1.pdf)
 
 # 3d human face
 * High-Fidelity 3D Digital Human Creation from RGB-D Selfies
@@ -283,6 +295,9 @@
 [paper](https://arxiv.org/pdf/2109.09913.pdf)
 * Real-time, low-cost multi-person 3D pose estimation
 [paper]https://arxiv.org/pdf/2110.11414v1.pdf
+* Direct Multi-view Multi-person 3D Human Pose Estimation
+[paper](https://arxiv.org/pdf/2111.04076.pdf)
+[code](https://github.com/sail-sg/mvp)
 
 # registration
 * LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration
@@ -324,6 +339,9 @@
 [paper](https://arxiv.org/pdf/2109.05776v1.pdf)
 * ZFlow: Gated Appearance Flow-based Virtual Try-on with 3D Priors
 [paper](https://arxiv.org/pdf/2109.07001v1.pdf)
+* A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis
+[paper](https://arxiv.org/abs/2110.15678)
+[code](https://github.com/XingangPan/ShadeGAN)
 
 # correspondence
 * HumanGPS: Geodesic PreServing Feature for Dense Human Correspondences
@@ -361,6 +379,8 @@
 [homepage](https://agora.is.tue.mpg.de/)
 * FaceScape: 3D Facial Dataset and Benchmark for Single-View 3D Face Reconstruction
 [paper](https://arxiv.org/pdf/2111.01082v1.pdf)
+* Simulated garment dataset for virtual try-on
+[address](https://github.com/isantesteban/vto-dataset)
 
 # labs
 * max planck institute
