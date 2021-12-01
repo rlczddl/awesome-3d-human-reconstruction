@@ -39,6 +39,10 @@
 [paper](https://arxiv.org/pdf/2110.11746v1.pdf)
 * H-NeRF: Neural Radiance Fields for Rendering and Temporal Reconstruction of Humans in Motion
 [paper](https://arxiv.org/pdf/2110.13746v1.pdf)
+* FENeRF: Face Editing in Neural Radiance Fields
+[paper](https://arxiv.org/pdf/2111.15490v1.pdf)
+* LatentHuman: Shape-and-Pose Disentangled Latent Representation for Human Bodies
+[paper&code](https://latenthuman.github.io/)
 
 # 3D human whole body
 * Collaborative Regression of Expressive Bodies using Moderation
@@ -193,6 +197,8 @@
 [code](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fsyguan96%2FDynaBOA&sa=D&sntz=1&usg=AFQjCNHYmgSyYqdKGYNp7W-bAO2MrHfp1w)
 * Monocular Human Shape and Pose with Dense Mesh-borne Local Image Features
 [paper](https://arxiv.org/pdf/2111.05319v1.pdf)
+* Human Performance Capture from Monocular Video in the Wild
+[paper](https://arxiv.org/pdf/2111.14672.pdf)
 
 # 3D human hand
 * Active Learning for Bayesian 3D Hand Pose Estimation
@@ -227,6 +233,8 @@
 [code](https://penincillin.github.io/ihmr_3dv2021)
 * Dynamic Iterative Refinement for Efficient 3D Hand Pose Estimation
 [paper](https://arxiv.org/pdf/2111.06500v1.pdf)
+* Semi-Supervised 3D Hand Shape and Pose Estimation with Label Propagation
+[paper](https://arxiv.org/pdf/2111.15199v1.pdf)
 
 # 3d human face
 * High-Fidelity 3D Digital Human Creation from RGB-D Selfies
@@ -245,7 +253,10 @@
 * Synergy between 3DMM and 3D Landmarks for Accurate 3D Facial Geometry
 [paper](https://arxiv.org/pdf/2110.09772.pdf)
 [code](https://github.com/choyingw/SynergyNet)
-
+* HIGH-QUALITY REAL TIME FACIAL CAPTURE BASED ON SINGLE CAMERA
+[paper](https://arxiv.org/pdf/2111.07556v1.pdf)
+* Self-supervised High-fidelity and Re-renderable 3D Facial Reconstruction from a Single Imag
+[paper](https://arxiv.org/pdf/2111.08282.pdf)
 
 # 3d human head
 * Pixel Codec Avatars
@@ -263,6 +274,7 @@
 * STAR: Sparse Trained Articulated Human Body Regressor
 [paper](https://arxiv.org/abs/2008.08535)
 [code](https://github.com/ahmedosman/STAR)
+
 
 # skin
 * HeterSkinNet: A Heterogeneous Network for Skin Weights Prediction
@@ -298,6 +310,12 @@
 * Direct Multi-view Multi-person 3D Human Pose Estimation
 [paper](https://arxiv.org/pdf/2111.04076.pdf)
 [code](https://github.com/sail-sg/mvp)
+* Rethinking Keypoint Representations: Modeling Keypoints and Poses as Objects for Multi-Person Human Pose Estimation
+[code](https://github.com/wmcnally/kapao)
+* Camera Distortion-aware 3D Human Pose Estimation in Video with Optimization-based Meta-Learning
+[paper](https://arxiv.org/pdf/2111.15056v1.pdf)
+* In-Bed Human Pose Estimation from Unseen and Privacy-Preserving Image Domains
+[paper](https://arxiv.org/pdf/2111.15124v1.pdf)
 
 # registration
 * LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration
@@ -342,6 +360,8 @@
 * A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis
 [paper](https://arxiv.org/abs/2110.15678)
 [code](https://github.com/XingangPan/ShadeGAN)
+* Action2video: Generating Videos of Human 3D Actions
+[paper](https://arxiv.org/pdf/2111.06925v1.pdf)
 
 # correspondence
 * HumanGPS: Geodesic PreServing Feature for Dense Human Correspondences
@@ -356,6 +376,8 @@
 [paper](https://arxiv.org/pdf/2108.10515v1.pdf)
 * A Neural Anthropometer Learning from Body Dimensions Computed on Human 3D Meshes
 [paper](https://arxiv.org/pdf/2110.04064v1.pdf)
+* Robust 3D Garment Digitization from Monocular 2D Images for 3D Virtual Try-On Systems
+[paper](https://arxiv.org/pdf/2111.15140v1.pdf)
 
 # human mattting
 * Real-Time High-Resolution Background Matting
