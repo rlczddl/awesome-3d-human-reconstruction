@@ -43,6 +43,15 @@
 [paper](https://arxiv.org/pdf/2111.15490v1.pdf)
 * LatentHuman: Shape-and-Pose Disentangled Latent Representation for Human Bodies
 [paper&code](https://latenthuman.github.io/)
+* Neural Head Avatars from Monocular RGB Videos
+[paper](https://arxiv.org/pdf/2112.01554v1.pdf)
+* HumanNeRF: Generalizable Neural Human Radiance Field from Sparse Inputs
+[paper](https://arxiv.org/pdf/2112.02789v1.pdf)
+* Implicit Neural Deformation for Multi-View Face Reconstruction
+[paper](https://arxiv.org/pdf/2112.02494v1.pdf)
+* MoFaNeRF: Morphable Facial Neural Radiance Field
+[paper](https://arxiv.org/pdf/2112.02308.pdf)
+[code](https://github.com/zhuhao-nju/mofanerf)
 
 # 3D human whole body
 * Collaborative Regression of Expressive Bodies using Moderation
@@ -199,6 +208,13 @@
 [paper](https://arxiv.org/pdf/2111.05319v1.pdf)
 * Human Performance Capture from Monocular Video in the Wild
 [paper](https://arxiv.org/pdf/2111.14672.pdf)
+* Probabilistic Estimation of 3D Human Shape and Pose with a Semantic Local Parametric Model
+[paper](https://arxiv.org/pdf/2111.15404v1.pdf)
+* GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras
+[paper](https://arxiv.org/pdf/2112.01524v1.pdf)
+* MetaAvatar: Learning Animatable Clothed Human Models from Few Depth Images}
+[paper](https://openreview.net/forum?id=Q-PA3D1OsDz)
+[code](https://github.com/taconite/MetaAvatar-release)
 
 # 3D human hand
 * Active Learning for Bayesian 3D Hand Pose Estimation
@@ -235,6 +251,9 @@
 [paper](https://arxiv.org/pdf/2111.06500v1.pdf)
 * Semi-Supervised 3D Hand Shape and Pose Estimation with Label Propagation
 [paper](https://arxiv.org/pdf/2111.15199v1.pdf)
+* MobRecon: Mobile-Friendly Hand Mesh Reconstruction from Monocular Image
+[paper](https://arxiv.org/pdf/2112.02753v1.pdf)
+[code](https://github.com/SeanChenxy/HandMesh)
 
 # 3d human face
 * High-Fidelity 3D Digital Human Creation from RGB-D Selfies
@@ -257,6 +276,9 @@
 [paper](https://arxiv.org/pdf/2111.07556v1.pdf)
 * Self-supervised High-fidelity and Re-renderable 3D Facial Reconstruction from a Single Imag
 [paper](https://arxiv.org/pdf/2111.08282.pdf)
+* Generating Diverse 3D Reconstructions from a Single Occluded Face Image
+[paper](https://arxiv.org/pdf/2112.00879v1.pdf)
+
 
 # 3d human head
 * Pixel Codec Avatars
@@ -316,6 +338,9 @@
 [paper](https://arxiv.org/pdf/2111.15056v1.pdf)
 * In-Bed Human Pose Estimation from Unseen and Privacy-Preserving Image Domains
 [paper](https://arxiv.org/pdf/2111.15124v1.pdf)
+* Camera Motion Agnostic 3D Human Pose Estimation
+[paper](https://github.com/seonghyunkim1212/GMR)
+[code](https://arxiv.org/pdf/2112.00343v1.pdf)
 
 # registration
 * LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration
@@ -384,6 +409,8 @@
 [code](https://github.com/PeterL1n/BackgroundMattingV2)
 * Real-Time Monocular Human Depth Estimation and Segmentation on Embedded Systems
 [paper](https://arxiv.org/pdf/2108.10506v1.pdf)
+* DeepSportLab: a Unified Framework for Ball Detection, Player Instance Segmentation and Pose Estimation in Team Sports Scenes
+[paper](https://arxiv.org/pdf/2112.00627v1.pdf)
 
 # mobile
 * Mobile3DScanner: An Online 3D Scanner for High-quality Object Reconstruction with a Mobile Device
