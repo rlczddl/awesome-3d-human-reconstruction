@@ -52,6 +52,10 @@
 * MoFaNeRF: Morphable Facial Neural Radiance Field
 [paper](https://arxiv.org/pdf/2112.02308.pdf)
 [code](https://github.com/zhuhao-nju/mofanerf)
+* Geometry-Guided Progressive NeRF for Generalizable and Efficient Neural Human Rendering
+[paper](https://arxiv.org/pdf/2112.04312v1.pdf)
+* HeadNeRF: A Real-time NeRF-based Parametric Head Model
+[paper](https://arxiv.org/pdf/2112.05637v1.pdf)
 
 # 3D human whole body
 * Collaborative Regression of Expressive Bodies using Moderation
@@ -387,6 +391,9 @@
 [code](https://github.com/XingangPan/ShadeGAN)
 * Action2video: Generating Videos of Human 3D Actions
 [paper](https://arxiv.org/pdf/2111.06925v1.pdf)
+* Garment4D: Garment Reconstruction from Point Cloud Sequences
+[paper](https://papers.nips.cc/paper/2021/file/eb160de1de89d9058fcb0b968dbbbd68-Paper.pdf)
+[code](https://github.com/hongfz16/Garment4D)
 
 # correspondence
 * HumanGPS: Geodesic PreServing Feature for Dense Human Correspondences
@@ -438,3 +445,7 @@
 [website](http://www.liuyebin.com/)
 * ZJU3DV
 [github](https://github.com/zju3dv)
+* Hujun Bao
+[google scholar](https://scholar.google.com/citations?hl=zh-CN&user=AZCcDmsAAAAJ&view_op=list_works&sortby=pubdate)
+* USTC-3DV
+[homepage](http://staff.ustc.edu.cn/~juyong/index.html)
