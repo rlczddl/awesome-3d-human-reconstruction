@@ -56,6 +56,13 @@
 [paper](https://arxiv.org/pdf/2112.04312v1.pdf)
 * HeadNeRF: A Real-time NeRF-based Parametric Head Model
 [paper](https://arxiv.org/pdf/2112.05637v1.pdf)
+* I M Avatar: Implicit Morphable Head Avatars from Videos
+[paper](https://arxiv.org/pdf/2112.07471v1.pdf)
+* LookinGoodπ: Real-time Person-independent Neural Re-rendering for High-quality Human Performance Capture
+[paper](https://arxiv.org/pdf/2112.08037v1.pdf)
+* ICON: Implicit Clothed humans Obtained from Normals
+[paper](https://arxiv.org/pdf/2112.09127v1.pdf)
+[code](https://github.com/YuliangXiu/ICON)
 
 # 3D human whole body
 * Collaborative Regression of Expressive Bodies using Moderation
@@ -219,6 +226,11 @@
 * MetaAvatar: Learning Animatable Clothed Human Models from Few Depth Images}
 [paper](https://openreview.net/forum?id=Q-PA3D1OsDz)
 [code](https://github.com/taconite/MetaAvatar-release)
+* EgoBody: Human Body Shape, Motion and Social Interactions from Head-Mounted Devices
+[paper](https://arxiv.org/pdf/2112.07642v1.pdf)
+[code](https://sanweiliti.github.io/egobody/egobody.html)
+* Putting People in their Place: Monocular Regression of 3D People in Depth
+[paper](https://arxiv.org/pdf/2112.08274v1.pdf)
 
 # 3D human hand
 * Active Learning for Bayesian 3D Hand Pose Estimation
@@ -296,12 +308,6 @@
 * Semi-supervised Synthesis of High-Resolution Editable Textures for 3D Humans
 [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chaudhuri_Semi-Supervised_Synthesis_of_High-Resolution_Editable_Textures_for_3D_Humans_CVPR_2021_paper.pdf)
 
-# parametric model
-* STAR: Sparse Trained Articulated Human Body Regressor
-[paper](https://arxiv.org/abs/2008.08535)
-[code](https://github.com/ahmedosman/STAR)
-
-
 # skin
 * HeterSkinNet: A Heterogeneous Network for Skin Weights Prediction
 [paper](https://arxiv.org/pdf/2103.10602.pdf)
@@ -345,6 +351,8 @@
 * Camera Motion Agnostic 3D Human Pose Estimation
 [paper](https://github.com/seonghyunkim1212/GMR)
 [code](https://arxiv.org/pdf/2112.00343v1.pdf)
+* ElePose: Unsupervised 3D Human Pose Estimation by Predicting Camera Elevation and Learning Normalizing Flows on 2D Poses
+[paper](https://arxiv.org/pdf/2112.07088v1.pdf)
 
 # registration
 * LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration
@@ -418,11 +426,20 @@
 [paper](https://arxiv.org/pdf/2108.10506v1.pdf)
 * DeepSportLab: a Unified Framework for Ball Detection, Player Instance Segmentation and Pose Estimation in Team Sports Scenes
 [paper](https://arxiv.org/pdf/2112.00627v1.pdf)
+* PP-HumanSeg: Connectivity-Aware Portrait Segmentation with a Large-Scale Teleconferencing Video Dataset
+[paper](https://arxiv.org/pdf/2112.07146v1.pdf)
+[code](https://github.com/PaddlePaddle/PaddleSeg)
 
-# mobile
-* Mobile3DScanner: An Online 3D Scanner for High-quality Object Reconstruction with a Mobile Device
-[paper](http://www.cad.zju.edu.cn/home/gfzhang//papers/mobile3dscanner/mobile3dscanner_ismar2021.pdf)
-[project](https://zju3dv.github.io/mobile3dscanner.github.io/)
+# parametric model
+* SMPL: A Skinned Multi-Person Linear Model
+[paper](https://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)
+[code](https://github.com/CalciferZh/SMPL)
+* Expressive Body Capture: 3D Hands, Face, and Body from a Single Image
+[paper](https://arxiv.org/abs/1904.05866)
+[code](https://github.com/vchoutas/smplx)
+* STAR: Sparse Trained Articulated Human Body Regressor
+[paper](https://arxiv.org/abs/2008.08535)
+[code](https://github.com/ahmedosman/STAR)
 
 # dataset
 * MAAD-Face: A Massively Annotated Attribute Dataset for Face Images
