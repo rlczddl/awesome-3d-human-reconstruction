@@ -1,3 +1,4 @@
+
 # nerf or pifu
 * StereoPIFu: Depth Aware Clothed Human Digitization via Stereo Vision
 [paper](https://arxiv.org/pdf/2104.05289.pdf)
@@ -63,6 +64,10 @@
 * ICON: Implicit Clothed humans Obtained from Normals
 [paper](https://arxiv.org/pdf/2112.09127v1.pdf)
 [code](https://github.com/YuliangXiu/ICON)
+* DD-NeRF: Double-Diffusion Neural Radiance Field as a Generalizable Implicit Body Representation
+[paper](https://arxiv.org/pdf/2112.12390v1.pdf)
+* Human View Synthesis using a Single Sparse RGB-D Input
+[paper](https://arxiv.org/pdf/2112.13889v1.pdf)
 
 # 3D human whole body
 * Collaborative Regression of Expressive Bodies using Moderation
@@ -231,6 +236,12 @@
 [code](https://sanweiliti.github.io/egobody/egobody.html)
 * Putting People in their Place: Monocular Regression of 3D People in Depth
 [paper](https://arxiv.org/pdf/2112.08274v1.pdf)
+* Multi-initialization Optimization Network for Accurate 3D Human Pose and Shape Estimation
+[paper](https://arxiv.org/pdf/2112.12917v1.pdf)
+* moothNet: A Plug-and-Play Network for Refining Human Poses in Videos
+[paper](https://arxiv.org/pdf/2112.13715v1.pdf)
+* HSPACE: Synthetic Parametric Humans Animated in Complex Environments
+[paper](https://arxiv.org/pdf/2112.12867v1.pdf)
 
 # 3D human hand
 * Active Learning for Bayesian 3D Hand Pose Estimation
@@ -294,6 +305,8 @@
 [paper](https://arxiv.org/pdf/2111.08282.pdf)
 * Generating Diverse 3D Reconstructions from a Single Occluded Face Image
 [paper](https://arxiv.org/pdf/2112.00879v1.pdf)
+* Self-Supervised Robustifying Guidance for Monocular 3D Face Reconstruction
+[paper](https://arxiv.org/pdf/2112.14382v1.pdf)
 
 
 # 3d human head
@@ -338,7 +351,7 @@
 * Physics-based Human Motion Estimation and Synthesis from Videos
 [paper](https://arxiv.org/pdf/2109.09913.pdf)
 * Real-time, low-cost multi-person 3D pose estimation
-[paper]https://arxiv.org/pdf/2110.11414v1.pdf
+[paper](https://arxiv.org/pdf/2110.11414v1.pdf)
 * Direct Multi-view Multi-person 3D Human Pose Estimation
 [paper](https://arxiv.org/pdf/2111.04076.pdf)
 [code](https://github.com/sail-sg/mvp)
@@ -353,6 +366,10 @@
 [code](https://arxiv.org/pdf/2112.00343v1.pdf)
 * ElePose: Unsupervised 3D Human Pose Estimation by Predicting Camera Elevation and Learning Normalizing Flows on 2D Poses
 [paper](https://arxiv.org/pdf/2112.07088v1.pdf)
+* Multi-modal 3D Human Pose Estimation with 2D Weak Supervision in Autonomous Driving
+[paper](https://arxiv.org/pdf/2112.12141v1.pdf)
+* AdaptPose: Cross-Dataset Adaptation for 3D Human Pose Estimation by Learnable Motion Generation
+[paper](https://arxiv.org/pdf/2112.11593v1.pdf)
 
 # registration
 * LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration
@@ -454,6 +471,8 @@
 [paper](https://arxiv.org/pdf/2111.01082v1.pdf)
 * Simulated garment dataset for virtual try-on
 [address](https://github.com/isantesteban/vto-dataset)
+* Reconstructing Hand-Object Interactions in the Wild
+[github](https://github.com/ZheC/MOW)
 
 # labs
 * max planck institute
