@@ -68,6 +68,15 @@
 [paper](https://arxiv.org/pdf/2112.12390v1.pdf)
 * Human View Synthesis using a Single Sparse RGB-D Input
 [paper](https://arxiv.org/pdf/2112.13889v1.pdf)
+* Surface-Aligned Neural Radiance Fields for Controllable 3D Human Synthesis
+[paper](https://arxiv.org/pdf/2201.01683v1.pdf)
+* Embodied Hands: Modeling and Capturing Hands and Bodies Together
+[paper](https://arxiv.org/pdf/2201.02610v1.pdf)
+* HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video
+[paper](https://arxiv.org/pdf/2201.04127v1.pdf)
+* gDNA: Towards Generative Detailed Neural Avatars
+[paper](https://arxiv.org/pdf/2201.04123v1.pdf)
+[code](https://github.com/xuchen-ethz/gdna)
 
 # 3D human whole body
 * Collaborative Regression of Expressive Bodies using Moderation
@@ -473,6 +482,8 @@
 [address](https://github.com/isantesteban/vto-dataset)
 * Reconstructing Hand-Object Interactions in the Wild
 [github](https://github.com/ZheC/MOW)
+* ASL-Skeleton3D and ASL-Phono: Two Novel Datasets for the American Sign Language
+[paper](https://arxiv.org/pdf/2201.02065v1.pdf)
 
 # labs
 * max planck institute
