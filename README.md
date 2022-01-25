@@ -457,6 +457,7 @@
 [code](https://github.com/PaddlePaddle/PaddleSeg)
 
 # parametric model
+## body
 * SMPL: A Skinned Multi-Person Linear Model
 [paper](https://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)
 [code](https://github.com/CalciferZh/SMPL)
@@ -466,6 +467,16 @@
 * STAR: Sparse Trained Articulated Human Body Regressor
 [paper](https://arxiv.org/abs/2008.08535)
 [code](https://github.com/ahmedosman/STAR)
+## face
+* Basel Face Model 2009
+[website](http://faces.cs.unibas.ch/bfm/?nav=1-0&id=basel_face_model)
+* Basel Face Model 2017
+[website](http://faces.cs.unibas.ch/bfm/bfm2017.html)
+* Large Scale 3D Morphable Model
+[website](https://xip.uclb.com/i/healthcare_tools/LSFM.html)
+## head
+* FLAME: Articulated Expressive Head Model
+[website](http://flame.is.tue.mpg.de/)
 
 # dataset
 * MAAD-Face: A Massively Annotated Attribute Dataset for Face Images
@@ -484,6 +495,9 @@
 [github](https://github.com/ZheC/MOW)
 * ASL-Skeleton3D and ASL-Phono: Two Novel Datasets for the American Sign Language
 [paper](https://arxiv.org/pdf/2201.02065v1.pdf)
+* AMASS: Archive of Motion Capture as Surface Shapes
+[paper](https://arxiv.org/pdf/1904.03278.pdf)
+[github](https://github.com/nghorbani/amass)
 
 # labs
 * max planck institute
@@ -496,3 +510,13 @@
 [google scholar](https://scholar.google.com/citations?hl=zh-CN&user=AZCcDmsAAAAJ&view_op=list_works&sortby=pubdate)
 * USTC-3DV
 [homepage](http://staff.ustc.edu.cn/~juyong/index.html)
+
+# other related awesome
+* awesome-clothed-human
+[github](https://github.com/weihaox/awesome-clothed-human)
+* curated-list-of-awesome-3D-Morphable-Model-software-and-data
+[github](https://github.com/3d-morphable-models/curated-list-of-awesome-3D-Morphable-Model-software-and-data)
+* awesome-hand-pose-estimation
+[github](https://github.com/xinghaochen/awesome-hand-pose-estimation)
+* Awesome 3D Body Papers
+[github](https://github.com/3DFaceBody/awesome-3dbody-papers)
