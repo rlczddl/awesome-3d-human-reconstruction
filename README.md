@@ -1,4 +1,3 @@
-
 # nerf or pifu
 * StereoPIFu: Depth Aware Clothed Human Digitization via Stereo Vision
 [paper](https://arxiv.org/pdf/2104.05289.pdf)
@@ -77,6 +76,8 @@
 * gDNA: Towards Generative Detailed Neural Avatars
 [paper](https://arxiv.org/pdf/2201.04123v1.pdf)
 [code](https://github.com/xuchen-ethz/gdna)
+* SelfRecon: Self Reconstruction Your Digital Avatar from Monocular Video
+[paper](https://arxiv.org/pdf/2201.12792v1.pdf)
 
 # 3D human whole body
 * Collaborative Regression of Expressive Bodies using Moderation
@@ -92,6 +93,10 @@
 [paper](https://arxiv.org/pdf/2108.02931v1.pdf)
 * Lightweight Multi-person Total Motion Capture Using Sparse Multi-view Cameras
 [paper](https://arxiv.org/pdf/2108.10378v1.pdf)
+* Imposing Temporal Consistency on Deep Monocular Body Shape and Pose Estimation
+[paper](https://arxiv.org/pdf/2202.03074v1.pdf)
+* PIANO: A Parametric Hand Bone Model from Magnetic Resonance Imaging
+[github](https://github.com/reyuwei/PIANO_model)
 
 # 3D human reconstruction
 * Monocular Expressive Body Regression through Body-Driven Attention
@@ -290,6 +295,8 @@
 * MobRecon: Mobile-Friendly Hand Mesh Reconstruction from Monocular Image
 [paper](https://arxiv.org/pdf/2112.02753v1.pdf)
 [code](https://github.com/SeanChenxy/HandMesh)
+* Consistent 3D Hand Reconstruction in Video via Self-Supervised Learning
+[paper](https://arxiv.org/pdf/2201.09548v1.pdf)
 
 # 3d human face
 * High-Fidelity 3D Digital Human Creation from RGB-D Selfies
@@ -428,6 +435,9 @@
 * Garment4D: Garment Reconstruction from Point Cloud Sequences
 [paper](https://papers.nips.cc/paper/2021/file/eb160de1de89d9058fcb0b968dbbbd68-Paper.pdf)
 [code](https://github.com/hongfz16/Garment4D)
+* ADG-Pose: Automated Dataset Generation for Real-World Human Pose Estimation
+[paper](https://arxiv.org/pdf/2202.00753v1.pdf)
+[code](https://github.com/TeCSAR-UNCC/ADG-Pose)
 
 # correspondence
 * HumanGPS: Geodesic PreServing Feature for Dense Human Correspondences
@@ -455,6 +465,8 @@
 * PP-HumanSeg: Connectivity-Aware Portrait Segmentation with a Large-Scale Teleconferencing Video Dataset
 [paper](https://arxiv.org/pdf/2112.07146v1.pdf)
 [code](https://github.com/PaddlePaddle/PaddleSeg)
+* Portrait Segmentation Using Deep Learning
+[paper](https://arxiv.org/pdf/2202.02705v1.pdf)
 
 # parametric model
 ## body
@@ -477,6 +489,11 @@
 ## head
 * FLAME: Articulated Expressive Head Model
 [website](http://flame.is.tue.mpg.de/)
+## hand
+* MANO
+
+* NIMBLE: A Non-rigid Hand Model with Bones and Muscles
+[paper](https://arxiv.org/pdf/2202.04533v1.pdf)
 
 # dataset
 * MAAD-Face: A Massively Annotated Attribute Dataset for Face Images
