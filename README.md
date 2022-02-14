@@ -2,8 +2,8 @@
 A curated list of related resources for 3d human reconstruction.
 
 ## Contents
- -[papers](#3d-human)
- -[related papers](#related)
+ - [papers](#3d-human)
+ - [related papers](#related)
  - [datasets](#datasets)
  - [labs](#labs)
  - [other related awesome](#other-related-awesome)
