@@ -5,7 +5,7 @@ A curated list of  of related resources for 3d human reconstruction.
  - [papers](#3d-human)
  - [related papers](#related)
  - [parametric model](#parametric-model)
- - [datasets](#datasets)
+ - [dataset](#dataset)
  - [labs](#labs)
  - [other related awesome](#other-related-awesome)
  
