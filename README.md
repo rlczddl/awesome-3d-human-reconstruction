@@ -1,5 +1,5 @@
 # awesome 3d human reconstruction 
-A curated list of  of related resources for 3d human reconstruction.
+A curated list of related resources for 3d human reconstruction.
 
 ## Contents
  - [papers](#3d-human)
@@ -8,6 +8,9 @@ A curated list of  of related resources for 3d human reconstruction.
  - [dataset](#dataset)
  - [labs](#labs)
  - [other related awesome](#other-related-awesome)
+ 
+ 
+ 
  
 ## 3d human
 ### nerf or pifu
@@ -48,6 +51,7 @@ A curated list of  of related resources for 3d human reconstruction.
 ##### • HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video  [paper](https://arxiv.org/pdf/2201.04127v1.pdf)
 ##### • gDNA: Towards Generative Detailed Neural Avatars  [paper](https://arxiv.org/pdf/2201.04123v1.pdf)  [code](https://github.com/xuchen-ethz/gdna)
 ##### • SelfRecon: Self Reconstruction Your Digital Avatar from Monocular Video  [paper](https://arxiv.org/pdf/2201.12792v1.pdf)
+##### •  NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing  [paper](https://arxiv.org/pdf/2202.06088v1.pdf)
 
 ### 3D human whole body
 ##### • Collaborative Regression of Expressive Bodies using Moderation  [paper&code](https://pixie.is.tue.mpg.de/)
@@ -242,6 +246,7 @@ A curated list of  of related resources for 3d human reconstruction.
 ##### • Garment4D: Garment Reconstruction from Point Cloud Sequences  [paper](https://papers.nips.cc/paper/2021/file/eb160de1de89d9058fcb0b968dbbbd68-Paper.pdf)  [code](https://github.com/hongfz16/Garment4D)
 ##### • ADG-Pose: Automated Dataset Generation for Real-World Human Pose Estimation  [paper](https://arxiv.org/pdf/2202.00753v1.pdf)  [code](https://github.com/TeCSAR-UNCC/ADG-Pose)
 ##### • DiffusionNet: Discretization Agnostic Learning on Surfaces  [paper](https://arxiv.org/pdf/2012.00888.pdf)
+##### • Text and Image Guided 3D Avatar Generation and Manipulation  [paper](https://arxiv.org/pdf/2202.06079v1.pdf)  [code](https://catlab-team.github.io/)
 
 ## parametric model
 ### body
