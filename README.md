@@ -63,7 +63,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Imposing Temporal Consistency on Deep Monocular Body Shape and Pose Estimation  [paper](https://arxiv.org/pdf/2202.03074v1.pdf)
 ##### • PIANO: A Parametric Hand Bone Model from Magnetic Resonance Imaging  [github](https://github.com/reyuwei/PIANO_model)
 
-### 3D human reconstruction
+### 3D human body
 ##### • Monocular Expressive Body Regression through Body-Driven Attention  [paper](https://arxiv.org/abs/2008.09062)  [code](https://github.com/vchoutas/expose)
 ##### • FrankMocap: Fast Monocular 3D Hand and Body Motion Capture by Regression and Integration  [paper](https://arxiv.org/pdf/2008.08324.pdf)  [code](https://github.com/facebookresearch/frankmocap)
 ##### • Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose  [paper](https://arxiv.org/abs/2008.09047)  [code](https://github.com/hongsukchoi/Pose2Mesh_RELEASE)
@@ -135,6 +135,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Multi-initialization Optimization Network for Accurate 3D Human Pose and Shape Estimation  [paper](https://arxiv.org/pdf/2112.12917v1.pdf)
 ##### • moothNet: A Plug-and-Play Network for Refining Human Poses in Videos  [paper](https://arxiv.org/pdf/2112.13715v1.pdf)
 ##### • HSPACE: Synthetic Parametric Humans Animated in Complex Environments  [paper](https://arxiv.org/pdf/2112.12867v1.pdf)
+##### • VoteHMR: Occlusion-Aware Voting Network for Robust 3D Human Mesh Recovery from Partial Point Clouds  [paper](https://arxiv.org/pdf/2110.08729.pdf)  [code](https://github.com/hanabi7/VoteHMR)
 
 ### 3d human face
 ##### • High-Fidelity 3D Digital Human Creation from RGB-D Selfies  [paper](https://arxiv.org/pdf/2010.05562.pdf)  [code](https://github.com/tencent-ailab/hifi3dface)
@@ -224,6 +225,7 @@ A curated list of related resources for 3d human reconstruction.
 ### texture 
 ##### • Spatiotemporal Texture Reconstruction for Dynamic Objects Using a Single RGB-D Camera  [paper](https://arxiv.org/pdf/2108.09007v1.pdf)
 ##### • Semi-supervised Synthesis of High-Resolution Editable Textures for 3D Humans  [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chaudhuri_Semi-Supervised_Synthesis_of_High-Resolution_Editable_Textures_for_3D_Humans_CVPR_2021_paper.pdf)
+##### • StylePeople: A Generative Model of Fullbody Human Avatars  [paper](https://arxiv.org/pdf/2104.08363.pdf)  [code](https://github.com/saic-vul/style-people)
 
 ### skin
 ##### • HeterSkinNet: A Heterogeneous Network for Skin Weights Prediction  [paper](https://arxiv.org/pdf/2103.10602.pdf)
