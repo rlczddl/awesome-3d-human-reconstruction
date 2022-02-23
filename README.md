@@ -53,6 +53,10 @@ A curated list of related resources for 3d human reconstruction.
 ##### • SelfRecon: Self Reconstruction Your Digital Avatar from Monocular Video  [paper](https://arxiv.org/pdf/2201.12792v1.pdf)
 ##### •  NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing  [paper](https://arxiv.org/pdf/2202.06088v1.pdf)
 
+### fusion
+##### • 
+##### • 
+
 ### 3D human whole body
 ##### • Collaborative Regression of Expressive Bodies using Moderation  [paper&code](https://pixie.is.tue.mpg.de/)
 ##### • Monocular Real-time Full Body Capture with Inter-part Correlations  [paper&code](https://calciferzh.github.io/publications/zhou2021monocular)
@@ -125,6 +129,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Unified 3D Mesh Recovery of Humans and Animals by Learning Animal Exercise  [paper](https://arxiv.org/pdf/2111.02450v1.pdf)
 ##### • 3D Human Shape and Pose from a Single Low-Resolution Image with Self-Supervised Learning  [paper](https://arxiv.org/pdf/2007.13666.pdf)  [code](https://github.com/xuxy09/RSC-Net)
 ##### • Out-of-Domain Human Mesh Reconstruction via Bilevel Online Adaptation  [paper](https://drive.google.com/file/d/1b6e3rMrVn_xNhM-MitqpLtulARdl4M9F/view?usp=sharing)  [code](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fsyguan96%2FDynaBOA&sa=D&sntz=1&usg=AFQjCNHYmgSyYqdKGYNp7W-bAO2MrHfp1w)
+#### • MeshLeTemp: Leveraging the Learnable Vertex-Vertex Relationship to Generalize Human Pose and Mesh Reconstruction for In-the-Wild Scenes  [paper](https://arxiv.org/pdf/2202.07228v1.pdf)
 ##### • Monocular Human Shape and Pose with Dense Mesh-borne Local Image Features  [paper](https://arxiv.org/pdf/2111.05319v1.pdf)
 ##### • Human Performance Capture from Monocular Video in the Wild  [paper](https://arxiv.org/pdf/2111.14672.pdf)
 ##### • Probabilistic Estimation of 3D Human Shape and Pose with a Semantic Local Parametric Model  [paper](https://arxiv.org/pdf/2111.15404v1.pdf)
@@ -266,15 +271,30 @@ A curated list of related resources for 3d human reconstruction.
 ##### • NIMBLE: A Non-rigid Hand Model with Bones and Muscles  [paper](https://arxiv.org/pdf/2202.04533v1.pdf)
 
 ## dataset
+### face
 ##### • MAAD-Face: A Massively Annotated Attribute Dataset for Face Images  [paper](https://github.com/pterhoer/MAAD-Face)
-##### • NTU60-X: TOWARDS SKELETON-BASED RECOGNITION OF SUBTLE HUMAN ACTIONS  [code](https://arxiv.org/pdf/2101.11529.pdf)
-##### • K-Hairstyle: A Large-scale Korean hairstyle dataset for virtual hair editing and hairstyle classification  [homepage](https://www.arxiv-vanity.com/papers/2102.06288/)
-##### • AGORA: Avatars in Geography Optimized for Regression Analysis  [homepage](https://agora.is.tue.mpg.de/)
 ##### • FaceScape: 3D Facial Dataset and Benchmark for Single-View 3D Face Reconstruction  [paper](https://arxiv.org/pdf/2111.01082v1.pdf)
-##### • Simulated garment dataset for virtual try-on  [address](https://github.com/isantesteban/vto-dataset)
+##### • 300W-LP
+##### • AFLW
+##### • AFLW2000-3D
+### hand
+##### • GRAB: A Dataset of Whole-Body Human Grasping of Objects  [github](https://github.com/otaheri/GRAB)
 ##### • Reconstructing Hand-Object Interactions in the Wild  [github](https://github.com/ZheC/MOW)
-##### • ASL-Skeleton3D and ASL-Phono: Two Novel Datasets for the American Sign Language  [paper](https://arxiv.org/pdf/2201.02065v1.pdf)
+### body
+##### • NTU60-X: TOWARDS SKELETON-BASED RECOGNITION OF SUBTLE HUMAN ACTIONS  [code](https://arxiv.org/pdf/2101.11529.pdf)
+##### • AGORA: Avatars in Geography Optimized for Regression Analysis  [homepage](https://agora.is.tue.mpg.de/)
 ##### • AMASS: Archive of Motion Capture as Surface Shapes  [paper](https://arxiv.org/pdf/1904.03278.pdf)  [github](https://github.com/nghorbani/amass)
+##### • ASL-Skeleton3D and ASL-Phono: Two Novel Datasets for the American Sign Language  [paper](https://arxiv.org/pdf/2201.02065v1.pdf)
+##### •MPI-INF-3DHP [homepage](https://vcai.mpi-inf.mpg.de/3dhp-dataset/)
+##### •Human3.6M  [website](http://vision.imar.ro/human3.6m/description.php)
+##### •3DPW  [website](https://virtualhumans.mpi-inf.mpg.de/3DPW/)
+##### •PennAction  [website](http://dreamdragon.github.io/PennAction/)
+##### •Insta Variety  [github](https://github.com/akanazawa/human_dynamics/blob/master/doc/insta_variety.md)
+##### •PoseTrack  [homapage](https://posetrack.net/)
+##### •Kinetics-400  [website](https://deepmind.com/research/open-source/kinetics)
+### others
+##### • K-Hairstyle: A Large-scale Korean hairstyle dataset for virtual hair editing and hairstyle classification  [homepage](https://www.arxiv-vanity.com/papers/2102.06288/)
+##### • Simulated garment dataset for virtual try-on  [address](https://github.com/isantesteban/vto-dataset)
 
 ## labs
 ##### • max planck institute  [website](https://ps.is.tuebingen.mpg.de/publications)
@@ -282,9 +302,11 @@ A curated list of related resources for 3d human reconstruction.
 ##### • ZJU3DV  [github](https://github.com/zju3dv)
 ##### • Hujun Bao  [google scholar](https://scholar.google.com/citations?hl=zh-CN&user=AZCcDmsAAAAJ&view_op=list_works&sortby=pubdate)
 ##### • USTC-3DV  [homepage](http://staff.ustc.edu.cn/~juyong/index.html)
+##### • Hao_Li [homepage](http://www.hao-li.com/Hao_Li/Hao_Li_-_about_me.html)
 
 ## other related awesome
 ##### • awesome-clothed-human  [github](https://github.com/weihaox/awesome-clothed-human)
 ##### • curated-list-of-awesome-3D-Morphable-Model-software-and-data  [github](https://github.com/3d-morphable-models/curated-list-of-awesome-3D-Morphable-Model-software-and-data)
 ##### • awesome-hand-pose-estimation  [github](https://github.com/xinghaochen/awesome-hand-pose-estimation)
 ##### • Awesome 3D Body Papers  [github](https://github.com/3DFaceBody/awesome-3dbody-papers)
+##### • Body_Reconstruction_References  [github](https://github.com/chenweikai/Body_Reconstruction_References#data-and-code)
