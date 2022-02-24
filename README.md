@@ -52,10 +52,11 @@ A curated list of related resources for 3d human reconstruction.
 ##### • gDNA: Towards Generative Detailed Neural Avatars  [paper](https://arxiv.org/pdf/2201.04123v1.pdf)  [code](https://github.com/xuchen-ethz/gdna)
 ##### • SelfRecon: Self Reconstruction Your Digital Avatar from Monocular Video  [paper](https://arxiv.org/pdf/2201.12792v1.pdf)
 ##### •  NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing  [paper](https://arxiv.org/pdf/2202.06088v1.pdf)
+##### •  Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies [paper](https://arxiv.org/abs/2105.02872)  [code](https://github.com/zju3dv/animatable_nerf)
 
 ### fusion
-##### • 
-##### • 
+##### • DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor  [paper](https://arxiv.org/abs/1804.06023)
+##### • Robust 3D Self-portraits in Seconds  [paper](https://arxiv.org/abs/2004.02460)
 
 ### 3D human whole body
 ##### • Collaborative Regression of Expressive Bodies using Moderation  [paper&code](https://pixie.is.tue.mpg.de/)
@@ -274,9 +275,8 @@ A curated list of related resources for 3d human reconstruction.
 ### face
 ##### • MAAD-Face: A Massively Annotated Attribute Dataset for Face Images  [paper](https://github.com/pterhoer/MAAD-Face)
 ##### • FaceScape: 3D Facial Dataset and Benchmark for Single-View 3D Face Reconstruction  [paper](https://arxiv.org/pdf/2111.01082v1.pdf)
-##### • 300W-LP
-##### • AFLW
-##### • AFLW2000-3D
+##### • 300W-LP &  AFLW2000-3D  [homepage](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm)
+##### • AFLW  [website](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/)
 ### hand
 ##### • GRAB: A Dataset of Whole-Body Human Grasping of Objects  [github](https://github.com/otaheri/GRAB)
 ##### • Reconstructing Hand-Object Interactions in the Wild  [github](https://github.com/ZheC/MOW)
