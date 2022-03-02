@@ -53,10 +53,13 @@ A curated list of related resources for 3d human reconstruction.
 ##### • SelfRecon: Self Reconstruction Your Digital Avatar from Monocular Video  [paper](https://arxiv.org/pdf/2201.12792v1.pdf)
 ##### •  NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing  [paper](https://arxiv.org/pdf/2202.06088v1.pdf)
 ##### •  Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies [paper](https://arxiv.org/abs/2105.02872)  [code](https://github.com/zju3dv/animatable_nerf)
+##### •  DeepMultiCap: Performance Capture of Multiple Characters Using Sparse Multiview Cameras  [paper](https://arxiv.org/abs/2105.00261)  [code](https://github.com/DSaurus/DeepMultiCap)
+##### •  NeuralFusion: Neural Volumetric Rendering under Human-object Interactions  [paper](https://arxiv.org/pdf/2202.12825v1.pdf)
 
 ### fusion
 ##### • DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor  [paper](https://arxiv.org/abs/1804.06023)
 ##### • Robust 3D Self-portraits in Seconds  [paper](https://arxiv.org/abs/2004.02460)
+##### • ACCURATE HUMAN BODY RECONSTRUCTION FOR VOLUMETRIC VIDEO  [paper](https://arxiv.org/pdf/2202.13118v1.pdf)
 
 ### 3D human whole body
 ##### • Collaborative Regression of Expressive Bodies using Moderation  [paper&code](https://pixie.is.tue.mpg.de/)
@@ -292,9 +295,14 @@ A curated list of related resources for 3d human reconstruction.
 ##### •Insta Variety  [github](https://github.com/akanazawa/human_dynamics/blob/master/doc/insta_variety.md)
 ##### •PoseTrack  [homapage](https://posetrack.net/)
 ##### •Kinetics-400  [website](https://deepmind.com/research/open-source/kinetics)
+##### •RenderPeople  [website](https://renderpeople.com/)
+##### •BUFF  [website](https://buff.is.tue.mpg.de/)
+##### •People Snapshot Dataset  [homepage](https://graphics.tu-bs.de/people-snapshot)
+
 ### others
 ##### • K-Hairstyle: A Large-scale Korean hairstyle dataset for virtual hair editing and hairstyle classification  [homepage](https://www.arxiv-vanity.com/papers/2102.06288/)
 ##### • Simulated garment dataset for virtual try-on  [address](https://github.com/isantesteban/vto-dataset)
+##### • DeepFashion  [homepage](https://liuziwei7.github.io/projects/DeepFashion.html)
 
 ## labs
 ##### • max planck institute  [website](https://ps.is.tuebingen.mpg.de/publications)
