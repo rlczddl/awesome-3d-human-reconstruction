@@ -8,6 +8,7 @@ A curated list of related resources for 3d human reconstruction.
  - [dataset](#dataset)
  - [labs](#labs)
  - [other related awesome](#other-related-awesome)
+  - [survey](#survey)
  
  
  
@@ -55,6 +56,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### •  Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies [paper](https://arxiv.org/abs/2105.02872)  [code](https://github.com/zju3dv/animatable_nerf)
 ##### •  DeepMultiCap: Performance Capture of Multiple Characters Using Sparse Multiview Cameras  [paper](https://arxiv.org/abs/2105.00261)  [code](https://github.com/DSaurus/DeepMultiCap)
 ##### •  NeuralFusion: Neural Volumetric Rendering under Human-object Interactions  [paper](https://arxiv.org/pdf/2202.12825v1.pdf)
+##### •  PINA: Learning a Personalized Implicit Neural Avatar from a Single RGB-D Video Sequence  [paper](https://arxiv.org/pdf/2203.01754v1.pdf)  [code](https://github.com/zj-dong/pina/tree/page)
 
 ### fusion
 ##### • DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor  [paper](https://arxiv.org/abs/1804.06023)
@@ -145,6 +147,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • moothNet: A Plug-and-Play Network for Refining Human Poses in Videos  [paper](https://arxiv.org/pdf/2112.13715v1.pdf)
 ##### • HSPACE: Synthetic Parametric Humans Animated in Complex Environments  [paper](https://arxiv.org/pdf/2112.12867v1.pdf)
 ##### • VoteHMR: Occlusion-Aware Voting Network for Robust 3D Human Mesh Recovery from Partial Point Clouds  [paper](https://arxiv.org/pdf/2110.08729.pdf)  [code](https://github.com/hanabi7/VoteHMR)
+##### • H4D: Human 4D Modeling by Learning Neural Compositional Representation  [paper](https://arxiv.org/pdf/2203.01247v1.pdf)
 
 ### 3d human face
 ##### • High-Fidelity 3D Digital Human Creation from RGB-D Selfies  [paper](https://arxiv.org/pdf/2010.05562.pdf)  [code](https://github.com/tencent-ailab/hifi3dface)
@@ -298,6 +301,8 @@ A curated list of related resources for 3d human reconstruction.
 ##### •RenderPeople  [website](https://renderpeople.com/)
 ##### •BUFF  [website](https://buff.is.tue.mpg.de/)
 ##### •People Snapshot Dataset  [homepage](https://graphics.tu-bs.de/people-snapshot)
+##### •Multi-Garment  [homepage](https://virtualhumans.mpi-inf.mpg.de/mgn/)
+##### •iPER [website](https://svip-lab.github.io/dataset/iPER_dataset.html)
 
 ### others
 ##### • K-Hairstyle: A Large-scale Korean hairstyle dataset for virtual hair editing and hairstyle classification  [homepage](https://www.arxiv-vanity.com/papers/2102.06288/)
@@ -318,3 +323,6 @@ A curated list of related resources for 3d human reconstruction.
 ##### • awesome-hand-pose-estimation  [github](https://github.com/xinghaochen/awesome-hand-pose-estimation)
 ##### • Awesome 3D Body Papers  [github](https://github.com/3DFaceBody/awesome-3dbody-papers)
 ##### • Body_Reconstruction_References  [github](https://github.com/chenweikai/Body_Reconstruction_References#data-and-code)
+
+## survey
+##### • Recovering 3D Human Mesh from Monocular Images: A Survey  [paper](https://arxiv.org/pdf/2203.01923v1.pdf)  [github](https://github.com/tinatiansjz/hmr-survey)
