@@ -62,6 +62,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor  [paper](https://arxiv.org/abs/1804.06023)
 ##### • Robust 3D Self-portraits in Seconds  [paper](https://arxiv.org/abs/2004.02460)
 ##### • ACCURATE HUMAN BODY RECONSTRUCTION FOR VOLUMETRIC VIDEO  [paper](https://arxiv.org/pdf/2202.13118v1.pdf)
+##### • OcclusionFusion: Occlusion-aware Motion Estimation for Real-time Dynamic 3D Reconstruction [paper](https://arxiv.org/pdf/2203.07977v1.pdf)  [code](https://github.com/wenbin-lin/OcclusionFusion/)
 
 ### 3D human whole body
 ##### • Collaborative Regression of Expressive Bodies using Moderation  [paper&code](https://pixie.is.tue.mpg.de/)
@@ -72,6 +73,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Lightweight Multi-person Total Motion Capture Using Sparse Multi-view Cameras  [paper](https://arxiv.org/pdf/2108.10378v1.pdf)
 ##### • Imposing Temporal Consistency on Deep Monocular Body Shape and Pose Estimation  [paper](https://arxiv.org/pdf/2202.03074v1.pdf)
 ##### • PIANO: A Parametric Hand Bone Model from Magnetic Resonance Imaging  [github](https://github.com/reyuwei/PIANO_model)
+##### • GOAL: Generating 4D Whole-Body Motion for Hand-Object Grasping  [paper](https://arxiv.org/pdf/2112.11454.pdf)  [code](https://github.com/otaheri/GOAL)
 
 ### 3D human body
 ##### • Monocular Expressive Body Regression through Body-Driven Attention  [paper](https://arxiv.org/abs/2008.09062)  [code](https://github.com/vchoutas/expose)
@@ -161,6 +163,8 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Self-supervised High-fidelity and Re-renderable 3D Facial Reconstruction from a Single Imag  [paper](https://arxiv.org/pdf/2111.08282.pdf)
 ##### • Generating Diverse 3D Reconstructions from a Single Occluded Face Image  [paper](https://arxiv.org/pdf/2112.00879v1.pdf)
 ##### • Self-Supervised Robustifying Guidance for Monocular 3D Face Reconstruction  [paper](https://arxiv.org/pdf/2112.14382v1.pdf)
+##### • BabyNet: Reconstructing 3D faces of babies from uncalibrated photographs  [paper](https://arxiv.org/pdf/2203.05908v1.pdf)
+##### • S2F2: Self-Supervised High Fidelity Face Reconstruction from Monocular Image  [paper](https://arxiv.org/pdf/2203.07732v1.pdf)
 
 ### 3d human head
 ##### • Pixel Codec Avatars  [paper](https://arxiv.org/pdf/2104.04638.pdf)
@@ -216,6 +220,10 @@ A curated list of related resources for 3d human reconstruction.
 ##### • ElePose: Unsupervised 3D Human Pose Estimation by Predicting Camera Elevation and Learning Normalizing Flows on 2D Poses  [paper](https://arxiv.org/pdf/2112.07088v1.pdf)
 ##### • Multi-modal 3D Human Pose Estimation with 2D Weak Supervision in Autonomous Driving  [paper](https://arxiv.org/pdf/2112.12141v1.pdf)
 ##### • AdaptPose: Cross-Dataset Adaptation for 3D Human Pose Estimation by Learnable Motion Generation  [paper](https://arxiv.org/pdf/2112.11593v1.pdf)
+##### • FLAG: Flow-based 3D Avatar Generation from Sparse Observations  [paper](https://arxiv.org/pdf/2203.05789v1.pdf)
+##### • Pose-MUM : Reinforcing Key Points Relationship for Semi-Supervised Human Pose Estimation  [paper]()
+##### • Distribution-Aware Single-Stage Models for Multi-Person 3D Pose Estimation  [paper](https://arxiv.org/pdf/2203.07697v1.pdf)
+##### • P-STMO: Pre-Trained Spatial Temporal Many-to-One Model for 3D Human Pose Estimation  [paper](https://arxiv.org/pdf/2203.07628v1.pdf)  [code](https://github.com/paTRICK-swk/P-STMO)
 
 ### registration
 ##### • LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration  [paper](https://virtualhumans.mpi-inf.mpg.de/papers/bhatnagar2020loopreg/bhatnagar2020loopreg.pdf)  [code](https://github.com/bharat-b7/LoopReg)
@@ -223,6 +231,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • FARM: Functional Automatic Registration Method for 3D Human Bodies  [paper](https://arxiv.org/abs/1807.10517)  [code](https://github.com/riccardomarin/FARM)
 ##### • Locally Aware Piecewise Transformation Fields for 3D Human Mesh Registration  [paper](https://arxiv.org/pdf/2104.08160v1.pdf)
 ##### • Unsupervised 3D Human Mesh Recovery from Noisy Point Clouds  [paper](https://arxiv.org/pdf/2107.07539v1.pdf)
+##### • A Survey of Non-Rigid 3D Registration  [paper](https://arxiv.org/pdf/2203.07858v1.pdf)
 
 ### correspondence
 ##### • HumanGPS: Geodesic PreServing Feature for Dense Human Correspondences  [paper](https://feitongt.github.io/HumanGPS/paper.pdf)
@@ -261,6 +270,10 @@ A curated list of related resources for 3d human reconstruction.
 ##### • ADG-Pose: Automated Dataset Generation for Real-World Human Pose Estimation  [paper](https://arxiv.org/pdf/2202.00753v1.pdf)  [code](https://github.com/TeCSAR-UNCC/ADG-Pose)
 ##### • DiffusionNet: Discretization Agnostic Learning on Surfaces  [paper](https://arxiv.org/pdf/2012.00888.pdf)
 ##### • Text and Image Guided 3D Avatar Generation and Manipulation  [paper](https://arxiv.org/pdf/2202.06079v1.pdf)  [code](https://catlab-team.github.io/)
+##### • Quantification of Occlusion Handling Capability of a 3D Human Pose Estimation Framework  [paper](https://arxiv.org/pdf/2203.04113v1.pdf)
+##### • Motron: Multimodal Probabilistic Human Motion Forecasting  [paper](https://arxiv.org/pdf/2203.04132v1.pdf)
+##### • FEXGAN-META: FACIAL EXPRESSION GENERATION WITH META HUMANS  [paper](https://arxiv.org/pdf/2203.05975v1.pdf)
+##### • ActFormer: A GAN Transformer Framework towards General Action-Conditioned 3D Human Motion Generation
 
 ## parametric model
 ### body
@@ -303,6 +316,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### •People Snapshot Dataset  [homepage](https://graphics.tu-bs.de/people-snapshot)
 ##### •Multi-Garment  [homepage](https://virtualhumans.mpi-inf.mpg.de/mgn/)
 ##### •iPER [website](https://svip-lab.github.io/dataset/iPER_dataset.html)
+##### •ZJU-MoCap  [homepage](https://chingswy.github.io/Dataset-Demo/)
 
 ### others
 ##### • K-Hairstyle: A Large-scale Korean hairstyle dataset for virtual hair editing and hairstyle classification  [homepage](https://www.arxiv-vanity.com/papers/2102.06288/)
@@ -323,6 +337,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • awesome-hand-pose-estimation  [github](https://github.com/xinghaochen/awesome-hand-pose-estimation)
 ##### • Awesome 3D Body Papers  [github](https://github.com/3DFaceBody/awesome-3dbody-papers)
 ##### • Body_Reconstruction_References  [github](https://github.com/chenweikai/Body_Reconstruction_References#data-and-code)
+##### • 3D-face-reconstruction-paper-list  [github](https://github.com/czh-98/3D-face-reconstruction-paper-list)
 
 ## survey
 ##### • Recovering 3D Human Mesh from Monocular Images: A Survey  [paper](https://arxiv.org/pdf/2203.01923v1.pdf)  [github](https://github.com/tinatiansjz/hmr-survey)
