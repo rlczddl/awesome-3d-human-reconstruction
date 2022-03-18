@@ -150,6 +150,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • HSPACE: Synthetic Parametric Humans Animated in Complex Environments  [paper](https://arxiv.org/pdf/2112.12867v1.pdf)
 ##### • VoteHMR: Occlusion-Aware Voting Network for Robust 3D Human Mesh Recovery from Partial Point Clouds  [paper](https://arxiv.org/pdf/2110.08729.pdf)  [code](https://github.com/hanabi7/VoteHMR)
 ##### • H4D: Human 4D Modeling by Learning Neural Compositional Representation  [paper](https://arxiv.org/pdf/2203.01247v1.pdf)
+##### • Capturing Humans in Motion: Temporal-Attentive 3D Human Pose and Shape Estimation from Monocular Video  [paper](https://arxiv.org/pdf/2203.08534v1.pdf)  [code](https://mps-net.github.io/MPS-Net/)
 
 ### 3d human face
 ##### • High-Fidelity 3D Digital Human Creation from RGB-D Selfies  [paper](https://arxiv.org/pdf/2010.05562.pdf)  [code](https://github.com/tencent-ailab/hifi3dface)
@@ -224,6 +225,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Pose-MUM : Reinforcing Key Points Relationship for Semi-Supervised Human Pose Estimation  [paper]()
 ##### • Distribution-Aware Single-Stage Models for Multi-Person 3D Pose Estimation  [paper](https://arxiv.org/pdf/2203.07697v1.pdf)
 ##### • P-STMO: Pre-Trained Spatial Temporal Many-to-One Model for 3D Human Pose Estimation  [paper](https://arxiv.org/pdf/2203.07628v1.pdf)  [code](https://github.com/paTRICK-swk/P-STMO)
+##### • PosePipe: Open-Source Human Pose Estimation Pipeline for Clinical Research  [paper](https://arxiv.org/pdf/2203.08792v1.pdf)  [code](https://github.com/peabody124/PosePipeline/)
 
 ### registration
 ##### • LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration  [paper](https://virtualhumans.mpi-inf.mpg.de/papers/bhatnagar2020loopreg/bhatnagar2020loopreg.pdf)  [code](https://github.com/bharat-b7/LoopReg)
@@ -274,6 +276,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Motron: Multimodal Probabilistic Human Motion Forecasting  [paper](https://arxiv.org/pdf/2203.04132v1.pdf)
 ##### • FEXGAN-META: FACIAL EXPRESSION GENERATION WITH META HUMANS  [paper](https://arxiv.org/pdf/2203.05975v1.pdf)
 ##### • ActFormer: A GAN Transformer Framework towards General Action-Conditioned 3D Human Motion Generation
+##### • Domain Adaptive Hand Keypoint and Pixel Localization in the Wild  [paper](https://arxiv.org/pdf/2203.08344v1.pdf)
 
 ## parametric model
 ### body
