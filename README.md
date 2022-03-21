@@ -151,6 +151,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • VoteHMR: Occlusion-Aware Voting Network for Robust 3D Human Mesh Recovery from Partial Point Clouds  [paper](https://arxiv.org/pdf/2110.08729.pdf)  [code](https://github.com/hanabi7/VoteHMR)
 ##### • H4D: Human 4D Modeling by Learning Neural Compositional Representation  [paper](https://arxiv.org/pdf/2203.01247v1.pdf)
 ##### • Capturing Humans in Motion: Temporal-Attentive 3D Human Pose and Shape Estimation from Monocular Video  [paper](https://arxiv.org/pdf/2203.08534v1.pdf)  [code](https://mps-net.github.io/MPS-Net/)
+##### • HybridCap: Inertia-aid Monocular Capture of Challenging Human Motions  [paper](https://arxiv.org/pdf/2203.09287v1.pdf)
 
 ### 3d human face
 ##### • High-Fidelity 3D Digital Human Creation from RGB-D Selfies  [paper](https://arxiv.org/pdf/2010.05562.pdf)  [code](https://github.com/tencent-ailab/hifi3dface)
@@ -166,6 +167,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Self-Supervised Robustifying Guidance for Monocular 3D Face Reconstruction  [paper](https://arxiv.org/pdf/2112.14382v1.pdf)
 ##### • BabyNet: Reconstructing 3D faces of babies from uncalibrated photographs  [paper](https://arxiv.org/pdf/2203.05908v1.pdf)
 ##### • S2F2: Self-Supervised High Fidelity Face Reconstruction from Monocular Image  [paper](https://arxiv.org/pdf/2203.07732v1.pdf)
+##### • Facial Geometric Detail Recovery via Implicit Representation  [paper](https://arxiv.org/pdf/2203.09692v1.pdf)  [code](https://github.com/deepinsight/insightface/tree/master/reconstruction/PBIDR)
 
 ### 3d human head
 ##### • Pixel Codec Avatars  [paper](https://arxiv.org/pdf/2104.04638.pdf)
@@ -189,6 +191,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Semi-Supervised 3D Hand Shape and Pose Estimation with Label Propagation  [paper](https://arxiv.org/pdf/2111.15199v1.pdf)
 ##### • MobRecon: Mobile-Friendly Hand Mesh Reconstruction from Monocular Image  [paper](https://arxiv.org/pdf/2112.02753v1.pdf)  [code](https://github.com/SeanChenxy/HandMesh)
 ##### • Consistent 3D Hand Reconstruction in Video via Self-Supervised Learning  [paper](https://arxiv.org/pdf/2201.09548v1.pdf)
+##### • Interacting Attention Graph for Single Image Two-Hand Reconstruction  [paper](https://arxiv.org/pdf/2203.09364v1.pdf)
 
 
 ## related
@@ -299,6 +302,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • FaceScape: 3D Facial Dataset and Benchmark for Single-View 3D Face Reconstruction  [paper](https://arxiv.org/pdf/2111.01082v1.pdf)
 ##### • 300W-LP &  AFLW2000-3D  [homepage](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm)
 ##### • AFLW  [website](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/)
+##### • REALY: Rethinking the Evaluation of 3D Face Reconstruction [paper](https://arxiv.org/pdf/2203.09729v1.pdf)  [website](https://www.realy3dface.com/)
 ### hand
 ##### • GRAB: A Dataset of Whole-Body Human Grasping of Objects  [github](https://github.com/otaheri/GRAB)
 ##### • Reconstructing Hand-Object Interactions in the Wild  [github](https://github.com/ZheC/MOW)
