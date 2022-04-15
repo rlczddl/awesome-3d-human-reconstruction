@@ -60,6 +60,9 @@ A curated list of related resources for 3d human reconstruction.
 ##### •  NeuMan: Neural Human Radiance Field from a Single Video  [paper](https://arxiv.org/pdf/2203.12575v1.pdf)
 ##### •   M Avatar: Implicit Morphable Head Avatars from Videos  [paper](https://arxiv.org/pdf/2112.07471.pdf)  [code](https://github.com/zhengyuf/IMavatar)
 ##### •   ImFace: A Nonlinear 3D Morphable Face Model with Implicit Neural Representations  [paper](https://arxiv.org/pdf/2203.14510.pdf)
+##### •   COAP: Compositional Articulated Occupancy of People  [paper](https://arxiv.org/pdf/2204.06184v1.pdf)  [code](https://github.com/markomih/COAP)
+##### •   SunStage: Portrait Reconstruction and Relighting using the Sun as a Light Stage  [paper](https://arxiv.org/pdf/2204.03648v1.pdf)
+##### •  LISA: Learning Implicit Shape and Appearance of Hands  [paper](https://arxiv.org/pdf/2204.01695v1.pdf)
 
 ### fusion
 ##### • DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor  [paper](https://arxiv.org/abs/1804.06023)
@@ -171,10 +174,14 @@ A curated list of related resources for 3d human reconstruction.
 ##### • BabyNet: Reconstructing 3D faces of babies from uncalibrated photographs  [paper](https://arxiv.org/pdf/2203.05908v1.pdf)
 ##### • S2F2: Self-Supervised High Fidelity Face Reconstruction from Monocular Image  [paper](https://arxiv.org/pdf/2203.07732v1.pdf)
 ##### • Facial Geometric Detail Recovery via Implicit Representation  [paper](https://arxiv.org/pdf/2203.09692v1.pdf)  [code](https://github.com/deepinsight/insightface/tree/master/reconstruction/PBIDR)
+##### • Beyond 3DMM: Learning to Capture High-fidelity 3D Face Shape  [paper](https://arxiv.org/pdf/2204.04379v1.pdf)
+##### • From 2D Images to 3D Model: Weakly Supervised Multi-View Face Reconstruction with Deep Fusion  [paper](https://arxiv.org/pdf/2204.03842v1.pdf)
+##### • F3D face reconstruction with dense landmarks  [paper](https://arxiv.org/pdf/2204.02776v1.pdf)
 
 ### 3d human head
 ##### • Pixel Codec Avatars  [paper](https://arxiv.org/pdf/2104.04638.pdf)
 ##### • H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction  [paper](https://arxiv.org/pdf/2107.12512v1.pdf)
+##### •Towards Metrical Reconstruction of Human Faces  [paper](https://arxiv.org/pdf/2204.06607v1.pdf)  [code](https://zielon.github.io/mica/)
 
 ### 3D human hand
 ##### • Active Learning for Bayesian 3D Hand Pose Estimation  [paper](https://arxiv.org/pdf/2010.00694.pdf)  [code](https://github.com/razvancaramalau/al_bhpe)
@@ -234,6 +241,10 @@ A curated list of related resources for 3d human reconstruction.
 ##### • PosePipe: Open-Source Human Pose Estimation Pipeline for Clinical Research  [paper](https://arxiv.org/pdf/2203.08792v1.pdf)  [code](https://github.com/peabody124/PosePipeline/)
 ##### • 3D Human Pose Estimation Using Möbius Graph Convolutional Networks  [paper](https://arxiv.org/pdf/2203.10554v1.pdf)
 ##### • Ray3D: ray-based 3D human pose estimation for monocular absolute 3D localization  [paper](https://arxiv.org/pdf/2203.11471v1.pdf)  [code](https://github.com/YxZhxn/Ray3D)
+##### • YOLO-Pose: Enhancing YOLO for Multi Person Pose Estimation Using Object Keypoint Similarity Loss [paper](https://arxiv.org/pdf/2204.06806v1.pdf)  [code](https://github.com/TexasInstruments/edgeai-yolov5)
+##### • Permutation-Invariant Relational Network for Multi-person 3D Pose Estimation  [paper](https://arxiv.org/pdf/2204.04913v1.pdf)
+##### • Non-Local Latent Relation Distillation for Self-Adaptive 3D Human Pose Estimation  [paper](https://arxiv.org/pdf/2204.01971v1.pdf)
+##### • Aligning Silhouette Topology for Self-Adaptive 3D Human Pose Recovery  [paper](https://arxiv.org/pdf/2204.01276v1.pdf)
 
 ### registration
 ##### • LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration  [paper](https://virtualhumans.mpi-inf.mpg.de/papers/bhatnagar2020loopreg/bhatnagar2020loopreg.pdf)  [code](https://github.com/bharat-b7/LoopReg)
@@ -253,6 +264,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • A Neural Anthropometer Learning from Body Dimensions Computed on Human 3D Meshes  [paper](https://arxiv.org/pdf/2110.04064v1.pdf)
 ##### • Robust 3D Garment Digitization from Monocular 2D Images for 3D Virtual Try-On Systems  [paper](https://arxiv.org/pdf/2111.15140v1.pdf)
 ##### • Single-image Human-body Reshaping with Deep Neural Networks  [paper](https://arxiv.org/pdf/2203.10496v1.pdf)
+##### • Style-Based Global Appearance Flow for Virtual Try-On  [paper](https://arxiv.org/pdf/2204.01046v1.pdf)
 
 ### texture 
 ##### • Spatiotemporal Texture Reconstruction for Dynamic Objects Using a Single RGB-D Camera  [paper](https://arxiv.org/pdf/2108.09007v1.pdf)
@@ -287,6 +299,10 @@ A curated list of related resources for 3d human reconstruction.
 ##### • ActFormer: A GAN Transformer Framework towards General Action-Conditioned 3D Human Motion Generation
 ##### • Domain Adaptive Hand Keypoint and Pixel Localization in the Wild  [paper](https://arxiv.org/pdf/2203.08344v1.pdf)
 ##### • Portrait Eyeglasses and Shadow Removal by Leveraging 3D Synthetic Data  [paper](https://arxiv.org/pdf/2203.10474v1.pdf)
+##### • Recognition of Freely Selected Keypoints on Human Limbs  [paper](https://arxiv.org/pdf/2204.06326v1.pdf)
+##### • What’s in your hands? 3D Reconstruction of Generic Objects in Hands  [paper](https://arxiv.org/pdf/2204.07153v1.pdf)  [code](https://github.com/JudyYe/ihoi)
+##### • CHORE: Contact, Human and Object REconstruction from a single RGB image  [paper](https://arxiv.org/pdf/2204.02445v1.pdf)
+##### • SNUG: Self-Supervised Neural Dynamic Garments  [paper](https://arxiv.org/pdf/2204.02219v1.pdf)
 
 ## parametric model
 ### body
@@ -311,6 +327,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • AFLW  [website](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/)
 ##### • REALY: Rethinking the Evaluation of 3D Face Reconstruction [paper](https://arxiv.org/pdf/2203.09729v1.pdf)  [website](https://www.realy3dface.com/)
 ##### • FaceVerse-High Quality 3D Face Dataset  [github](https://github.com/LizhenWangT/FaceVerse-Dataset)
+##### • DAD-3DHeads: A Large-scale Dense, Accurate and Diverse Dataset for 3D Head Alignment from a Single Image  [paper](https://arxiv.org/pdf/2204.03688v1.pdf)
 ### hand
 ##### • GRAB: A Dataset of Whole-Body Human Grasping of Objects  [github](https://github.com/otaheri/GRAB)
 ##### • Reconstructing Hand-Object Interactions in the Wild  [github](https://github.com/ZheC/MOW)
