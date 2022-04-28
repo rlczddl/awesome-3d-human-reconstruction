@@ -42,7 +42,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • MoFaNeRF: Morphable Facial Neural Radiance Field  [paper](https://arxiv.org/pdf/2112.02308.pdf)  [code](https://github.com/zhuhao-nju/mofanerf)
 ##### • Geometry-Guided Progressive NeRF for Generalizable and Efficient Neural Human Rendering  [paper](https://arxiv.org/pdf/2112.04312v1.pdf)
 ##### • HeadNeRF: A Real-time NeRF-based Parametric Head Model  [paper](https://arxiv.org/pdf/2112.05637v1.pdf)
-##### • I M Avatar: Implicit Morphable Head Avatars from Videos  [paper](https://arxiv.org/pdf/2112.07471v1.pdf)
+##### • I M Avatar: Implicit Morphable Head Avatars from Videos  [paper](https://arxiv.org/pdf/2112.07471v1.pdf)  [code](https://github.com/zhengyuf/IMavatar)
 ##### • LookinGoodπ: Real-time Person-independent Neural Re-rendering for High-quality Human Performance Capture  [paper](https://arxiv.org/pdf/2112.08037v1.pdf)
 ##### • ICON: Implicit Clothed humans Obtained from Normals  [paper](https://arxiv.org/pdf/2112.09127v1.pdf)  [code](https://github.com/YuliangXiu/ICON)
 ##### • DD-NeRF: Double-Diffusion Neural Radiance Field as a Generalizable Implicit Body Representation  [paper](https://arxiv.org/pdf/2112.12390v1.pdf)
@@ -63,6 +63,10 @@ A curated list of related resources for 3d human reconstruction.
 ##### •   COAP: Compositional Articulated Occupancy of People  [paper](https://arxiv.org/pdf/2204.06184v1.pdf)  [code](https://github.com/markomih/COAP)
 ##### •   SunStage: Portrait Reconstruction and Relighting using the Sun as a Light Stage  [paper](https://arxiv.org/pdf/2204.03648v1.pdf)
 ##### •  LISA: Learning Implicit Shape and Appearance of Hands  [paper](https://arxiv.org/pdf/2204.01695v1.pdf)
+##### •  Animatable Neural Radiance Fields from Monocular RGB-D  [paper](https://arxiv.org/pdf/2204.01218v1.pdf)
+##### •  JIFF: Jointly-aligned Implicit Face Function for High Quality Single View Clothed Human Reconstruction  [paper](https://arxiv.org/pdf/2204.10549v1.pdf)
+##### •  Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis  [paper](https://arxiv.org/pdf/2204.11798v1.pdf)
+
 
 ### fusion
 ##### • DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor  [paper](https://arxiv.org/abs/1804.06023)
@@ -177,6 +181,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Beyond 3DMM: Learning to Capture High-fidelity 3D Face Shape  [paper](https://arxiv.org/pdf/2204.04379v1.pdf)
 ##### • From 2D Images to 3D Model: Weakly Supervised Multi-View Face Reconstruction with Deep Fusion  [paper](https://arxiv.org/pdf/2204.03842v1.pdf)
 ##### • F3D face reconstruction with dense landmarks  [paper](https://arxiv.org/pdf/2204.02776v1.pdf)
+##### • EMOCA: Emotion Driven Monocular Face Capture and Animation  [paper](https://arxiv.org/pdf/2204.11312v1.pdf)
 
 ### 3d human head
 ##### • Pixel Codec Avatars  [paper](https://arxiv.org/pdf/2104.04638.pdf)
@@ -245,6 +250,8 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Permutation-Invariant Relational Network for Multi-person 3D Pose Estimation  [paper](https://arxiv.org/pdf/2204.04913v1.pdf)
 ##### • Non-Local Latent Relation Distillation for Self-Adaptive 3D Human Pose Estimation  [paper](https://arxiv.org/pdf/2204.01971v1.pdf)
 ##### • Aligning Silhouette Topology for Self-Adaptive 3D Human Pose Recovery  [paper](https://arxiv.org/pdf/2204.01276v1.pdf)
+##### • Dite-HRNet: Dynamic Lightweight High-Resolution Network for Human Pose Estimation  [paper](https://arxiv.org/pdf/2204.10762v1.pdf)
+##### • PedRecNet: Multi-task deep neural network for full 3D human pose and orientation estimation  [paper](https://arxiv.org/pdf/2204.11548v1.pdf)
 
 ### registration
 ##### • LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration  [paper](https://virtualhumans.mpi-inf.mpg.de/papers/bhatnagar2020loopreg/bhatnagar2020loopreg.pdf)  [code](https://github.com/bharat-b7/LoopReg)
@@ -252,7 +259,6 @@ A curated list of related resources for 3d human reconstruction.
 ##### • FARM: Functional Automatic Registration Method for 3D Human Bodies  [paper](https://arxiv.org/abs/1807.10517)  [code](https://github.com/riccardomarin/FARM)
 ##### • Locally Aware Piecewise Transformation Fields for 3D Human Mesh Registration  [paper](https://arxiv.org/pdf/2104.08160v1.pdf)
 ##### • Unsupervised 3D Human Mesh Recovery from Noisy Point Clouds  [paper](https://arxiv.org/pdf/2107.07539v1.pdf)
-##### • A Survey of Non-Rigid 3D Registration  [paper](https://arxiv.org/pdf/2203.07858v1.pdf)
 
 ### correspondence
 ##### • HumanGPS: Geodesic PreServing Feature for Dense Human Correspondences  [paper](https://feitongt.github.io/HumanGPS/paper.pdf)
@@ -303,6 +309,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • What’s in your hands? 3D Reconstruction of Generic Objects in Hands  [paper](https://arxiv.org/pdf/2204.07153v1.pdf)  [code](https://github.com/JudyYe/ihoi)
 ##### • CHORE: Contact, Human and Object REconstruction from a single RGB image  [paper](https://arxiv.org/pdf/2204.02445v1.pdf)
 ##### • SNUG: Self-Supervised Neural Dynamic Garments  [paper](https://arxiv.org/pdf/2204.02219v1.pdf)
+##### • 3D Magic Mirror: Clothing Reconstruction from a Single Image via a Causal Perspective  [paper](https://arxiv.org/pdf/2204.13096v1.pdf)
 
 ## parametric model
 ### body
@@ -349,6 +356,10 @@ A curated list of related resources for 3d human reconstruction.
 ##### •Multi-Garment  [homepage](https://virtualhumans.mpi-inf.mpg.de/mgn/)
 ##### •iPER [website](https://svip-lab.github.io/dataset/iPER_dataset.html)
 ##### •ZJU-MoCap  [homepage](https://chingswy.github.io/Dataset-Demo/)
+##### •SmartPortraits: Depth Powered Handheld Smartphone Dataset of Human Portraits for State Estimation, Reconstruction and Synthesis  [paper](https://arxiv.org/pdf/2204.10211v1.pdf)
+##### •MVP-Human Dataset for 3D Human Avatar Reconstruction from Unconstrained Frames  [paper](https://arxiv.org/pdf/2204.11184v1.pdf)
+### method
+##### •NeuralAnnot: Neural Annotator for 3D Human Mesh Training Sets  [paper](https://arxiv.org/pdf/2011.11232.pdf)
 
 ### others
 ##### • K-Hairstyle: A Large-scale Korean hairstyle dataset for virtual hair editing and hairstyle classification  [homepage](https://www.arxiv-vanity.com/papers/2102.06288/)
@@ -373,3 +384,5 @@ A curated list of related resources for 3d human reconstruction.
 
 ## survey
 ##### • Recovering 3D Human Mesh from Monocular Images: A Survey  [paper](https://arxiv.org/pdf/2203.01923v1.pdf)  [github](https://github.com/tinatiansjz/hmr-survey)
+##### • 2D Human Pose Estimation: A Survey  [paper](https://arxiv.org/pdf/2204.07370v1.pdf)
+##### • A Survey of Non-Rigid 3D Registration  [paper](https://arxiv.org/pdf/2203.07858v1.pdf)
