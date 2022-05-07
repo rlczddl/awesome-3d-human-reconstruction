@@ -66,6 +66,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### •  Animatable Neural Radiance Fields from Monocular RGB-D  [paper](https://arxiv.org/pdf/2204.01218v1.pdf)
 ##### •  JIFF: Jointly-aligned Implicit Face Function for High Quality Single View Clothed Human Reconstruction  [paper](https://arxiv.org/pdf/2204.10549v1.pdf)
 ##### •  Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis  [paper](https://arxiv.org/pdf/2204.11798v1.pdf)
+##### •  DANBO: Disentangled Articulated Neural Body Representations via Graph Neural Networks  [paper](https://arxiv.org/pdf/2205.01666.pdf)
 
 
 ### fusion
@@ -162,6 +163,8 @@ A curated list of related resources for 3d human reconstruction.
 ##### • H4D: Human 4D Modeling by Learning Neural Compositional Representation  [paper](https://arxiv.org/pdf/2203.01247v1.pdf)
 ##### • Capturing Humans in Motion: Temporal-Attentive 3D Human Pose and Shape Estimation from Monocular Video  [paper](https://arxiv.org/pdf/2203.08534v1.pdf)  [code](https://mps-net.github.io/MPS-Net/)
 ##### • HybridCap: Inertia-aid Monocular Capture of Challenging Human Motions  [paper](https://arxiv.org/pdf/2203.09287v1.pdf)
+##### • Learning to Estimate Robust 3D Human Mesh from In-the-Wild Crowded Scenes  [paper](https://arxiv.org/abs/2104.07300)  [code](https://github.com/hongsukchoi/3DCrowdNet_RELEASE)
+##### • BodySLAM: Joint Camera Localisation, Mapping, and Human Motion Tracking  [paper](https://arxiv.org/pdf/2205.02301v1.pdf)
 
 ### 3d human face
 ##### • High-Fidelity 3D Digital Human Creation from RGB-D Selfies  [paper](https://arxiv.org/pdf/2010.05562.pdf)  [code](https://github.com/tencent-ailab/hifi3dface)
@@ -255,7 +258,7 @@ A curated list of related resources for 3d human reconstruction.
 
 ### registration
 ##### • LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration  [paper](https://virtualhumans.mpi-inf.mpg.de/papers/bhatnagar2020loopreg/bhatnagar2020loopreg.pdf)  [code](https://github.com/bharat-b7/LoopReg)
-##### • Neural Deformation Graphs for Globally-consistent Non-rigid Reconstruction  [paper](https://arxiv.org/pdf/2012.01451.pdf)
+##### • Neural Deformation Graphs for Globally-consistent Non-rigid Reconstruction  [paper](https://arxiv.org/pdf/2012.01451.pdf) [code](https://github.com/AljazBozic/NeuralGraph)
 ##### • FARM: Functional Automatic Registration Method for 3D Human Bodies  [paper](https://arxiv.org/abs/1807.10517)  [code](https://github.com/riccardomarin/FARM)
 ##### • Locally Aware Piecewise Transformation Fields for 3D Human Mesh Registration  [paper](https://arxiv.org/pdf/2104.08160v1.pdf)
 ##### • Unsupervised 3D Human Mesh Recovery from Noisy Point Clouds  [paper](https://arxiv.org/pdf/2107.07539v1.pdf)
@@ -358,6 +361,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### •ZJU-MoCap  [homepage](https://chingswy.github.io/Dataset-Demo/)
 ##### •SmartPortraits: Depth Powered Handheld Smartphone Dataset of Human Portraits for State Estimation, Reconstruction and Synthesis  [paper](https://arxiv.org/pdf/2204.10211v1.pdf)
 ##### •MVP-Human Dataset for 3D Human Avatar Reconstruction from Unconstrained Frames  [paper](https://arxiv.org/pdf/2204.11184v1.pdf)
+##### •HuMMan: Multi-Modal 4D Human Dataset for Versatile Sensing and Modeling  [paper](https://arxiv.org/pdf/2204.13686v1.pdf)
 ### method
 ##### •NeuralAnnot: Neural Annotator for 3D Human Mesh Training Sets  [paper](https://arxiv.org/pdf/2011.11232.pdf)
 
