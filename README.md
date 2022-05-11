@@ -41,7 +41,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Implicit Neural Deformation for Multi-View Face Reconstruction  [paper](https://arxiv.org/pdf/2112.02494v1.pdf)
 ##### • MoFaNeRF: Morphable Facial Neural Radiance Field  [paper](https://arxiv.org/pdf/2112.02308.pdf)  [code](https://github.com/zhuhao-nju/mofanerf)
 ##### • Geometry-Guided Progressive NeRF for Generalizable and Efficient Neural Human Rendering  [paper](https://arxiv.org/pdf/2112.04312v1.pdf)
-##### • HeadNeRF: A Real-time NeRF-based Parametric Head Model  [paper](https://arxiv.org/pdf/2112.05637v1.pdf)
+##### • HeadNeRF: A Real-time NeRF-based Parametric Head Model  [paper](https://arxiv.org/pdf/2112.05637v1.pdf)  [code](https://github.com/CrisHY1995/headnerf)
 ##### • I M Avatar: Implicit Morphable Head Avatars from Videos  [paper](https://arxiv.org/pdf/2112.07471v1.pdf)  [code](https://github.com/zhengyuf/IMavatar)
 ##### • LookinGoodπ: Real-time Person-independent Neural Re-rendering for High-quality Human Performance Capture  [paper](https://arxiv.org/pdf/2112.08037v1.pdf)
 ##### • ICON: Implicit Clothed humans Obtained from Normals  [paper](https://arxiv.org/pdf/2112.09127v1.pdf)  [code](https://github.com/YuliangXiu/ICON)
@@ -67,6 +67,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### •  JIFF: Jointly-aligned Implicit Face Function for High Quality Single View Clothed Human Reconstruction  [paper](https://arxiv.org/pdf/2204.10549v1.pdf)
 ##### •  Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis  [paper](https://arxiv.org/pdf/2204.11798v1.pdf)
 ##### •  DANBO: Disentangled Articulated Neural Body Representations via Graph Neural Networks  [paper](https://arxiv.org/pdf/2205.01666.pdf)
+##### •  Single-view 3D Body and Cloth Reconstruction under Complex Poses  [paper](https://arxiv.org/pdf/2205.04087v1.pdf)
 
 
 ### fusion
@@ -152,7 +153,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Monocular Human Shape and Pose with Dense Mesh-borne Local Image Features  [paper](https://arxiv.org/pdf/2111.05319v1.pdf)
 ##### • Human Performance Capture from Monocular Video in the Wild  [paper](https://arxiv.org/pdf/2111.14672.pdf)
 ##### • Probabilistic Estimation of 3D Human Shape and Pose with a Semantic Local Parametric Model  [paper](https://arxiv.org/pdf/2111.15404v1.pdf)
-##### • GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras  [paper](https://arxiv.org/pdf/2112.01524v1.pdf)
+##### • GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras  [paper](https://arxiv.org/pdf/2112.01524v1.pdf)  [code](https://github.com/NVlabs/GLAMR)
 ##### • MetaAvatar: Learning Animatable Clothed Human Models from Few Depth Images}  [paper](https://openreview.net/forum?id=Q-PA3D1OsDz)  [code](https://github.com/taconite/MetaAvatar-release)
 ##### • EgoBody: Human Body Shape, Motion and Social Interactions from Head-Mounted Devices  [paper](https://arxiv.org/pdf/2112.07642v1.pdf)  [code](https://sanweiliti.github.io/egobody/egobody.html)
 ##### • Putting People in their Place: Monocular Regression of 3D People in Depth  [paper](https://arxiv.org/pdf/2112.08274v1.pdf)
@@ -185,6 +186,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • From 2D Images to 3D Model: Weakly Supervised Multi-View Face Reconstruction with Deep Fusion  [paper](https://arxiv.org/pdf/2204.03842v1.pdf)
 ##### • F3D face reconstruction with dense landmarks  [paper](https://arxiv.org/pdf/2204.02776v1.pdf)
 ##### • EMOCA: Emotion Driven Monocular Face Capture and Animation  [paper](https://arxiv.org/pdf/2204.11312v1.pdf)
+##### • Single-Image 3D Face Reconstruction under Perspective Projection  [paper](https://arxiv.org/pdf/2205.04126v1.pdf)
 
 ### 3d human head
 ##### • Pixel Codec Avatars  [paper](https://arxiv.org/pdf/2104.04638.pdf)
@@ -211,6 +213,8 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Consistent 3D Hand Reconstruction in Video via Self-Supervised Learning  [paper](https://arxiv.org/pdf/2201.09548v1.pdf)
 ##### • Interacting Attention Graph for Single Image Two-Hand Reconstruction  [paper](https://arxiv.org/pdf/2203.09364v1.pdf)
 
+### 3d hair
+##### • NeuralHDHair: Automatic High-fidelity Hair Modeling from a Single Image Using Implicit Neural Representations  [paper](https://arxiv.org/pdf/2205.04175v1.pdf)
 
 ## related
 ### human mattting
@@ -313,6 +317,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • CHORE: Contact, Human and Object REconstruction from a single RGB image  [paper](https://arxiv.org/pdf/2204.02445v1.pdf)
 ##### • SNUG: Self-Supervised Neural Dynamic Garments  [paper](https://arxiv.org/pdf/2204.02219v1.pdf)
 ##### • 3D Magic Mirror: Clothing Reconstruction from a Single Image via a Causal Perspective  [paper](https://arxiv.org/pdf/2204.13096v1.pdf)
+##### • Fake it till you make it: face analysis in the wild using synthetic data alone  [homepage](https://microsoft.github.io/FaceSynthetics/)
 
 ## parametric model
 ### body
@@ -364,6 +369,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### •HuMMan: Multi-Modal 4D Human Dataset for Versatile Sensing and Modeling  [paper](https://arxiv.org/pdf/2204.13686v1.pdf)
 ### method
 ##### •NeuralAnnot: Neural Annotator for 3D Human Mesh Training Sets  [paper](https://arxiv.org/pdf/2011.11232.pdf)
+##### •GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models  [github](https://github.com/google-research/google-research/tree/master/ghum)
 
 ### others
 ##### • K-Hairstyle: A Large-scale Korean hairstyle dataset for virtual hair editing and hairstyle classification  [homepage](https://www.arxiv-vanity.com/papers/2102.06288/)
@@ -385,6 +391,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Awesome 3D Body Papers  [github](https://github.com/3DFaceBody/awesome-3dbody-papers)
 ##### • Body_Reconstruction_References  [github](https://github.com/chenweikai/Body_Reconstruction_References#data-and-code)
 ##### • 3D-face-reconstruction-paper-list  [github](https://github.com/czh-98/3D-face-reconstruction-paper-list)
+##### • awesome_talking_face_generation  [github](https://github.com/YunjinPark/awesome_talking_face_generation)
 
 ## survey
 ##### • Recovering 3D Human Mesh from Monocular Images: A Survey  [paper](https://arxiv.org/pdf/2203.01923v1.pdf)  [github](https://github.com/tinatiansjz/hmr-survey)
