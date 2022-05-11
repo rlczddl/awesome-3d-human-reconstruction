@@ -333,6 +333,10 @@ A curated list of related resources for 3d human reconstruction.
 ### hand
 ##### • MANO  [paper](https://ps.is.mpg.de/uploads_file/attachment/attachment/392/Embodied_Hands_SiggraphAsia2017.pdf)  [website](https://mano.is.tue.mpg.de/)
 ##### • NIMBLE: A Non-rigid Hand Model with Bones and Muscles  [paper](https://arxiv.org/pdf/2202.04533v1.pdf)
+### method
+##### •GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models  [github](https://github.com/google-research/google-research/tree/master/ghum)
+##### •Large Scale 3D Morphable Models  [paper](https://link.springer.com/article/10.1007/s11263-017-1009-7)  [code](https://github.com/menpo/lsfm)
+##### •Morphable Face Models - An Open Framework  [paper](https://arxiv.org/abs/1709.08398)  [code](https://github.com/unibas-gravis/basel-face-pipeline)
 
 ## dataset
 ### face
@@ -369,7 +373,6 @@ A curated list of related resources for 3d human reconstruction.
 ##### •HuMMan: Multi-Modal 4D Human Dataset for Versatile Sensing and Modeling  [paper](https://arxiv.org/pdf/2204.13686v1.pdf)
 ### method
 ##### •NeuralAnnot: Neural Annotator for 3D Human Mesh Training Sets  [paper](https://arxiv.org/pdf/2011.11232.pdf)
-##### •GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models  [github](https://github.com/google-research/google-research/tree/master/ghum)
 
 ### others
 ##### • K-Hairstyle: A Large-scale Korean hairstyle dataset for virtual hair editing and hairstyle classification  [homepage](https://www.arxiv-vanity.com/papers/2102.06288/)
