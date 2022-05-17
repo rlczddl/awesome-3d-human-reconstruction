@@ -68,6 +68,8 @@ A curated list of related resources for 3d human reconstruction.
 ##### •  Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis  [paper](https://arxiv.org/pdf/2204.11798v1.pdf)
 ##### •  DANBO: Disentangled Articulated Neural Body Representations via Graph Neural Networks  [paper](https://arxiv.org/pdf/2205.01666.pdf)
 ##### •  Single-view 3D Body and Cloth Reconstruction under Complex Poses  [paper](https://arxiv.org/pdf/2205.04087v1.pdf)
+##### •  KeypointNeRF: Generalizing Image-based Volumetric Avatars using Relative Spatial Encoding of Keypoints  [paper](https://arxiv.org/pdf/2205.04992.pdf)
+##### •  H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction  [paper](https://arxiv.org/pdf/2107.12512.pdf)  [code](https://github.com/MaxPolak97/H3D-Net-reproduction)
 
 
 ### fusion
@@ -166,6 +168,8 @@ A curated list of related resources for 3d human reconstruction.
 ##### • HybridCap: Inertia-aid Monocular Capture of Challenging Human Motions  [paper](https://arxiv.org/pdf/2203.09287v1.pdf)
 ##### • Learning to Estimate Robust 3D Human Mesh from In-the-Wild Crowded Scenes  [paper](https://arxiv.org/abs/2104.07300)  [code](https://github.com/hongsukchoi/3DCrowdNet_RELEASE)
 ##### • BodySLAM: Joint Camera Localisation, Mapping, and Human Motion Tracking  [paper](https://arxiv.org/pdf/2205.02301v1.pdf)
+##### • HULC: 3D Human Motion Capture with Pose Manifold Sampling and Dense Contact Guidance  [paper](https://arxiv.org/pdf/2205.05677v1.pdf)
+##### • Learned Vertex Descent: A New Direction for 3D Human Model Fitting  [paper](https://arxiv.org/pdf/2205.06254v1.pdf)
 
 ### 3d human face
 ##### • High-Fidelity 3D Digital Human Creation from RGB-D Selfies  [paper](https://arxiv.org/pdf/2010.05562.pdf)  [code](https://github.com/tencent-ailab/hifi3dface)
@@ -212,6 +216,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • MobRecon: Mobile-Friendly Hand Mesh Reconstruction from Monocular Image  [paper](https://arxiv.org/pdf/2112.02753v1.pdf)  [code](https://github.com/SeanChenxy/HandMesh)
 ##### • Consistent 3D Hand Reconstruction in Video via Self-Supervised Learning  [paper](https://arxiv.org/pdf/2201.09548v1.pdf)
 ##### • Interacting Attention Graph for Single Image Two-Hand Reconstruction  [paper](https://arxiv.org/pdf/2203.09364v1.pdf)
+##### • HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network  [paper](https://arxiv.org/abs/2203.14564)  [code](https://github.com/namepllet/HandOccNet)
 
 ### 3d hair
 ##### • NeuralHDHair: Automatic High-fidelity Hair Modeling from a Single Image Using Implicit Neural Representations  [paper](https://arxiv.org/pdf/2205.04175v1.pdf)
@@ -259,6 +264,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Aligning Silhouette Topology for Self-Adaptive 3D Human Pose Recovery  [paper](https://arxiv.org/pdf/2204.01276v1.pdf)
 ##### • Dite-HRNet: Dynamic Lightweight High-Resolution Network for Human Pose Estimation  [paper](https://arxiv.org/pdf/2204.10762v1.pdf)
 ##### • PedRecNet: Multi-task deep neural network for full 3D human pose and orientation estimation  [paper](https://arxiv.org/pdf/2204.11548v1.pdf)
+##### • "Teaching Independent Parts Separately" (TIPS-GAN) : Improving Accuracy and Stability in Unsupervised Adversarial 2D to 3D Human Pose Estimation  [paper](https://arxiv.org/pdf/2205.05980v1.pdf)
 
 ### registration
 ##### • LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration  [paper](https://virtualhumans.mpi-inf.mpg.de/papers/bhatnagar2020loopreg/bhatnagar2020loopreg.pdf)  [code](https://github.com/bharat-b7/LoopReg)
@@ -278,6 +284,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Robust 3D Garment Digitization from Monocular 2D Images for 3D Virtual Try-On Systems  [paper](https://arxiv.org/pdf/2111.15140v1.pdf)
 ##### • Single-image Human-body Reshaping with Deep Neural Networks  [paper](https://arxiv.org/pdf/2203.10496v1.pdf)
 ##### • Style-Based Global Appearance Flow for Virtual Try-On  [paper](https://arxiv.org/pdf/2204.01046v1.pdf)
+##### • Monitoring of Pigmented Skin Lesions Using 3D Whole Body Imaging  [paper](https://arxiv.org/pdf/2205.07085v1.pdf)
 
 ### texture 
 ##### • Spatiotemporal Texture Reconstruction for Dynamic Objects Using a Single RGB-D Camera  [paper](https://arxiv.org/pdf/2108.09007v1.pdf)
@@ -346,7 +353,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • AFLW  [website](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/)
 ##### • REALY: Rethinking the Evaluation of 3D Face Reconstruction [paper](https://arxiv.org/pdf/2203.09729v1.pdf)  [website](https://www.realy3dface.com/)
 ##### • FaceVerse-High Quality 3D Face Dataset  [github](https://github.com/LizhenWangT/FaceVerse-Dataset)
-##### • DAD-3DHeads: A Large-scale Dense, Accurate and Diverse Dataset for 3D Head Alignment from a Single Image  [paper](https://arxiv.org/pdf/2204.03688v1.pdf)
+##### • DAD-3DHeads: A Large-scale Dense, Accurate and Diverse Dataset for 3D Head Alignment from a Single Image  [paper](https://arxiv.org/pdf/2204.03688v1.pdf)  [github](https://github.com/PinataFarms/DAD-3DHeads)
 ### hand
 ##### • GRAB: A Dataset of Whole-Body Human Grasping of Objects  [github](https://github.com/otaheri/GRAB)
 ##### • Reconstructing Hand-Object Interactions in the Wild  [github](https://github.com/ZheC/MOW)
@@ -378,6 +385,8 @@ A curated list of related resources for 3d human reconstruction.
 ##### • K-Hairstyle: A Large-scale Korean hairstyle dataset for virtual hair editing and hairstyle classification  [homepage](https://www.arxiv-vanity.com/papers/2102.06288/)
 ##### • Simulated garment dataset for virtual try-on  [address](https://github.com/isantesteban/vto-dataset)
 ##### • DeepFashion  [homepage](https://liuziwei7.github.io/projects/DeepFashion.html)
+##### • Delving into High-Quality Synthetic Face Occlusion Segmentation Datasets  [paper](https://arxiv.org/pdf/2205.06218v1.pdf)
+##### • 3A-GAN: Facial Flow for Face Animation with Generative Adversarial Networks  [paper](https://arxiv.org/pdf/2205.06204v1.pdf)
 
 ## labs
 ##### • max planck institute  [website](https://ps.is.tuebingen.mpg.de/publications)
