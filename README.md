@@ -70,6 +70,8 @@ A curated list of related resources for 3d human reconstruction.
 ##### •  Single-view 3D Body and Cloth Reconstruction under Complex Poses  [paper](https://arxiv.org/pdf/2205.04087v1.pdf)
 ##### •  KeypointNeRF: Generalizing Image-based Volumetric Avatars using Relative Spatial Encoding of Keypoints  [paper](https://arxiv.org/pdf/2205.04992.pdf)
 ##### •  H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction  [paper](https://arxiv.org/pdf/2107.12512.pdf)  [code](https://github.com/MaxPolak97/H3D-Net-reproduction)
+##### • Photorealistic Monocular 3D Reconstruction of Humans Wearing Clothing  [paper](https://arxiv.org/abs/2204.08906)
+##### • High-Fidelity Human Avatars from a Single RGB Camera  [paper](https://github.com/hzhao1997/HF-Avatar)
 
 
 ### fusion
@@ -217,6 +219,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Consistent 3D Hand Reconstruction in Video via Self-Supervised Learning  [paper](https://arxiv.org/pdf/2201.09548v1.pdf)
 ##### • Interacting Attention Graph for Single Image Two-Hand Reconstruction  [paper](https://arxiv.org/pdf/2203.09364v1.pdf)
 ##### • HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network  [paper](https://arxiv.org/abs/2203.14564)  [code](https://github.com/namepllet/HandOccNet)
+##### • TOCH: Spatio-Temporal Object Correspondence to Hand for Motion Refinement  [paper](https://arxiv.org/pdf/2205.07982v1.pdf)
 
 ### 3d hair
 ##### • NeuralHDHair: Automatic High-fidelity Hair Modeling from a Single Image Using Implicit Neural Representations  [paper](https://arxiv.org/pdf/2205.04175v1.pdf)
@@ -228,6 +231,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • DeepSportLab: a Unified Framework for Ball Detection, Player Instance Segmentation and Pose Estimation in Team Sports Scenes  [paper](https://arxiv.org/pdf/2112.00627v1.pdf)
 ##### • PP-HumanSeg: Connectivity-Aware Portrait Segmentation with a Large-Scale Teleconferencing Video Dataset  [paper](https://arxiv.org/pdf/2112.07146v1.pdf)  [code](https://github.com/PaddlePaddle/PaddleSeg)
 ##### • Portrait Segmentation Using Deep Learning  [paper](https://arxiv.org/pdf/2202.02705v1.pdf)
+##### • Human Instance Matting via Mutual Guidance and Multi-Instance Refinement  [paper](https://arxiv.org/pdf/2205.10767v1.pdf)  [code](https://github.com/nowsyn/InstMatt)
 
 ### pose estimation
 ##### • CanonPose: Self-Supervised Monocular 3D Human Pose Estimation in the Wild  [paper](https://arxiv.org/pdf/2011.14679.pdf)
@@ -265,6 +269,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Dite-HRNet: Dynamic Lightweight High-Resolution Network for Human Pose Estimation  [paper](https://arxiv.org/pdf/2204.10762v1.pdf)
 ##### • PedRecNet: Multi-task deep neural network for full 3D human pose and orientation estimation  [paper](https://arxiv.org/pdf/2204.11548v1.pdf)
 ##### • "Teaching Independent Parts Separately" (TIPS-GAN) : Improving Accuracy and Stability in Unsupervised Adversarial 2D to 3D Human Pose Estimation  [paper](https://arxiv.org/pdf/2205.05980v1.pdf)
+##### •Lightweight Human Pose Estimation Using Heatmap-Weighting Loss  [paper](https://arxiv.org/pdf/2205.10611v1.pdf)
 
 ### registration
 ##### • LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration  [paper](https://virtualhumans.mpi-inf.mpg.de/papers/bhatnagar2020loopreg/bhatnagar2020loopreg.pdf)  [code](https://github.com/bharat-b7/LoopReg)
@@ -275,6 +280,7 @@ A curated list of related resources for 3d human reconstruction.
 
 ### correspondence
 ##### • HumanGPS: Geodesic PreServing Feature for Dense Human Correspondences  [paper](https://feitongt.github.io/HumanGPS/paper.pdf)
+##### •BodyMap: Learning Full-Body Dense Correspondence Map  [paper](https://arxiv.org/pdf/2205.09111v1.pdf)
 
 ### application
 ##### • One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing  [paper](https://arxiv.org/pdf/2011.15126.pdf)
@@ -325,6 +331,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • SNUG: Self-Supervised Neural Dynamic Garments  [paper](https://arxiv.org/pdf/2204.02219v1.pdf)
 ##### • 3D Magic Mirror: Clothing Reconstruction from a Single Image via a Causal Perspective  [paper](https://arxiv.org/pdf/2204.13096v1.pdf)
 ##### • Fake it till you make it: face analysis in the wild using synthetic data alone  [homepage](https://microsoft.github.io/FaceSynthetics/)
+##### • AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars  [paper](https://arxiv.org/pdf/2205.08535v1.pdf)  [code](https://github.com/hongfz16/AvatarCLIP)
 
 ## parametric model
 ### body
@@ -409,3 +416,4 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Recovering 3D Human Mesh from Monocular Images: A Survey  [paper](https://arxiv.org/pdf/2203.01923v1.pdf)  [github](https://github.com/tinatiansjz/hmr-survey)
 ##### • 2D Human Pose Estimation: A Survey  [paper](https://arxiv.org/pdf/2204.07370v1.pdf)
 ##### • A Survey of Non-Rigid 3D Registration  [paper](https://arxiv.org/pdf/2203.07858v1.pdf)
+##### • 3D Face Reconstruction in Deep Learning Era: A Survey  [paper]()
