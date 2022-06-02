@@ -72,7 +72,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### •  H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction  [paper](https://arxiv.org/pdf/2107.12512.pdf)  [code](https://github.com/MaxPolak97/H3D-Net-reproduction)
 ##### • Photorealistic Monocular 3D Reconstruction of Humans Wearing Clothing  [paper](https://arxiv.org/abs/2204.08906)
 ##### • High-Fidelity Human Avatars from a Single RGB Camera  [paper](https://github.com/hzhao1997/HF-Avatar)
-
+##### • UV Volumes for Real-time Rendering of Editable Free-view Human Performance  [code](https://github.com/fanegg/UV-Volumes)
 
 ### fusion
 ##### • DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor  [paper](https://arxiv.org/abs/1804.06023)
@@ -172,6 +172,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • BodySLAM: Joint Camera Localisation, Mapping, and Human Motion Tracking  [paper](https://arxiv.org/pdf/2205.02301v1.pdf)
 ##### • HULC: 3D Human Motion Capture with Pose Manifold Sampling and Dense Contact Guidance  [paper](https://arxiv.org/pdf/2205.05677v1.pdf)
 ##### • Learned Vertex Descent: A New Direction for 3D Human Model Fitting  [paper](https://arxiv.org/pdf/2205.06254v1.pdf)
+##### • MUG: Multi-human Graph Network for 3D Mesh Reconstruction from 2D Pose  [paper](https://www.arxivdaily.com/thread/26950)
 
 ### 3d human face
 ##### • High-Fidelity 3D Digital Human Creation from RGB-D Selfies  [paper](https://arxiv.org/pdf/2010.05562.pdf)  [code](https://github.com/tencent-ailab/hifi3dface)
@@ -198,6 +199,8 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Pixel Codec Avatars  [paper](https://arxiv.org/pdf/2104.04638.pdf)
 ##### • H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction  [paper](https://arxiv.org/pdf/2107.12512v1.pdf)
 ##### •Towards Metrical Reconstruction of Human Faces  [paper](https://arxiv.org/pdf/2204.06607v1.pdf)  [code](https://zielon.github.io/mica/)
+##### •Data-driven 3D human head reconstruction [paper](https://www.sciencedirect.com/science/article/abs/pii/S0097849319300317)
+##### •Dynamic 3D avatar creation from hand-held video input, ACM  [paper](http://sofienbouaziz.com/pdf/Avatars_SIGG15.pdf)
 
 ### 3D human hand
 ##### • Active Learning for Bayesian 3D Hand Pose Estimation  [paper](https://arxiv.org/pdf/2010.00694.pdf)  [code](https://github.com/razvancaramalau/al_bhpe)
@@ -223,6 +226,14 @@ A curated list of related resources for 3d human reconstruction.
 
 ### 3d hair
 ##### • NeuralHDHair: Automatic High-fidelity Hair Modeling from a Single Image Using Implicit Neural Representations  [paper](https://arxiv.org/pdf/2205.04175v1.pdf)
+##### •3D hair synthesis using volumetric variational autoencoders
+##### •AO-CNN: filament-aware hair reconstruction based on volumetric vector fields
+
+### 3d teeth
+##### • Model-based teeth reconstruction  [paper](https://vcai.mpi-inf.mpg.de/projects/MZ/Papers/SGASIA2016_TR/page.html)
+
+### 3d eyelids
+##### • Real-time 3D Eyelids Tracking from Semantic Edges  [paper](http://xufeng.site/publications/2017/2017_Real-time%203D%20Eyelids%20Tracking%20from%20Semantic%20Edges-min.pdf)
 
 ## related
 ### human mattting
@@ -270,6 +281,9 @@ A curated list of related resources for 3d human reconstruction.
 ##### • PedRecNet: Multi-task deep neural network for full 3D human pose and orientation estimation  [paper](https://arxiv.org/pdf/2204.11548v1.pdf)
 ##### • "Teaching Independent Parts Separately" (TIPS-GAN) : Improving Accuracy and Stability in Unsupervised Adversarial 2D to 3D Human Pose Estimation  [paper](https://arxiv.org/pdf/2205.05980v1.pdf)
 ##### •Lightweight Human Pose Estimation Using Heatmap-Weighting Loss  [paper](https://arxiv.org/pdf/2205.10611v1.pdf)
+##### •VTP: Volumetric Transformer for Multi-view Multi-person 3D Pose Estimation  [paper](https://arxiv.org/pdf/2205.12602v1.pdf)
+##### •Location-free Human Pose Estimation  [paper](https://arxiv.org/pdf/2205.12619v1.pdf)
+##### •Trajectory Optimization for Physics-Based Reconstruction of 3d Human Pose from Monocular Video  [paper](https://arxiv.org/pdf/2205.12292v1.pdf)
 
 ### registration
 ##### • LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration  [paper](https://virtualhumans.mpi-inf.mpg.de/papers/bhatnagar2020loopreg/bhatnagar2020loopreg.pdf)  [code](https://github.com/bharat-b7/LoopReg)
@@ -291,6 +305,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Single-image Human-body Reshaping with Deep Neural Networks  [paper](https://arxiv.org/pdf/2203.10496v1.pdf)
 ##### • Style-Based Global Appearance Flow for Virtual Try-On  [paper](https://arxiv.org/pdf/2204.01046v1.pdf)
 ##### • Monitoring of Pigmented Skin Lesions Using 3D Whole Body Imaging  [paper](https://arxiv.org/pdf/2205.07085v1.pdf)
+##### • ESTIMATION OF 3D BODY SHAPE AND CLOTHING MEASUREMENTS FROM FRONTALAND SIDE-VIEW IMAGES  [paper](https://arxiv.org/pdf/2205.14347v1.pdf)
 
 ### texture 
 ##### • Spatiotemporal Texture Reconstruction for Dynamic Objects Using a Single RGB-D Camera  [paper](https://arxiv.org/pdf/2108.09007v1.pdf)
@@ -416,4 +431,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Recovering 3D Human Mesh from Monocular Images: A Survey  [paper](https://arxiv.org/pdf/2203.01923v1.pdf)  [github](https://github.com/tinatiansjz/hmr-survey)
 ##### • 2D Human Pose Estimation: A Survey  [paper](https://arxiv.org/pdf/2204.07370v1.pdf)
 ##### • A Survey of Non-Rigid 3D Registration  [paper](https://arxiv.org/pdf/2203.07858v1.pdf)
-##### • 3D Face Reconstruction in Deep Learning Era: A Survey  [paper]()
+##### • 3D Face Reconstruction in Deep Learning Era: A Survey  [paper](https://link.springer.com/article/10.1007/s11831-021-09705-4)
+##### • Towards efficient and photorealistic 3D human reconstruction: A brief survey  [paper](https://www.sciencedirect.com/science/article/pii/S2468502X21000413)
+##### •Survey on 3D face reconstruction from uncalibrated images  [paper](https://arxiv.org/abs/2011.05740)
+##### •State of the Art on 3D Reconstruction with RGB-D Cameras  [paper](https://zollhoefer.com/papers/EG18_RecoSTAR/paper.pdf)
