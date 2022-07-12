@@ -78,12 +78,19 @@ A curated list of related resources for 3d human reconstruction.
 ##### • RigNeRF: Fully Controllable Neural 3D Portraits  [paper](https://arxiv.org/pdf/2206.06481v1.pdf)
 ##### • EyeNeRF: A Hybrid Representation for Photorealistic Synthesis, Animation and Relighting of Human Eyes  [paper](https://arxiv.org/pdf/2206.08428v1.pdf)
 ##### • TAVA: Template-free Animatable Volumetric Actors  [paper](https://arxiv.org/pdf/2206.08929v1.pdf)
+##### • Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera  [homepage](https://ustc3dv.github.io/ndr/)
+##### • Generative Neural Articulated Radiance Fields  [paper](https://arxiv.org/pdf/2206.14314v1.pdf)
+##### • Neural Parameterization for Dynamic Human Head Editing [paper](https://arxiv.org/pdf/2207.00210v1.pdf)
+##### • AvatarCap: Animatable Avatar Conditioned Monocular Human Volumetric Capture  [paper](https://arxiv.org/pdf/2207.02031v1.pdf)  [code](https://github.com/lizhe00/AvatarCap)
 
-### fusion
+### geo fusion
 ##### • DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor  [paper](https://arxiv.org/abs/1804.06023)
 ##### • Robust 3D Self-portraits in Seconds  [paper](https://arxiv.org/abs/2004.02460)
 ##### • ACCURATE HUMAN BODY RECONSTRUCTION FOR VOLUMETRIC VIDEO  [paper](https://arxiv.org/pdf/2202.13118v1.pdf)
 ##### • OcclusionFusion: Occlusion-aware Motion Estimation for Real-time Dynamic 3D Reconstruction [paper](https://arxiv.org/pdf/2203.07977v1.pdf)  [code](https://github.com/wenbin-lin/OcclusionFusion/)
+
+### photo
+##### • Portrait Reconstruction and Relighting using the Sun as a Light Stage  [homepage](https://grail.cs.washington.edu/projects/sunstage/)
 
 ### 3D human whole body
 ##### • Monocular Expressive Body Regression through Body-Driven Attention  [paper](https://arxiv.org/abs/2008.09062)  [code](https://github.com/vchoutas/expose)
@@ -176,7 +183,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Learning to Estimate Robust 3D Human Mesh from In-the-Wild Crowded Scenes  [paper](https://arxiv.org/abs/2104.07300)  [code](https://github.com/hongsukchoi/3DCrowdNet_RELEASE)
 ##### • BodySLAM: Joint Camera Localisation, Mapping, and Human Motion Tracking  [paper](https://arxiv.org/pdf/2205.02301v1.pdf)
 ##### • HULC: 3D Human Motion Capture with Pose Manifold Sampling and Dense Contact Guidance  [paper](https://arxiv.org/pdf/2205.05677v1.pdf)
-##### • Learned Vertex Descent: A New Direction for 3D Human Model Fitting  [paper](https://arxiv.org/pdf/2205.06254v1.pdf)
+##### • Learned Vertex Descent: A New Direction for 3D Human Model Fitting  [paper](https://arxiv.org/pdf/2205.06254v1.pdf)  [code](https://github.com/enriccorona/LVD)
 ##### • MUG: Multi-human Graph Network for 3D Mesh Reconstruction from 2D Pose  [paper](https://www.arxivdaily.com/thread/26950)
 ##### • Accurate 3D Body Shape Regression using Metric and Semantic Attributes  [paper](https://arxiv.org/pdf/2206.07036v1.pdf)
 ##### • Capturing and Inferring Dense Full-Body Human-Scene Contact  [homepage](https://rich.is.tue.mpg.de/index.html)
@@ -210,6 +217,8 @@ A curated list of related resources for 3d human reconstruction.
 ##### •Data-driven 3D human head reconstruction [paper](https://www.sciencedirect.com/science/article/abs/pii/S0097849319300317)
 ##### •Dynamic 3D avatar creation from hand-held video input, ACM  [paper](http://sofienbouaziz.com/pdf/Avatars_SIGG15.pdf)
 ##### •Realistic One-shot Mesh-based Head Avatars  [paper](https://arxiv.org/pdf/2206.08343.pdf)
+##### •Authentic Volumetric Avatars from a Phone Scan  [paper](https://drive.google.com/file/d/1i4NJKAggS82wqMamCJ1OHRGgViuyoY6R/view)
+##### •Neural Head Avatars from Monocular RGB Videos  [homepage](https://philgras.github.io/neural_head_avatars/neural_head_avatars.html)
 
 ### 3D human hand
 ##### • Active Learning for Bayesian 3D Hand Pose Estimation  [paper](https://arxiv.org/pdf/2010.00694.pdf)  [code](https://github.com/razvancaramalau/al_bhpe)
@@ -320,6 +329,8 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Style-Based Global Appearance Flow for Virtual Try-On  [paper](https://arxiv.org/pdf/2204.01046v1.pdf)
 ##### • Monitoring of Pigmented Skin Lesions Using 3D Whole Body Imaging  [paper](https://arxiv.org/pdf/2205.07085v1.pdf)
 ##### • ESTIMATION OF 3D BODY SHAPE AND CLOTHING MEASUREMENTS FROM FRONTALAND SIDE-VIEW IMAGES  [paper](https://arxiv.org/pdf/2205.14347v1.pdf)
+##### • Dressing Avatars: Deep Photorealistic Appearance for Physically Simulated Clothing  [paper](https://arxiv.org/pdf/2206.15470.pdf)
+##### • AIFit: Automatic 3D Human-Interpretable Feedback Models for Fitness Training  [paper](http://vision.imar.ro/fit3d/)
 
 ### texture 
 ##### • Spatiotemporal Texture Reconstruction for Dynamic Objects Using a Single RGB-D Camera  [paper](https://arxiv.org/pdf/2108.09007v1.pdf)
@@ -365,6 +376,9 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Scene Aware Person Image Generation through Global Contextual Conditioning  [paper](https://arxiv.org/pdf/2206.02717v1.pdf)
 ##### • HairFIT: Pose-Invariant Hairstyle Transfer via Flow-based Hair Alignment and Semantic-Region-Aware Inpainting  [paper](https://arxiv.org/pdf/2206.08585v1.pdf)
 ##### • From a few Accurate 2D Correspondences to 3D Point Clouds  [paper](https://arxiv.org/pdf/2206.08749v1.pdf)
+##### • Convolutional Neural Network Based Partial Face Detection  [paper](https://arxiv.org/pdf/2206.14350v1.pdf)
+
+### special case
 
 ## parametric model
 ### body
