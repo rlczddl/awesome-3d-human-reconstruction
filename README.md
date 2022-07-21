@@ -82,6 +82,12 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Generative Neural Articulated Radiance Fields  [paper](https://arxiv.org/pdf/2206.14314v1.pdf)
 ##### • Neural Parameterization for Dynamic Human Head Editing [paper](https://arxiv.org/pdf/2207.00210v1.pdf)
 ##### • AvatarCap: Animatable Avatar Conditioned Monocular Human Volumetric Capture  [paper](https://arxiv.org/pdf/2207.02031v1.pdf)  [code](https://github.com/lizhe00/AvatarCap)
+##### • Learning Implicit Templates for Point-Based Clothed Human Modeling  [homepage](https://jsnln.github.io/fite/)
+##### •Relighting4D: Neural Relightable Human from Videos  [code](https://github.com/FrozenBurning/Relighting4D)
+##### •High Quality Human Reconstruction via Diffusion-based Stereo Using Sparse Cameras  [paper](https://arxiv.org/pdf/2207.08000v1.pdf)
+##### •CrossHuman: Learning Cross-Guidance from Multi-Frame Images for Human Reconstruction  [paper](https://arxiv.org/pdf/2207.09735v1.pdf)
+##### •UNIF: United Neural Implicit Functions for Clothed Human Reconstruction and Animation  [paper](https://arxiv.org/pdf/2207.09835v1.pdf)  [code](https://github.com/ShenhanQian/UNIF)
+##### •Drivable Volumetric Avatars using Texel-Aligned Features  [paper](https://arxiv.org/pdf/2207.09774v1.pdf)
 
 ### geo fusion
 ##### • DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor  [paper](https://arxiv.org/abs/1804.06023)
@@ -104,6 +110,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Imposing Temporal Consistency on Deep Monocular Body Shape and Pose Estimation  [paper](https://arxiv.org/pdf/2202.03074v1.pdf)
 ##### • PIANO: A Parametric Hand Bone Model from Magnetic Resonance Imaging  [github](https://github.com/reyuwei/PIANO_model)
 ##### • GOAL: Generating 4D Whole-Body Motion for Hand-Object Grasping  [paper](https://arxiv.org/pdf/2112.11454.pdf)  [code](https://github.com/otaheri/GOAL)
+##### • PyMAF-X: Towards Well-aligned Full-body Model Regression from Monocular Images  [paper](https://arxiv.org/pdf/2207.06400v1.pdf)
 
 ### 3D human body
 ##### • Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose  [paper](https://arxiv.org/abs/2008.09047)  [code](https://github.com/hongsukchoi/Pose2Mesh_RELEASE)
@@ -187,6 +194,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • MUG: Multi-human Graph Network for 3D Mesh Reconstruction from 2D Pose  [paper](https://www.arxivdaily.com/thread/26950)
 ##### • Accurate 3D Body Shape Regression using Metric and Semantic Attributes  [paper](https://arxiv.org/pdf/2206.07036v1.pdf)
 ##### • Capturing and Inferring Dense Full-Body Human-Scene Contact  [homepage](https://rich.is.tue.mpg.de/index.html)
+##### • Occluded Human Body Capture with Self-Supervised Spatial-Temporal Motion Prior  [paper](https://arxiv.org/pdf/2207.05375v1.pdf)
 
 ### 3d human face
 ##### • High-Fidelity 3D Digital Human Creation from RGB-D Selfies  [paper](https://arxiv.org/pdf/2010.05562.pdf)  [code](https://github.com/tencent-ailab/hifi3dface)
@@ -219,6 +227,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### •Realistic One-shot Mesh-based Head Avatars  [paper](https://arxiv.org/pdf/2206.08343.pdf)
 ##### •Authentic Volumetric Avatars from a Phone Scan  [paper](https://drive.google.com/file/d/1i4NJKAggS82wqMamCJ1OHRGgViuyoY6R/view)
 ##### •Neural Head Avatars from Monocular RGB Videos  [homepage](https://philgras.github.io/neural_head_avatars/neural_head_avatars.html)
+##### •Towards Metrical Reconstruction of Human Faces  [homepage](https://zielon.github.io/mica/)
 
 ### 3D human hand
 ##### • Active Learning for Bayesian 3D Hand Pose Estimation  [paper](https://arxiv.org/pdf/2010.00694.pdf)  [code](https://github.com/razvancaramalau/al_bhpe)
@@ -307,6 +316,10 @@ A curated list of related resources for 3d human reconstruction.
 ##### •SPGNet: Spatial Projection Guided 3D Human Pose Estimation in Low Dimensional Space  [paper](https://arxiv.org/pdf/2206.01867v1.pdf)
 ##### •GraphMLP: A Graph MLP-Like Architecture for 3D Human Pose Estimation  [paper](https://arxiv.org/pdf/2206.06420v1.pdf)
 ##### •BlazePose GHUM Holistic: Real-time 3D Human Landmarks and Pose Estimation  [paper](https://arxiv.org/pdf/2206.11678v1.pdf)
+##### •Mutual Adaptive Reasoning for Monocular 3D Multi-Person Pose Estimation  [paper](https://arxiv.org/pdf/2207.07900v1.pdf)
+##### •Human keypoint detection for close proximity human-robot interaction  [paper](https://arxiv.org/pdf/2207.07742v1.pdf)
+##### •VirtualPose: Learning Generalizable 3D Human Pose Models from Virtual Data  [paper](https://arxiv.org/pdf/2207.09949v1.pdf)
+##### •3D Clothed Human Reconstruction in the Wild  [paper](https://arxiv.org/pdf/2207.10053v1.pdf)  [code](https://github.com/hygenie1228/ClothWild_RELEASE)
 
 ### registration
 ##### • LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration  [paper](https://virtualhumans.mpi-inf.mpg.de/papers/bhatnagar2020loopreg/bhatnagar2020loopreg.pdf)  [code](https://github.com/bharat-b7/LoopReg)
@@ -318,6 +331,7 @@ A curated list of related resources for 3d human reconstruction.
 ### correspondence
 ##### • HumanGPS: Geodesic PreServing Feature for Dense Human Correspondences  [paper](https://feitongt.github.io/HumanGPS/paper.pdf)
 ##### •BodyMap: Learning Full-Body Dense Correspondence Map  [paper](https://arxiv.org/pdf/2205.09111v1.pdf)
+##### •CorrI2P: Deep Image-to-Point Cloud Registration via Dense Correspondence  [paper](https://arxiv.org/pdf/2207.05483v1.pdf)
 
 ### application
 ##### • One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing  [paper](https://arxiv.org/pdf/2011.15126.pdf)
@@ -377,6 +391,8 @@ A curated list of related resources for 3d human reconstruction.
 ##### • HairFIT: Pose-Invariant Hairstyle Transfer via Flow-based Hair Alignment and Semantic-Region-Aware Inpainting  [paper](https://arxiv.org/pdf/2206.08585v1.pdf)
 ##### • From a few Accurate 2D Correspondences to 3D Point Clouds  [paper](https://arxiv.org/pdf/2206.08749v1.pdf)
 ##### • Convolutional Neural Network Based Partial Face Detection  [paper](https://arxiv.org/pdf/2206.14350v1.pdf)
+##### • SPSN: Superpixel Prototype Sampling Network for RGB-D Salient Object Detection  [paper](https://arxiv.org/pdf/2207.07898v1.pdf)  [code](https://github.com/Hydragon516/SPSN)
+##### • Detecting Humans in RGB-D Data with CNNs  [paper](https://arxiv.org/pdf/2207.08064v1.pdf)
 
 ### special case
 
