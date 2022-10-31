@@ -202,6 +202,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Occluded Human Body Capture with Self-Supervised Spatial-Temporal Motion Prior  [paper](https://arxiv.org/pdf/2207.05375v1.pdf)
 ##### • Live Stream Temporally Embedded 3D Human Body Pose and Shape Estimation  [paper](https://arxiv.org/pdf/2207.12537v1.pdf)  [code](https://github.com/ostadabbas/TePose)
 ##### • CLIFF: Carrying Location Information in Full Frames into Human Pose and Shape Estimation  [paper](https://arxiv.org/pdf/2208.00571.pdf)
+##### • FastMETRO: Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers  [paper](https://arxiv.org/pdf/2207.13820.pdf)
 
 ### 3d human face
 ##### • High-Fidelity 3D Digital Human Creation from RGB-D Selfies  [paper](https://arxiv.org/pdf/2010.05562.pdf)  [code](https://github.com/tencent-ailab/hifi3dface)
