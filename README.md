@@ -93,6 +93,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### •VolTeMorph: Realtime, Controllable and Generalisable Animation of Volumetric Representations  [paper](https://www.arxiv-vanity.com/papers/2208.00949/?continueFlag=acd9680585ca1db48ed3cbc277e4da97)
 ##### •Multi-NeuS: 3D Head Portraits from Single Image with Neural Implicit Functions  [paper](https://arxiv.org/pdf/2209.04436.pdf)
 ##### •Learning to Relight Portrait Images via a Virtual Light Stage and Synthetic-to-Real Adaptation  [paper](https://arxiv.org/pdf/2209.10510.pdf)
+##### •Occupancy Planes for Single-view RGB-D Human Reconstruction Xiaoming Zhao, Yuan-Ting Hu, Zhongzheng Ren, Alexander G. Schwing  [paper](https://arxiv.org/pdf/2208.02817.pdf)
 
 ### geo fusion
 ##### • DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor  [paper](https://arxiv.org/abs/1804.06023)
