@@ -94,6 +94,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### •Multi-NeuS: 3D Head Portraits from Single Image with Neural Implicit Functions  [paper](https://arxiv.org/pdf/2209.04436.pdf)
 ##### •Learning to Relight Portrait Images via a Virtual Light Stage and Synthetic-to-Real Adaptation  [paper](https://arxiv.org/pdf/2209.10510.pdf)
 ##### •Occupancy Planes for Single-view RGB-D Human Reconstruction Xiaoming Zhao, Yuan-Ting Hu, Zhongzheng Ren, Alexander G. Schwing  [paper](https://arxiv.org/pdf/2208.02817.pdf)
+##### •ManVatar : Fast 3D Head Avatar Reconstruction Using Motion-Aware Neural Voxels  [paper](https://arxiv.org/pdf/2211.13206.pdf)
 
 ### geo fusion
 ##### • DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor  [paper](https://arxiv.org/abs/1804.06023)
@@ -440,6 +441,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • FaceVerse-High Quality 3D Face Dataset  [github](https://github.com/LizhenWangT/FaceVerse-Dataset)
 ##### • DAD-3DHeads: A Large-scale Dense, Accurate and Diverse Dataset for 3D Head Alignment from a Single Image  [paper](https://arxiv.org/pdf/2204.03688v1.pdf)  [github](https://github.com/PinataFarms/DAD-3DHeads)
 ##### • Multiface: A Dataset for Neural Face Rendering  [paper](https://arxiv.org/pdf/2207.11243.pdf)
+##### • DAD-3DHeads: A Large-scale Dense, Accurate and Diverse Dataset for 3D Head Alignment from a Single Image  [paper](https://arxiv.org/abs/2204.03688)
 ### hand
 ##### • GRAB: A Dataset of Whole-Body Human Grasping of Objects  [github](https://github.com/otaheri/GRAB)
 ##### • Reconstructing Hand-Object Interactions in the Wild  [github](https://github.com/ZheC/MOW)
