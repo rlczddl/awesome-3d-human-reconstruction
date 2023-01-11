@@ -101,6 +101,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### •NerfCap: Human Performance Capture With Dynamic Neural Radiance Fields  [paper](http://www.cad.zju.edu.cn/home/gfzhang/papers/NerfCap/NerfCap_TVCG_2022.pdf)  [code](https://github.com/wangkangkan/nerfcap)
 ##### •ECON: Explicit Clothed humans Obtained from Normals  [homepage](https://xiuyuliang.cn/econ/)
 ##### •PointAvatar: Deformable Point-based Head Avatars from Videos  [homepage](https://zhengyuf.github.io/pointavatar/)
+##### •TotalSelfScan: Learning Full-body Avatars from Self-Portrait Videos of Faces, Hands, and Bodies  [project](https://zju3dv.github.io/TotalSelfScan/)
 
 ### geo fusion
 ##### • DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor  [paper](https://arxiv.org/abs/1804.06023)
@@ -508,6 +509,7 @@ A curated list of related resources for 3d human reconstruction.
 ##### • 3D-face-reconstruction-paper-list  [github](https://github.com/czh-98/3D-face-reconstruction-paper-list)
 ##### • awesome_talking_face_generation  [github](https://github.com/YunjinPark/awesome_talking_face_generation)
 ##### • CG&3DV Twitter  [github](https://github.com/USTC3DV/Truck_of_Twitter_Messages)
+##### • FLAME-Universe [github](https://github.com/TimoBolkart/FLAME-Universe)
 
 ## survey
 ##### • Recovering 3D Human Mesh from Monocular Images: A Survey  [paper](https://arxiv.org/pdf/2203.01923v1.pdf)  [github](https://github.com/tinatiansjz/hmr-survey)
