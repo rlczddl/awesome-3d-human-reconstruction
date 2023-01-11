@@ -3,7 +3,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 
 ## Contents
  - [papers](#3d-human)
-    - [nerf or pifu](#nerf or pifu)
+    - [nerf or pifu](#nerf_or_pifu)
     - [geo fusion](#geo fusion)
     - [photo](#photo)
     - [3D human whole body](#3D human whole body)
