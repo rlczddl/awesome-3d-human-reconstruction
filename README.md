@@ -6,17 +6,17 @@ A curated list of related resources for 3d human reconstruction. Your contributi
     - [nerf or pifu](#nerf_or_pifu)
     - [geo fusion](#geo fusion)
     - [photo](#photo)
-    - [3D human whole body](#3D human whole body)
-    - [3D human body](#3D human body)
-    - [3d human face](#3d human face)
-    - [3d human head](#3d human head)
-    - [3D human hand](#3D human hand)
-    - [3d hair](#3d hair)
-    - [3d teeth](#3d teeth)
-    - [3d teeth](#3d eyelids)
+    - [3D human whole body](#3D_human_whole_body)
+    - [3D human body](#3D_human_body)
+    - [3d human face](#3d_human_face)
+    - [3d human head](#3d_human_head)
+    - [3D human hand](#3D_human_hand)
+    - [3d hair](#3d_hair)
+    - [3d teeth](#3d_teeth)
+    - [3d teeth](#3d_eyelids)
  - [related papers](#related)
-   - [human mattting](#human mattting)
-   - [pose estimation](#pose estimation)
+   - [human mattting](#human_mattting)
+   - [pose estimation](#pose_estimation)
    - [registration](#registration)
    - [correspondence](#correspondence)
    - [application](#application)
@@ -43,7 +43,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
  
  
 ## 3d human
-### nerf or pifu
+### nerf_or_pifu
 ##### • StereoPIFu: Depth Aware Clothed Human Digitization via Stereo Vision  [paper](https://arxiv.org/pdf/2104.05289.pdf)
 ##### • Learning Implicit 3D Representations of Dressed Humans from Sparse Views  [paper](https://arxiv.org/pdf/2104.08013v1.pdf)
 ##### • Animatable Neural Radiance Fields for Human Body Modeling  [paper](https://arxiv.org/pdf/2105.02872.pdf)
@@ -132,7 +132,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### •PointAvatar: Deformable Point-based Head Avatars from Videos  [homepage](https://zhengyuf.github.io/pointavatar/)
 ##### •TotalSelfScan: Learning Full-body Avatars from Self-Portrait Videos of Faces, Hands, and Bodies  [project](https://zju3dv.github.io/TotalSelfScan/)
 
-### geo fusion
+### geo_fusion
 ##### • DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor  [paper](https://arxiv.org/abs/1804.06023)
 ##### • Robust 3D Self-portraits in Seconds  [paper](https://arxiv.org/abs/2004.02460)
 ##### • ACCURATE HUMAN BODY RECONSTRUCTION FOR VOLUMETRIC VIDEO  [paper](https://arxiv.org/pdf/2202.13118v1.pdf)
@@ -141,7 +141,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ### photo
 ##### • Portrait Reconstruction and Relighting using the Sun as a Light Stage  [homepage](https://grail.cs.washington.edu/projects/sunstage/)
 
-### 3D human whole body
+### 3D_human_whole_body
 ##### • Monocular Expressive Body Regression through Body-Driven Attention  [paper](https://arxiv.org/abs/2008.09062)  [code](https://github.com/vchoutas/expose)
 ##### • FrankMocap: Fast Monocular 3D Hand and Body Motion Capture by Regression and Integration  [paper](https://arxiv.org/pdf/2008.08324.pdf)  [code](https://github.com/facebookresearch/frankmocap)
 ##### • Collaborative Regression of Expressive Bodies using Moderation  [paper&code](https://pixie.is.tue.mpg.de/)
@@ -155,7 +155,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### • GOAL: Generating 4D Whole-Body Motion for Hand-Object Grasping  [paper](https://arxiv.org/pdf/2112.11454.pdf)  [code](https://github.com/otaheri/GOAL)
 ##### • PyMAF-X: Towards Well-aligned Full-body Model Regression from Monocular Images  [paper](https://arxiv.org/pdf/2207.06400v1.pdf)
 
-### 3D human body
+### 3D_human_body
 ##### • Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose  [paper](https://arxiv.org/abs/2008.09047)  [code](https://github.com/hongsukchoi/Pose2Mesh_RELEASE)
 ##### • Monocular Real-Time Volumetric Performance Capture  [paper](https://arxiv.org/abs/2007.13988)  [code](https://github.com/Project-Splinter/MonoPort)
 ##### • Full-Body Awareness from Partial Observations  [paper](https://arxiv.org/abs/2008.06046)  [code](https://github.com/crockwell/partial_humans)
@@ -243,7 +243,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### • FastMETRO: Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers  [paper](https://arxiv.org/pdf/2207.13820.pdf)
 ##### • Parametric Model Estimation for 3D Clothed Humans from Point Clouds  [paper](http://www.cad.zju.edu.cn/home/gfzhang/papers/ISMAR2021_3DClothedHumans/3DClothedHumans.pdf) [code](https://github.com/wangkangkan/3DClothedHumans)
 
-### 3d human face
+### 3d_human_face
 ##### • High-Fidelity 3D Digital Human Creation from RGB-D Selfies  [paper](https://arxiv.org/pdf/2010.05562.pdf)  [code](https://github.com/tencent-ailab/hifi3dface)
 ##### • StyleUV: Diverse and High-quality UV Map Generative Model  [paper](https://arxiv.org/pdf/2011.12893.pdf)
 ##### • i3DMM: Deep Implicit 3D Morphable Model of Human Heads  [paper](https://arxiv.org/pdf/2011.14143v1.pdf)
@@ -264,7 +264,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### • EMOCA: Emotion Driven Monocular Face Capture and Animation  [paper](https://arxiv.org/pdf/2204.11312v1.pdf)
 ##### • Single-Image 3D Face Reconstruction under Perspective Projection  [paper](https://arxiv.org/pdf/2205.04126v1.pdf)
 
-### 3d human head
+### 3d_human_head
 ##### • DECA: Detailed Expression Capture and Animation  [paper](https://arxiv.org/pdf/2012.04012.pdf) [code](https://github.com/YadiraF/DECA?utm_source=catalyzex.com)
 ##### • Pixel Codec Avatars  [paper](https://arxiv.org/pdf/2104.04638.pdf)
 ##### • H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction  [paper](https://arxiv.org/pdf/2107.12512v1.pdf)
@@ -276,7 +276,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### •Neural Head Avatars from Monocular RGB Videos  [homepage](https://philgras.github.io/neural_head_avatars/neural_head_avatars.html)
 ##### •Towards Metrical Reconstruction of Human Faces  [homepage](https://zielon.github.io/mica/)
 
-### 3D human hand
+### 3D_human_hand
 ##### • Active Learning for Bayesian 3D Hand Pose Estimation  [paper](https://arxiv.org/pdf/2010.00694.pdf)  [code](https://github.com/razvancaramalau/al_bhpe)
 ##### • Multi-View Consistency Loss for Improved Single-Image 3D Reconstruction of Clothed People  [paper](https://akincaliskan3d.github.io/MV3DH//resources/ACCV_Cam_Ready_Multi_View_3D_Human.pdf)  [code](https://github.com/akcalakcal/Multi_View_Consistent_Single_Image_3D_Human_Reconstruction)
 ##### • EventHands: Real-Time Neural 3D Hand Reconstruction from an Event Stream
@@ -301,20 +301,20 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### • Efficient Annotation and Learning for 3DHand Pose Estimation: A Survey  [paper](https://arxiv.org/pdf/2206.02257v1.pdf)
 ##### • 3D Interacting Hand Pose Estimation by Hand De-occlusion and Removal  [code](https://github.com/MengHao666/HDR)
 
-### 3d hair
+### 3d_hair
 ##### • NeuralHDHair: Automatic High-fidelity Hair Modeling from a Single Image Using Implicit Neural Representations  [paper](https://arxiv.org/pdf/2205.04175v1.pdf)
 ##### •3D hair synthesis using volumetric variational autoencoders
 ##### •AO-CNN: filament-aware hair reconstruction based on volumetric vector fields
 ##### •Neural Strands: Learning Hair Geometry and Appearance from Multi-View Images  [paper](https://arxiv.org/abs/2207.14067)
 
-### 3d teeth
+### 3d_teeth
 ##### • Model-based teeth reconstruction  [paper](https://vcai.mpi-inf.mpg.de/projects/MZ/Papers/SGASIA2016_TR/page.html)
 
-### 3d eyelids
+### 3d_eyelids
 ##### • Real-time 3D Eyelids Tracking from Semantic Edges  [paper](http://xufeng.site/publications/2017/2017_Real-time%203D%20Eyelids%20Tracking%20from%20Semantic%20Edges-min.pdf)
 
 ## related
-### human mattting
+### human_mattting
 ##### • Real-Time High-Resolution Background Matting  [code](https://github.com/PeterL1n/BackgroundMattingV2)
 ##### • Real-Time Monocular Human Depth Estimation and Segmentation on Embedded Systems  [paper](https://arxiv.org/pdf/2108.10506v1.pdf)
 ##### • DeepSportLab: a Unified Framework for Ball Detection, Player Instance Segmentation and Pose Estimation in Team Sports Scenes  [paper](https://arxiv.org/pdf/2112.00627v1.pdf)
@@ -323,7 +323,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### • Human Instance Matting via Mutual Guidance and Multi-Instance Refinement  [paper](https://arxiv.org/pdf/2205.10767v1.pdf)  [code](https://github.com/nowsyn/InstMatt)
 ##### • 3DHumanGAN: Towards Photo-Realistic 3D-Aware Human Image Generation  [paper](http://aixpaper.com/view/3dhumangan_towards_photorealistic_3daware_human_image_generation)  [code](https://github.com/3dhumangan/3DHumanGAN)
 
-### pose estimation
+### pose_estimation
 ##### • CanonPose: Self-Supervised Monocular 3D Human Pose Estimation in the Wild  [paper](https://arxiv.org/pdf/2011.14679.pdf)
 ##### • Active Learning for Bayesian 3D Hand Pose Estimation  [paper](https://arxiv.org/pdf/2010.00694v2.pdf)  [code](https://github.com/razvancaramalau/al_bhpe)
 ##### • A-NeRF: Surface-free Human 3D Pose Refinement via Neural Rendering
