@@ -1,5 +1,5 @@
 # awesome 3d human reconstruction 
-A curated list of related resources for 3d human reconstruction.
+A curated list of related resources for 3d human reconstruction.Your contributions are welcome!
 
 ## Contents
  - [papers](#3d-human)
