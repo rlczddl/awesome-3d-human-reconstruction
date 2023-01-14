@@ -131,6 +131,8 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### •ECON: Explicit Clothed humans Obtained from Normals  [homepage](https://xiuyuliang.cn/econ/)
 ##### •PointAvatar: Deformable Point-based Head Avatars from Videos  [homepage](https://zhengyuf.github.io/pointavatar/)
 ##### •TotalSelfScan: Learning Full-body Avatars from Self-Portrait Videos of Faces, Hands, and Bodies  [project](https://zju3dv.github.io/TotalSelfScan/)
+##### •InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds  [homepage](https://tijiang13.github.io/InstantAvatar/#)
+
 
 ### geo_fusion
 ##### • DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor  [paper](https://arxiv.org/abs/1804.06023)
@@ -242,6 +244,8 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### • CLIFF: Carrying Location Information in Full Frames into Human Pose and Shape Estimation  [paper](https://arxiv.org/pdf/2208.00571.pdf)
 ##### • FastMETRO: Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers  [paper](https://arxiv.org/pdf/2207.13820.pdf)
 ##### • Parametric Model Estimation for 3D Clothed Humans from Point Clouds  [paper](http://www.cad.zju.edu.cn/home/gfzhang/papers/ISMAR2021_3DClothedHumans/3DClothedHumans.pdf) [code](https://github.com/wangkangkan/3DClothedHumans)
+##### • Scene-Aware 3D Multi-Human Motion Capture from a Single Camera  [paper](https://arxiv.org/pdf/2301.05175v1.pdf)  [code](https://github.com/dluvizon/scene-aware-3d-multi-human)
+##### • NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action [homepage](https://sites.google.com/view/nemo-neural-motion-field?pli=1)
 
 ### 3d_human_face
 ##### • High-Fidelity 3D Digital Human Creation from RGB-D Selfies  [paper](https://arxiv.org/pdf/2010.05562.pdf)  [code](https://github.com/tencent-ailab/hifi3dface)
@@ -322,6 +326,8 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### • Portrait Segmentation Using Deep Learning  [paper](https://arxiv.org/pdf/2202.02705v1.pdf)
 ##### • Human Instance Matting via Mutual Guidance and Multi-Instance Refinement  [paper](https://arxiv.org/pdf/2205.10767v1.pdf)  [code](https://github.com/nowsyn/InstMatt)
 ##### • 3DHumanGAN: Towards Photo-Realistic 3D-Aware Human Image Generation  [paper](http://aixpaper.com/view/3dhumangan_towards_photorealistic_3daware_human_image_generation)  [code](https://github.com/3dhumangan/3DHumanGAN)
+##### • Test-time Adaptation vs. Training-time Generalization: A Case Study in Human Instance Segmentation using Keypoints Estimation  [paper](https://arxiv.org/pdf/2212.06242v1.pdf)
+##### • Body Segmentation Using Multi-task Learning  [paper](https://arxiv.org/pdf/2212.06550v1.pdf)
 
 ### pose_estimation
 ##### • CanonPose: Self-Supervised Monocular 3D Human Pose Estimation in the Wild  [paper](https://arxiv.org/pdf/2011.14679.pdf)
@@ -371,6 +377,11 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### •VirtualPose: Learning Generalizable 3D Human Pose Models from Virtual Data  [paper](https://arxiv.org/pdf/2207.09949v1.pdf)
 ##### •3D Clothed Human Reconstruction in the Wild  [paper](https://arxiv.org/pdf/2207.10053v1.pdf)  [code](https://github.com/hygenie1228/ClothWild_RELEASE)
 ##### •EFFICIENT AND ACCURATE SKELETON-BASED TWO-PERSON INTERACTION RECOGNITION USING INTER- AND INTRA-BODY GRAPHS  [paper](https://arxiv.org/pdf/2207.12648v1.pdf)
+##### •Learning to Estimate 3D Human Pose from Point Cloud  [paper](https://arxiv.org/pdf/2212.12910v1.pdf)
+##### •Scene-aware Egocentric 3D Human Pose Estimation  [paper](https://arxiv.org/pdf/2212.11684v1.pdf)
+##### •Advanced Baseline for 3D Human Pose Estimation: A Two-Stage Approach  [paper](https://arxiv.org/pdf/2212.11344v1.pdf)
+##### •GFPose: Learning 3D Human Pose Prior with Gradient Fields  [paper](https://arxiv.org/pdf/2212.08641v1.pdf)
+##### •HUM3DIL: Semi-supervised Multi-modal 3D Human Pose Estimation for Autonomous Driving  [paper](https://arxiv.org/pdf/2212.07729v1.pdf)
 
 ### registration
 ##### • LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration  [paper](https://virtualhumans.mpi-inf.mpg.de/papers/bhatnagar2020loopreg/bhatnagar2020loopreg.pdf)  [code](https://github.com/bharat-b7/LoopReg)
@@ -448,7 +459,8 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### • 3D Shape Sequence of Human Comparison and Classification using Current and Varifolds  [paper](https://arxiv.org/pdf/2207.12485v1.pdf)  [code](https://github.com/CRISTAL-3DSAM/HumanComparisonVarifolds)
 ##### • KinePose: A temporally optimized inverse kinematics technique for 6DOF human pose estimation with biomechanical constraints  [paper](https://arxiv.org/pdf/2207.12841v1.pdf)  [code](https://github.com/KevGildea/KinePose)
 ##### • Skeleton-free Pose Transfer for Stylized 3D Character  [paper](https://www.arxiv-vanity.com/papers/2208.00790/?continueFlag=acd9680585ca1db48ed3cbc277e4da97)
-
+##### • Learning Continuous Mesh Representation with Spherical Implicit Surface  [paper](https://arxiv.org/pdf/2301.04695v1.pdf)
+##### • Scene Synthesis from Human Motion  [paper](https://arxiv.org/pdf/2301.01424v1.pdf)
 
 ## parametric model
 ### body
@@ -480,6 +492,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### • DAD-3DHeads: A Large-scale Dense, Accurate and Diverse Dataset for 3D Head Alignment from a Single Image  [paper](https://arxiv.org/pdf/2204.03688v1.pdf)  [github](https://github.com/PinataFarms/DAD-3DHeads)
 ##### • Multiface: A Dataset for Neural Face Rendering  [paper](https://arxiv.org/pdf/2207.11243.pdf)
 ##### • DAD-3DHeads: A Large-scale Dense, Accurate and Diverse Dataset for 3D Head Alignment from a Single Image  [paper](https://arxiv.org/abs/2204.03688)
+##### • mimicme  [github](https://github.com/apapaion/mimicme)
 ### hand
 ##### • GRAB: A Dataset of Whole-Body Human Grasping of Objects  [github](https://github.com/otaheri/GRAB)
 ##### • Reconstructing Hand-Object Interactions in the Wild  [github](https://github.com/ZheC/MOW)
@@ -510,6 +523,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### •imar_vision_datasets_tools  [github](https://github.com/sminchisescu-research/imar_vision_datasets_tools)
 ##### •RICH: Real scenes, Interaction, Contacts and Humans [github](https://github.com/paulchhuang/rich_toolkit)
 ##### •Cloth3d [github](https://github.com/hbertiche/CLOTH3D)
+##### •DDH-QA  [arxiv](https://arxiv.org/pdf/2212.12734v1.pdf)
 ### method
 ##### •NeuralAnnot: Neural Annotator for 3D Human Mesh Training Sets  [paper](https://arxiv.org/pdf/2011.11232.pdf)
 
