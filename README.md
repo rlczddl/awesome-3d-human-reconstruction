@@ -13,7 +13,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
     - [3D human hand](#3D_human_hand)
     - [3d hair](#3d_hair)
     - [3d teeth](#3d_teeth)
-    - [3d teeth](#3d_eyelids)
+    - [3d eyelids](#3d_eyelids)
  - [related papers](#related)
    - [human mattting](#human_mattting)
    - [pose estimation](#pose_estimation)
@@ -132,7 +132,11 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### •PointAvatar: Deformable Point-based Head Avatars from Videos  [homepage](https://zhengyuf.github.io/pointavatar/)
 ##### •TotalSelfScan: Learning Full-body Avatars from Self-Portrait Videos of Faces, Hands, and Bodies  [project](https://zju3dv.github.io/TotalSelfScan/)
 ##### •InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds  [homepage](https://tijiang13.github.io/InstantAvatar/#)
-
+##### •HumanGen: Generating Human Radiance Fields with Explicit Priors [paper](https://arxiv.org/pdf/2212.05321v1.pdf)
+##### • GazeNeRF: 3D-Aware Gaze Redirection with Neural Radiance Fields  [paper](https://www.arxivdaily.com/thread/35452)
+##### • Pixel2ISDF: Implicit Signed Distance Fields based Human Body Model from Multi-view and Multi-pose Images  [paper](https://arxiv.org/pdf/2212.02765v1.pdf)
+##### • Learning Neural Parametric Head Models  [homepage](https://simongiebenhain.github.io/NPHM/)
+##### • RANA: Relightable Articulated Neural Avatars  [paper](https://arxiv.org/pdf/2212.03237v1.pdf)
 
 ### geo_fusion
 ##### • DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor  [paper](https://arxiv.org/abs/1804.06023)
@@ -382,6 +386,9 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### •Advanced Baseline for 3D Human Pose Estimation: A Two-Stage Approach  [paper](https://arxiv.org/pdf/2212.11344v1.pdf)
 ##### •GFPose: Learning 3D Human Pose Prior with Gradient Fields  [paper](https://arxiv.org/pdf/2212.08641v1.pdf)
 ##### •HUM3DIL: Semi-supervised Multi-modal 3D Human Pose Estimation for Autonomous Driving  [paper](https://arxiv.org/pdf/2212.07729v1.pdf)
+##### •TOWARDS SINGLE CAMERA HUMAN 3D-KINEMATICS  [paper](https://arxiv.org/pdf/2301.05435v1.pdf)
+##### •Markerless Body Motion Capturing for 3D Character Animation based on Multi-view Cameras  [paper](https://arxiv.org/pdf/2212.05788v1.pdf)
+##### •DiffuPose: Monocular 3D Human Pose Estimation via Denoising Diffusion Probabilistic Model  [paper](https://arxiv.org/pdf/2212.02796v1.pdf)
 
 ### registration
 ##### • LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration  [paper](https://virtualhumans.mpi-inf.mpg.de/papers/bhatnagar2020loopreg/bhatnagar2020loopreg.pdf)  [code](https://github.com/bharat-b7/LoopReg)
@@ -461,6 +468,8 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### • Skeleton-free Pose Transfer for Stylized 3D Character  [paper](https://www.arxiv-vanity.com/papers/2208.00790/?continueFlag=acd9680585ca1db48ed3cbc277e4da97)
 ##### • Learning Continuous Mesh Representation with Spherical Implicit Surface  [paper](https://arxiv.org/pdf/2301.04695v1.pdf)
 ##### • Scene Synthesis from Human Motion  [paper](https://arxiv.org/pdf/2301.01424v1.pdf)
+##### • Ego-Body Pose Estimation via Ego-Head Pose Estimation  [paper](https://arxiv.org/pdf/2212.04636v1.pdf)
+##### • Physically Plausible Animation of Human Upper Body from a Single Image  [paper](https://arxiv.org/pdf/2212.04741v1.pdf)
 
 ## parametric model
 ### body
