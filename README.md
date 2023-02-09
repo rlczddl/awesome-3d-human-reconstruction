@@ -137,6 +137,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### • Pixel2ISDF: Implicit Signed Distance Fields based Human Body Model from Multi-view and Multi-pose Images  [paper](https://arxiv.org/pdf/2212.02765v1.pdf)
 ##### • Learning Neural Parametric Head Models  [homepage](https://simongiebenhain.github.io/NPHM/)
 ##### • RANA: Relightable Articulated Neural Avatars  [paper](https://arxiv.org/pdf/2212.03237v1.pdf)
+##### •NerfCap: Human Performance Capture With Dynamic Neural Radiance Fields  [paper](https://arxiv.org/abs/2208.10738)  [code](https://github.com/marcopesavento/Super-resolution-3D-Human-Shape-from-a-Single-Low-Resolution-Image)
 
 ### geo_fusion
 ##### • DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor  [paper](https://arxiv.org/abs/1804.06023)
