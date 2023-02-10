@@ -137,6 +137,8 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### • Pixel2ISDF: Implicit Signed Distance Fields based Human Body Model from Multi-view and Multi-pose Images  [paper](https://arxiv.org/pdf/2212.02765v1.pdf)
 ##### • Learning Neural Parametric Head Models  [homepage](https://simongiebenhain.github.io/NPHM/)
 ##### • RANA: Relightable Articulated Neural Avatars  [paper](https://arxiv.org/pdf/2212.03237v1.pdf)
+##### • One-shot Implicit Animatable Avatars with Model-based Priors   [paper](https://arxiv.org/pdf/2212.02469v1.pdf)
+##### • Super-resolution 3D Human Shape from a Single Low-Resolution Image  [paper](https://marcopesavento.github.io/SuRS/eccv22_main.pdf)  [code](https://github.com/marcopesavento/Super-resolution-3D-Human-Shape-from-a-Single-Low-Resolution-Image)
 
 ### geo_fusion
 ##### • DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor  [paper](https://arxiv.org/abs/1804.06023)
@@ -146,6 +148,8 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 
 ### photo
 ##### • Portrait Reconstruction and Relighting using the Sun as a Light Stage  [homepage](https://grail.cs.washington.edu/projects/sunstage/)
+##### • Reconstructing Hand-Held Objects from Monocular Video  [paper](https://arxiv.org/pdf/2211.16835v1.pdf)
+##### • In-Hand 3D Object Scanning from an RGB Sequence  [paper](https://arxiv.org/pdf/2211.16193v1.pdf)
 
 ### 3D_human_whole_body
 ##### • Monocular Expressive Body Regression through Body-Driven Attention  [paper](https://arxiv.org/abs/2008.09062)  [code](https://github.com/vchoutas/expose)
@@ -250,6 +254,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### • Parametric Model Estimation for 3D Clothed Humans from Point Clouds  [paper](http://www.cad.zju.edu.cn/home/gfzhang/papers/ISMAR2021_3DClothedHumans/3DClothedHumans.pdf) [code](https://github.com/wangkangkan/3DClothedHumans)
 ##### • Scene-Aware 3D Multi-Human Motion Capture from a Single Camera  [paper](https://arxiv.org/pdf/2301.05175v1.pdf)  [code](https://github.com/dluvizon/scene-aware-3d-multi-human)
 ##### • NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action [homepage](https://sites.google.com/view/nemo-neural-motion-field?pli=1)
+##### • IKOL: Inverse kinematics optimization layer for 3D human pose and shape estimation via Gauss-Newton differentiation  [paper](https://arxiv.org/pdf/2302.01058.pdf)  [code](https://github.com/Juzezhang/IKOL)
 
 ### 3d_human_face
 ##### • High-Fidelity 3D Digital Human Creation from RGB-D Selfies  [paper](https://arxiv.org/pdf/2010.05562.pdf)  [code](https://github.com/tencent-ailab/hifi3dface)
@@ -389,6 +394,9 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### •TOWARDS SINGLE CAMERA HUMAN 3D-KINEMATICS  [paper](https://arxiv.org/pdf/2301.05435v1.pdf)
 ##### •Markerless Body Motion Capturing for 3D Character Animation based on Multi-view Cameras  [paper](https://arxiv.org/pdf/2212.05788v1.pdf)
 ##### •DiffuPose: Monocular 3D Human Pose Estimation via Denoising Diffusion Probabilistic Model  [paper](https://arxiv.org/pdf/2212.02796v1.pdf)
+##### •2D Human Pose Estimation with Explicit Anatomical Keypoints Structure Constraints  [paper](https://arxiv.org/pdf/2212.02163v1.pdf)
+##### •Weakly Supervised 3D Multi-person Pose Estimation for Large-scale Scenes based on Monocular Camera and Single LiDAR  [paper](https://arxiv.org/pdf/2211.16951v1.pdf)
+##### •Kinematic-aware Hierarchical Attention Network for Human Pose Estimation in Videos  [paper](https://github.com/KyungMinJin/HANet)  [code](https://github.com/KyungMinJin/HANet)
 
 ### registration
 ##### • LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration  [paper](https://virtualhumans.mpi-inf.mpg.de/papers/bhatnagar2020loopreg/bhatnagar2020loopreg.pdf)  [code](https://github.com/bharat-b7/LoopReg)
@@ -423,6 +431,9 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ### skin
 ##### • HeterSkinNet: A Heterogeneous Network for Skin Weights Prediction  [paper](https://arxiv.org/pdf/2103.10602.pdf)
 ##### • SNARF: Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes  [paper](https://arxiv.org/pdf/2104.03953.pdf)
+
+### lighting
+##### • Relighting Humans in the Wild: Monocular Full-Body Human Relighting with Domain Adaptation  [code](https://github.com/majita06/Relighting_in_the_Wild)
 
 ### uncategorized
 ##### • Fully Convolutional Graph Neural Networks for Parametric Virtual Try-On  [paper](https://arxiv.org/pdf/2009.04592.pdf)
@@ -527,12 +538,13 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### •ZJU-MoCap  [homepage](https://chingswy.github.io/Dataset-Demo/)
 ##### •SmartPortraits: Depth Powered Handheld Smartphone Dataset of Human Portraits for State Estimation, Reconstruction and Synthesis  [paper](https://arxiv.org/pdf/2204.10211v1.pdf)
 ##### •MVP-Human Dataset for 3D Human Avatar Reconstruction from Unconstrained Frames  [paper](https://arxiv.org/pdf/2204.11184v1.pdf)
-##### •HuMMan: Multi-Modal 4D Human Dataset for Versatile Sensing and Modeling  [paper](https://arxiv.org/pdf/2204.13686v1.pdf)
+##### •HuMMan: Multi-Modal 4D Human Dataset for Versatile Sensing and Modeling  [paper](https://arxiv.org/pdf/2204.13686v1.pdf) [github](https://github.com/caizhongang/humman_toolbox)
 ##### •3DMPB-dataset  [github](https://github.com/boycehbz/3DMPB-dataset)
 ##### •imar_vision_datasets_tools  [github](https://github.com/sminchisescu-research/imar_vision_datasets_tools)
 ##### •RICH: Real scenes, Interaction, Contacts and Humans [github](https://github.com/paulchhuang/rich_toolkit)
 ##### •Cloth3d [github](https://github.com/hbertiche/CLOTH3D)
 ##### •DDH-QA  [arxiv](https://arxiv.org/pdf/2212.12734v1.pdf)
+##### •H3WB: Human3.6M 3D WholeBody Dataset and Benchmark  [github](https://github.com/wholebody3d/wholebody3d)
 ### method
 ##### •NeuralAnnot: Neural Annotator for 3D Human Mesh Training Sets  [paper](https://arxiv.org/pdf/2011.11232.pdf)
 
