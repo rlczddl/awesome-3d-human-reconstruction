@@ -139,6 +139,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### • RANA: Relightable Articulated Neural Avatars  [paper](https://arxiv.org/pdf/2212.03237v1.pdf)
 ##### • One-shot Implicit Animatable Avatars with Model-based Priors   [paper](https://arxiv.org/pdf/2212.02469v1.pdf)
 ##### • Super-resolution 3D Human Shape from a Single Low-Resolution Image  [paper](https://marcopesavento.github.io/SuRS/eccv22_main.pdf)  [code](https://github.com/marcopesavento/Super-resolution-3D-Human-Shape-from-a-Single-Low-Resolution-Image)
+##### • Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition  [paper](https://ait.ethz.ch/projects/2023/vid2avatar/downloads/main.pdf)
 
 ### geo_fusion
 ##### • DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor  [paper](https://arxiv.org/abs/1804.06023)
@@ -164,6 +165,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### • PIANO: A Parametric Hand Bone Model from Magnetic Resonance Imaging  [github](https://github.com/reyuwei/PIANO_model)
 ##### • GOAL: Generating 4D Whole-Body Motion for Hand-Object Grasping  [paper](https://arxiv.org/pdf/2112.11454.pdf)  [code](https://github.com/otaheri/GOAL)
 ##### • PyMAF-X: Towards Well-aligned Full-body Model Regression from Monocular Images  [paper](https://arxiv.org/pdf/2207.06400v1.pdf)
+##### • Generating Holistic 3D Human Motion from Speech  [project](https://talkshow.is.tue.mpg.de/)
 
 ### 3D_human_body
 ##### • Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose  [paper](https://arxiv.org/abs/2008.09047)  [code](https://github.com/hongsukchoi/Pose2Mesh_RELEASE)
@@ -322,9 +324,13 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 
 ### 3d_teeth
 ##### • Model-based teeth reconstruction  [paper](https://vcai.mpi-inf.mpg.de/projects/MZ/Papers/SGASIA2016_TR/page.html)
+##### • An Implicit Parametric Morphable Dental Model  [project](https://vcai.mpi-inf.mpg.de/projects/DMM/)
 
 ### 3d_eyelids
 ##### • Real-time 3D Eyelids Tracking from Semantic Edges  [paper](http://xufeng.site/publications/2017/2017_Real-time%203D%20Eyelids%20Tracking%20from%20Semantic%20Edges-min.pdf)
+
+### 3d foot
+##### • FIND: An Unsupervised Implicit 3D Model of Articulated Human Feet [project](https://ollieboyne.github.io/FIND/)
 
 ## related
 ### human_mattting
@@ -545,6 +551,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### •Cloth3d [github](https://github.com/hbertiche/CLOTH3D)
 ##### •DDH-QA  [arxiv](https://arxiv.org/pdf/2212.12734v1.pdf)
 ##### •H3WB: Human3.6M 3D WholeBody Dataset and Benchmark  [github](https://github.com/wholebody3d/wholebody3d)
+##### •LightStage  [homepage](https://chingswy.github.io/Dataset-Demo/)
 ### method
 ##### •NeuralAnnot: Neural Annotator for 3D Human Mesh Training Sets  [paper](https://arxiv.org/pdf/2011.11232.pdf)
 
