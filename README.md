@@ -22,7 +22,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
    - [application](#application)
    - [texture](#texture)
    - [skin](#skin)
-   - [talking head] (#talking_head)
+   - [talking head](#talking_head)
    - [uncategorized](#uncategorized)
  - [parametric model](#parametric-model)
    - [body](#body)
