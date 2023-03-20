@@ -22,6 +22,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
    - [application](#application)
    - [texture](#texture)
    - [skin](#skin)
+   - [talking head] (#talking_head)
    - [uncategorized](#uncategorized)
  - [parametric model](#parametric-model)
    - [body](#body)
@@ -317,10 +318,11 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### • 3D Interacting Hand Pose Estimation by Hand De-occlusion and Removal  [code](https://github.com/MengHao666/HDR)
 
 ### 3d_hair
-##### • NeuralHDHair: Automatic High-fidelity Hair Modeling from a Single Image Using Implicit Neural Representations  [paper](https://arxiv.org/pdf/2205.04175v1.pdf)
+##### • NeuralHDHair: Automatic High-fidelity Hair Modeling from a Single Image Using Implicit Neural Representations  [paper](https://arxiv.org/pdf/2205.04175v1.pdf)  [code](https://github.com/KeyuWu-CS/NeuralHDHair)
 ##### •3D hair synthesis using volumetric variational autoencoders
 ##### •AO-CNN: filament-aware hair reconstruction based on volumetric vector fields
 ##### •Neural Strands: Learning Hair Geometry and Appearance from Multi-View Images  [paper](https://arxiv.org/abs/2207.14067)
+##### •HairStep: Transfer Synthetic to Real Using Strand and Depth Maps for Single-View 3D Hair Modeling  [paper](https://arxiv.org/pdf/2303.02700.pdf)
 
 ### 3d_teeth
 ##### • Model-based teeth reconstruction  [paper](https://vcai.mpi-inf.mpg.de/projects/MZ/Papers/SGASIA2016_TR/page.html)
@@ -403,6 +405,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### •2D Human Pose Estimation with Explicit Anatomical Keypoints Structure Constraints  [paper](https://arxiv.org/pdf/2212.02163v1.pdf)
 ##### •Weakly Supervised 3D Multi-person Pose Estimation for Large-scale Scenes based on Monocular Camera and Single LiDAR  [paper](https://arxiv.org/pdf/2211.16951v1.pdf)
 ##### •Kinematic-aware Hierarchical Attention Network for Human Pose Estimation in Videos  [paper](https://github.com/KyungMinJin/HANet)  [code](https://github.com/KyungMinJin/HANet)
+##### •Proactive Multi-Camera Collaboration for 3D Human Pose Estimation  [homepage](https://sites.google.com/view/active3dpose)
 
 ### registration
 ##### • LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration  [paper](https://virtualhumans.mpi-inf.mpg.de/papers/bhatnagar2020loopreg/bhatnagar2020loopreg.pdf)  [code](https://github.com/bharat-b7/LoopReg)
@@ -433,6 +436,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### • Spatiotemporal Texture Reconstruction for Dynamic Objects Using a Single RGB-D Camera  [paper](https://arxiv.org/pdf/2108.09007v1.pdf)
 ##### • Semi-supervised Synthesis of High-Resolution Editable Textures for 3D Humans  [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chaudhuri_Semi-Supervised_Synthesis_of_High-Resolution_Editable_Textures_for_3D_Humans_CVPR_2021_paper.pdf)
 ##### • StylePeople: A Generative Model of Fullbody Human Avatars  [paper](https://arxiv.org/pdf/2104.08363.pdf)  [code](https://github.com/saic-vul/style-people)
+##### • Refining 3D Human Texture Estimation from a Single Image  [paper](https://arxiv.org/pdf/2303.03471v1.pdf)
 
 ### skin
 ##### • HeterSkinNet: A Heterogeneous Network for Skin Weights Prediction  [paper](https://arxiv.org/pdf/2103.10602.pdf)
@@ -440,6 +444,9 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 
 ### lighting
 ##### • Relighting Humans in the Wild: Monocular Full-Body Human Relighting with Domain Adaptation  [code](https://github.com/majita06/Relighting_in_the_Wild)
+
+### talking_head
+##### • DisCoHead: Audio-and-Video-Driven Talking Head Generation by Disentangled Control of Head Pose and Facial Expressions  [code](https://github.com/deepbrainai-research/discohead)
 
 ### uncategorized
 ##### • Fully Convolutional Graph Neural Networks for Parametric Virtual Try-On  [paper](https://arxiv.org/pdf/2009.04592.pdf)
