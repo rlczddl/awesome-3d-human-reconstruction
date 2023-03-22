@@ -11,6 +11,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
     - [3d human face](#3d_human_face)
     - [3d human head](#3d_human_head)
     - [3D human hand](#3D_human_hand)
+    - [3d cloth](#3d_cloth)
     - [3d hair](#3d_hair)
     - [3d teeth](#3d_teeth)
     - [3d eyelids](#3d_eyelids)
@@ -141,6 +142,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### • One-shot Implicit Animatable Avatars with Model-based Priors   [paper](https://arxiv.org/pdf/2212.02469v1.pdf)
 ##### • Super-resolution 3D Human Shape from a Single Low-Resolution Image  [paper](https://marcopesavento.github.io/SuRS/eccv22_main.pdf)  [code](https://github.com/marcopesavento/Super-resolution-3D-Human-Shape-from-a-Single-Low-Resolution-Image)
 ##### • Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition  [paper](https://ait.ethz.ch/projects/2023/vid2avatar/downloads/main.pdf)
+##### • X-Avatar: Expressive Human Avatars  [github](https://github.com/Skype-line/X-Avatar)
 
 ### geo_fusion
 ##### • DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor  [paper](https://arxiv.org/abs/1804.06023)
@@ -316,6 +318,9 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### • End-to-End 3D Hand Pose Estimation from Stereo Cameras  [paper](https://arxiv.org/pdf/2206.01384v1.pdf)
 ##### • Efficient Annotation and Learning for 3DHand Pose Estimation: A Survey  [paper](https://arxiv.org/pdf/2206.02257v1.pdf)
 ##### • 3D Interacting Hand Pose Estimation by Hand De-occlusion and Removal  [code](https://github.com/MengHao666/HDR)
+
+### 3d_cloth
+##### • REC-MV: REconstructing 3D Dynamic Cloth from Monucular Videos  [github](https://github.com/GAP-LAB-CUHK-SZ/REC-MV)
 
 ### 3d_hair
 ##### • NeuralHDHair: Automatic High-fidelity Hair Modeling from a Single Image Using Implicit Neural Representations  [paper](https://arxiv.org/pdf/2205.04175v1.pdf)  [code](https://github.com/KeyuWu-CS/NeuralHDHair)
@@ -504,6 +509,9 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### • Basel Face Model 2009  [website](http://faces.cs.unibas.ch/bfm/?nav=1-0&id=basel_face_model)
 ##### • Basel Face Model 2017  [website](http://faces.cs.unibas.ch/bfm/bfm2017.html)
 ##### • Large Scale 3D Morphable Model  [website](https://xip.uclb.com/i/healthcare_tools/LSFM.html)
+##### • A Morphable Face Albedo Model  [github](https://github.com/waps101/AlbedoMM)
+##### • Learning a 3D Morphable Face Reflectance Model from Low-cost Data  [paper](https://arxiv.org/pdf/2303.11686.pdf)  [code](https://github.com/yxuhan/ReflectanceMM)
+
 ### head
 ##### • FLAME: Articulated Expressive Head Model  [website](http://flame.is.tue.mpg.de/)
 ### hand
