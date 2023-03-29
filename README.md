@@ -46,6 +46,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
  
 ## 3d human
 ### nerf_or_pifu
+##### • Learning Neural Volumetric Representations of Dynamic Humans in Minutes  [paper&code](https://zju3dv.github.io/instant_nvr/) 
 ##### • StereoPIFu: Depth Aware Clothed Human Digitization via Stereo Vision  [paper](https://arxiv.org/pdf/2104.05289.pdf)
 ##### • Learning Implicit 3D Representations of Dressed Humans from Sparse Views  [paper](https://arxiv.org/pdf/2104.08013v1.pdf)
 ##### • Animatable Neural Radiance Fields for Human Body Modeling  [paper](https://arxiv.org/pdf/2105.02872.pdf)
