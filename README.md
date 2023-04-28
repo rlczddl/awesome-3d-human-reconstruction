@@ -45,6 +45,9 @@ A curated list of related resources for 3d human reconstruction. Your contributi
  
  
 ## 3d human
+### AIGC
+Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion  [paper](https://arxiv.org/abs/2212.06135)
+
 ### nerf_or_pifu
 ##### • StereoPIFu: Depth Aware Clothed Human Digitization via Stereo Vision  [paper](https://arxiv.org/pdf/2104.05289.pdf)
 ##### • Learning Implicit 3D Representations of Dressed Humans from Sparse Views  [paper](https://arxiv.org/pdf/2104.08013v1.pdf)
@@ -143,6 +146,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### • Super-resolution 3D Human Shape from a Single Low-Resolution Image  [paper](https://marcopesavento.github.io/SuRS/eccv22_main.pdf)  [code](https://github.com/marcopesavento/Super-resolution-3D-Human-Shape-from-a-Single-Low-Resolution-Image)
 ##### • Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition  [paper](https://ait.ethz.ch/projects/2023/vid2avatar/downloads/main.pdf)
 ##### • X-Avatar: Expressive Human Avatars  [github](https://github.com/Skype-line/X-Avatar)
+##### • Learning Neural Volumetric Representations of Dynamic Humans in Minutes  [paper&code](https://zju3dv.github.io/instant_nvr/) 
 
 ### geo_fusion
 ##### • DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor  [paper](https://arxiv.org/abs/1804.06023)
@@ -169,6 +173,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### • GOAL: Generating 4D Whole-Body Motion for Hand-Object Grasping  [paper](https://arxiv.org/pdf/2112.11454.pdf)  [code](https://github.com/otaheri/GOAL)
 ##### • PyMAF-X: Towards Well-aligned Full-body Model Regression from Monocular Images  [paper](https://arxiv.org/pdf/2207.06400v1.pdf)
 ##### • Generating Holistic 3D Human Motion from Speech  [project](https://talkshow.is.tue.mpg.de/)
+##### • One-Stage 3D Whole-Body Mesh Recovery with Component Aware Transformer [project](https://osx-ubody.github.io/)
 
 ### 3D_human_body
 ##### • Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose  [paper](https://arxiv.org/abs/2008.09047)  [code](https://github.com/hongsukchoi/Pose2Mesh_RELEASE)
@@ -327,7 +332,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### •3D hair synthesis using volumetric variational autoencoders
 ##### •AO-CNN: filament-aware hair reconstruction based on volumetric vector fields
 ##### •Neural Strands: Learning Hair Geometry and Appearance from Multi-View Images  [paper](https://arxiv.org/abs/2207.14067)
-##### •HairStep: Transfer Synthetic to Real Using Strand and Depth Maps for Single-View 3D Hair Modeling  [paper](https://arxiv.org/pdf/2303.02700.pdf)
+##### •HairStep: Transfer Synthetic to Real Using Strand and Depth Maps for Single-View 3D Hair Modeling  [paper](https://arxiv.org/pdf/2303.02700.pdf)  [code](https://github.com/GAP-LAB-CUHK-SZ/HairStep)
 
 ### 3d_teeth
 ##### • Model-based teeth reconstruction  [paper](https://vcai.mpi-inf.mpg.de/projects/MZ/Papers/SGASIA2016_TR/page.html)
@@ -452,6 +457,8 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 
 ### talking_head
 ##### • DisCoHead: Audio-and-Video-Driven Talking Head Generation by Disentangled Control of Head Pose and Facial Expressions  [code](https://github.com/deepbrainai-research/discohead)
+##### • Imitator: Personalized Speech-driven 3D Facial Animation  [homepage](https://zielon.github.io/insta/)
+##### • EmoTalk: Speech-driven emotional disentanglement for 3D face animation  [homepage](https://ziqiaopeng.github.io/emotalk/)
 
 ### uncategorized
 ##### • Fully Convolutional Graph Neural Networks for Parametric Virtual Try-On  [paper](https://arxiv.org/pdf/2009.04592.pdf)
@@ -577,6 +584,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### • Delving into High-Quality Synthetic Face Occlusion Segmentation Datasets  [paper](https://arxiv.org/pdf/2205.06218v1.pdf)
 ##### • 3A-GAN: Facial Flow for Face Animation with Generative Adversarial Networks  [paper](https://arxiv.org/pdf/2205.06204v1.pdf)
 ##### • Scanned Objects by Google Research  [website](https://ai.googleblog.com/2022/06/scanned-objects-by-google-research.html?continueFlag=69eb10990d1859f21dd21d22d96e2b22)
+##### • EasyPortrait - Face Parsing and Portrait Segmentation Dataset  [github](https://anonymous.4open.science/r/anonymous-dataset-pep8/README.md)
 
 ## labs
 ##### • max planck institute  [website](https://ps.is.tuebingen.mpg.de/publications)
@@ -596,6 +604,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### • awesome_talking_face_generation  [github](https://github.com/YunjinPark/awesome_talking_face_generation)
 ##### • CG&3DV Twitter  [github](https://github.com/USTC3DV/Truck_of_Twitter_Messages)
 ##### • FLAME-Universe [github](https://github.com/TimoBolkart/FLAME-Universe)
+##### • human-motion-capture  [github](https://github.com/visonpon/human-motion-capture)
 
 ## survey
 ##### • Recovering 3D Human Mesh from Monocular Images: A Survey  [paper](https://arxiv.org/pdf/2203.01923v1.pdf)  [github](https://github.com/tinatiansjz/hmr-survey)
