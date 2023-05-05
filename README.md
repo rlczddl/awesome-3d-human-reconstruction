@@ -47,9 +47,9 @@ A curated list of related resources for 3d human reconstruction. Your contributi
  
 ## 3d human
 ### AIGC
-Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion  [paper](https://arxiv.org/abs/2212.06135)
-DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance  [paper](https://arxiv.org/abs/2304.03117)
-High-fidelity 3D Face Generation from Natural Language Descriptions
+##### • Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion  [paper](https://arxiv.org/abs/2212.06135)
+##### • DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance  [paper](https://arxiv.org/abs/2304.03117)
+##### • High-fidelity 3D Face Generation from Natural Language Descriptions
 
 ### nerf_or_pifu
 ##### • StereoPIFu: Depth Aware Clothed Human Digitization via Stereo Vision  [paper](https://arxiv.org/pdf/2104.05289.pdf)
