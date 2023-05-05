@@ -3,6 +3,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 
 ## Contents
  - [papers](#3d-human)
+    - [AIGC](#AIGC)
     - [nerf or pifu](#nerf_or_pifu)
     - [geo fusion](#geo_fusion)
     - [photo](#photo)
@@ -47,6 +48,8 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ## 3d human
 ### AIGC
 Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion  [paper](https://arxiv.org/abs/2212.06135)
+DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance  [paper](https://arxiv.org/abs/2304.03117)
+High-fidelity 3D Face Generation from Natural Language Descriptions
 
 ### nerf_or_pifu
 ##### • StereoPIFu: Depth Aware Clothed Human Digitization via Stereo Vision  [paper](https://arxiv.org/pdf/2104.05289.pdf)
@@ -147,6 +150,7 @@ Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion  [pap
 ##### • Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition  [paper](https://ait.ethz.ch/projects/2023/vid2avatar/downloads/main.pdf)
 ##### • X-Avatar: Expressive Human Avatars  [github](https://github.com/Skype-line/X-Avatar)
 ##### • Learning Neural Volumetric Representations of Dynamic Humans in Minutes  [paper&code](https://zju3dv.github.io/instant_nvr/) 
+##### • NeRSemble: Multi-view Radiance Field Reconstruction of Human Heads  [paper](https://arxiv.org/abs/2305.03027)
 
 ### geo_fusion
 ##### • DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor  [paper](https://arxiv.org/abs/1804.06023)
@@ -286,6 +290,7 @@ Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion  [pap
 ##### • F3D face reconstruction with dense landmarks  [paper](https://arxiv.org/pdf/2204.02776v1.pdf)
 ##### • EMOCA: Emotion Driven Monocular Face Capture and Animation  [paper](https://arxiv.org/pdf/2204.11312v1.pdf)
 ##### • Single-Image 3D Face Reconstruction under Perspective Projection  [paper](https://arxiv.org/pdf/2205.04126v1.pdf)
+##### • AVFace: Towards Detailed Audio-Visual 4D Face Reconstruction  [paper](https://arxiv.org/pdf/2304.13115v1.pdf)
 
 ### 3d_human_head
 ##### • DECA: Detailed Expression Capture and Animation  [paper](https://arxiv.org/pdf/2012.04012.pdf) [code](https://github.com/YadiraF/DECA?utm_source=catalyzex.com)
