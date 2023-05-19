@@ -293,6 +293,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### • AVFace: Towards Detailed Audio-Visual 4D Face Reconstruction  [paper](https://arxiv.org/pdf/2304.13115v1.pdf)
 
 ### 3d_human_head
+##### • Auto-Card: Auto-CARD: Efficient and Robust Codec Avatar Driving for Real-time Mobile Telepresence  [paper](https://arxiv.org/abs/2304.11835)
 ##### • DECA: Detailed Expression Capture and Animation  [paper](https://arxiv.org/pdf/2012.04012.pdf) [code](https://github.com/YadiraF/DECA?utm_source=catalyzex.com)
 ##### • Pixel Codec Avatars  [paper](https://arxiv.org/pdf/2104.04638.pdf)
 ##### • H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction  [paper](https://arxiv.org/pdf/2107.12512v1.pdf)
