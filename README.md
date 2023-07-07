@@ -580,6 +580,9 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### •DDH-QA  [arxiv](https://arxiv.org/pdf/2212.12734v1.pdf)
 ##### •H3WB: Human3.6M 3D WholeBody Dataset and Benchmark  [github](https://github.com/wholebody3d/wholebody3d)
 ##### •LightStage  [homepage](https://chingswy.github.io/Dataset-Demo/)
+### whole body
+##### •Motion-X  [homepage](https://motion-x-dataset.github.io/)
+
 ### method
 ##### •NeuralAnnot: Neural Annotator for 3D Human Mesh Training Sets  [paper](https://arxiv.org/pdf/2011.11232.pdf)
 
