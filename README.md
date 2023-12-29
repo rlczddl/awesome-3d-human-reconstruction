@@ -50,6 +50,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### • Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion  [paper](https://arxiv.org/abs/2212.06135)
 ##### • DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance  [paper](https://arxiv.org/abs/2304.03117)
 ##### • High-fidelity 3D Face Generation from Natural Language Descriptions
+##### • Make-A-Character: High Quality Text-to-3D Character Generation within Minutes [code](https://github.com/Human3DAIGC/Make-A-Character)
 
 ### nerf_or_pifu
 ##### • StereoPIFu: Depth Aware Clothed Human Digitization via Stereo Vision  [paper](https://arxiv.org/pdf/2104.05289.pdf)
@@ -339,6 +340,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### •AO-CNN: filament-aware hair reconstruction based on volumetric vector fields
 ##### •Neural Strands: Learning Hair Geometry and Appearance from Multi-View Images  [paper](https://arxiv.org/abs/2207.14067)
 ##### •HairStep: Transfer Synthetic to Real Using Strand and Depth Maps for Single-View 3D Hair Modeling  [paper](https://arxiv.org/pdf/2303.02700.pdf)  [code](https://github.com/GAP-LAB-CUHK-SZ/HairStep)
+##### • MonoHair: High-Fidelity Hair Modeling from a Monocular Video [code]https://github.com/KeyuWu-CS/MonoHair
 
 ### 3d_teeth
 ##### • Model-based teeth reconstruction  [paper](https://vcai.mpi-inf.mpg.de/projects/MZ/Papers/SGASIA2016_TR/page.html)
@@ -582,7 +584,8 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### •LightStage  [homepage](https://chingswy.github.io/Dataset-Demo/)
 ### whole body
 ##### •Motion-X  [homepage](https://motion-x-dataset.github.io/)
-
+### foot
+##### •FIND: An Unsupervised Implicit 3D Model of Articulated Human Feet [github](https://github.com/OllieBoyne/Foot3D)
 ### method
 ##### •NeuralAnnot: Neural Annotator for 3D Human Mesh Training Sets  [paper](https://arxiv.org/pdf/2011.11232.pdf)
 
