@@ -305,6 +305,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### •Authentic Volumetric Avatars from a Phone Scan  [paper](https://drive.google.com/file/d/1i4NJKAggS82wqMamCJ1OHRGgViuyoY6R/view)
 ##### •Neural Head Avatars from Monocular RGB Videos  [homepage](https://philgras.github.io/neural_head_avatars/neural_head_avatars.html)
 ##### •Towards Metrical Reconstruction of Human Faces  [homepage](https://zielon.github.io/mica/)
+##### •High-Quality Facial Geometry and Appearance Capture at Home [code](https://github.com/yxuhan/CoRA)
 
 ### 3D_human_hand
 ##### • Active Learning for Bayesian 3D Hand Pose Estimation  [paper](https://arxiv.org/pdf/2010.00694.pdf)  [code](https://github.com/razvancaramalau/al_bhpe)
