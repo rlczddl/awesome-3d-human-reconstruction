@@ -4,7 +4,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ## Contents
  - [papers](#3d-human)
     - [AIGC](#AIGC)
-    - [nerf or pifu](#nerf_or_pifu)
+    - [nerf pifu_3dgs](#nerf_pifu_3dgs)
     - [geo fusion](#geo_fusion)
     - [photo](#photo)
     - [3D human whole body](#3D_human_whole_body)
@@ -52,7 +52,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### • High-fidelity 3D Face Generation from Natural Language Descriptions
 ##### • Make-A-Character: High Quality Text-to-3D Character Generation within Minutes [code](https://github.com/Human3DAIGC/Make-A-Character)
 
-### nerf_or_pifu
+### nerf_pifu_3dgs
 ##### • StereoPIFu: Depth Aware Clothed Human Digitization via Stereo Vision  [paper](https://arxiv.org/pdf/2104.05289.pdf)
 ##### • Learning Implicit 3D Representations of Dressed Humans from Sparse Views  [paper](https://arxiv.org/pdf/2104.08013v1.pdf)
 ##### • Animatable Neural Radiance Fields for Human Body Modeling  [paper](https://arxiv.org/pdf/2105.02872.pdf)
@@ -152,6 +152,7 @@ A curated list of related resources for 3d human reconstruction. Your contributi
 ##### • X-Avatar: Expressive Human Avatars  [github](https://github.com/Skype-line/X-Avatar)
 ##### • Learning Neural Volumetric Representations of Dynamic Humans in Minutes  [paper&code](https://zju3dv.github.io/instant_nvr/) 
 ##### • NeRSemble: Multi-view Radiance Field Reconstruction of Human Heads  [paper](https://arxiv.org/abs/2305.03027)
+##### • PICA: Physics-Integrated Clothed Avatar [paper](https://arxiv.org/pdf/2407.05324)
 
 ### geo_fusion
 ##### • DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor  [paper](https://arxiv.org/abs/1804.06023)
